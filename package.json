@@ -7,7 +7,7 @@
     "asar": "^3.0.3",
     "electron-is-dev": "^1.2.0",
     "flickity": "^2.2.1",
-    "gsap": "^3.2.6",
+    "gsap": "^3.6.0",
     "node-sass": "^4.13.0",
     "p-iteration": "^1.1.8",
     "path": "^0.12.7",
