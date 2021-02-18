@@ -1,0 +1,2818 @@
+{
+    "contents":{
+        "en":{
+            "global":{
+                "selectDate": "Select a date to begin"
+            },
+            "menu":[
+                {
+                    "year":"1840s",
+                    "description": "The first batch of<br/>permanent British<br/>defense structures<br/>in Hong Kong",
+                    "category":1840
+                },
+                {
+                    "year":"1850s",
+                    "description": "Additional defences<br/>due to the Crimean<br/>War (1853-1856)<br/>with Russia",
+                    "category":1850
+                },
+                {
+                    "year":"1880-1890s",
+                    "description": "Defences counter<br/>the French or Russian<br/>military power in Asia",
+                    "category":1880
+                },
+                {
+                    "year":"1900s",
+                    "description": "Defences erected<br/>after the lease of<br/>New Territories",
+                    "category":1900
+                },
+                {
+                    "year":"1910s",
+                    "description": "Recommendation by the<br/>Owen Committee after<br/>a review of the defence<br/>layout of Hong Kong",
+                    "category":1910
+                },
+                {
+                    "year":"1930s-1941",
+                    "description": "Reorganization of<br/>defences against<br/>possible Japanese<br/>invasion in 1930s",
+                    "category":1930
+                }
+            ],
+            "batteries":[                
+                {
+                    "name":"Royal<br/>Battery",
+                    "year":1846,
+                    "startDateOfCategory":1840,
+                    "endDateOfCategory":1880,
+                    "position":{
+                        "x":48, 
+                        "y":45.5
+                    },
+                    "details":{
+                        "list": [
+                            ["Completion Date:", "1846"],
+                            ["Location:", "Murray Road, Admiralty (near Central Barracks and old Royal Naval Dockyard)"],
+                            ["Type:", "Coastal battery"],
+                            ["Number of<br/>Gun emplacement:", "unknown"],
+                            ["Armament:", ["1846-60 | Smoothbore 24-Pdr", "<span style='margin-left:20%'></span>| Smoothbore 32-Pdr"]],
+                            ["Decommission Date:", "1884"],
+                            ["Current Condition:", "Disappeared"],
+                            ["Present Use:", "Murray Road (near Chater Garden) "]
+                        ],
+                        "description": "The Royal Battery was one of the first British defence structures in <br/>Hong Kong. Designed by Major Edward Aldrich of the Royal Engineers, it was built to protect the anchorage and the town. Its construction was intended to be completed in 1846, but work was delayed owing to budget constraints. The site was converted into a public recreation ground in 1886.",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/02.jpg",
+                                    "description":"Former Royal Battery, now around Murray Road.",
+                                    "credit":null
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                },
+                {
+                    "name":"Murray<br/>Battery",
+                    "year":1845,
+                    "startDateOfCategory":1840,
+                    "endDateOfCategory":1900,
+                    "position":{
+                        "x":46.5, 
+                        "y":46.6
+                    },
+                    "details":{
+                        "list": [
+                            ["Completion Date:", "1845"],
+                            ["Location:", "Battery Path, Central"],
+                            ["Type:", "Coastal battery"],
+                            ["Number of<br/>Gun emplacement:", "9"],
+                            ["Armament:", ["1846 | 6 guns to 9 guns (type unknown)", "1854 | Smoothbore 24-Pdr x 6", "1854 | 10-inch Mortar x 3", "1894 | 64-Pdr RML Gun x 1"]],
+                            ["Decommission Date:", "Early 1900s"],
+                            ["Current Condition:", "Disappeared"],
+                            ["Present Use:", "West Wing of Former Central Government Offices (CGO)"]
+                        ],
+                        "description": "Named after Sir George Murray (1772-1846), Master General </br>of the Ordnance, Murray Battery was one of the first British defence structures in Hong Kong. Designed by Major Edward Aldrich of the </br>Royal Engineers, the battery served to protect the government headquarters and Victoria Harbour. The Murray Barracks was built in nearby area in the same period.<br/><br/>From 1882 onward, Murray Battery was used only for drills. It was abandoned in 1901 because of military relocation and the </br>development of batteries in other areas on Hong Kong Island. The battery site was transferred to the government in 1920. In the </br>1950s, the government built the new (now relocated to Tamar) </br>Central Government Offices (CGO) in its place.",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/01.jpg",
+                                    "description":"Former Murray Battery, now around the area of Former Central Government Offices.",
+                                    "credit":null
+                                }
+                            ],
+                            "video":""
+                        }
+                    }
+                },
+                {
+                    "name":"Wellington<br/>Battery",
+                    "year":1845,
+                    "startDateOfCategory":1840,
+                    "endDateOfCategory":1880,
+                    "position":{
+                        "x":50.5, 
+                        "y":47
+                    },
+                    "details":{
+                        "list": [
+                            ["Completion Date:", "1845"],
+                            ["Location:", "Near Hong Kong Police Headquarters, Wan Chai"],
+                            ["Type:", "Coastal battery"],
+                            ["Number of<br/>Gun emplacement:", "9"],
+                            ["Armament:", ["1845 | Smoothbore 24-Pdr x6", "<span style='margin-left:11.5%'></span> | Smoothbore 32-Pdr x9"]],
+                            ["Decommission Date:", "1887"],
+                            ["Current Condition:", "Disappeared"],
+                            ["Present Use:", "Hong Kong Police Headquarters"]
+                        ],
+                        "description": "Designed by Major Edward Aldrich of the Royal Engineers and named after Arthur Wellesley (1769-1852), the first Duke of Wellington, Wellington Battery was one of the first British defence structures in Hong Kong. It was constructed on the shore in front of a military hospital. All the guns were removed in 1875, and the site became a submarine mining barracks in 1887. The site is now used as </br> Hong Kong Police Headquarters.",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/03.jpg",
+                                    "description":"Former Wellington Battery, now Hong Kong Police Headquarters.",
+                                    "credit":null
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                },
+                {
+                    "name":"West Point<br/>Battery",
+                    "year":1850,
+                    "startDateOfCategory":1850,
+                    "endDateOfCategory":9999,
+                    "position":{
+                        "x":42.5, 
+                        "y":42.5
+                    },
+                    "details":{
+                        "list": [
+                            ["Completion Date:", "1850s"],
+                            ["Location:", "St. Louis School, Sai Ying Pun"],
+                            ["Type:", "Coastal battery"],
+                            ["Number of<br/>Gun emplacement:", "unknown"],
+                            ["Armament:", ["1854 | Smoothbore 32-Pdr x11", "<span style='margin-left:11.5%'></span> | 8-inch Howitzer x 2"]],
+                            ["Decommission Date:", "Unknown"],
+                            ["Current Condition:", "Disappeared"],
+                            ["Present Use:", "St. Louis School"]
+                        ],
+                        "description": "West Point Battery was built when Britain and Russia were at war in Crimea (1853–56), and was soon abandoned in 1855. The exact decommission date is unknown. However, its name is found in a survey in 1865.",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/04.jpg",
+                                    "description":"Former West Point Battery, now St. Louis School.",
+                                    "credit":null
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                },                
+                {
+                    "name":"Kellet Island<br/>Battery",
+                    "year":1854,
+                    "startDateOfCategory":1850,
+                    "endDateOfCategory":1860,
+                    "position":{
+                        "x":55, 
+                        "y":43
+                    },
+                    "details":{
+                        "list": [
+                            ["Completion Date:", "1854"],
+                            ["Location:", "East to the entrance of Cross Harbour Tunnel, Causeway Bay"],
+                            ["Type:", "Coastal battery"],
+                            ["Number of<br/>Gun emplacement:", "3"],
+                            ["Armament:", ["1854-60s | Smoothbore 32-Pdr x 3"]],
+                            ["Decommission Date:", "1860s"],
+                            ["Current Condition:", "Disappeared"],
+                            ["Present Use:", "Clubhouse of the Royal Hong Kong Yacht Club"]
+                        ],
+                        "description": "As part of the additional defences erected when Britain and Russia were at war in Crimea (1853–56), the battery was erected on Kellet Island to protect the harbour and assist the hospital ship Hercules, which was moored to protect the eastern entrance to the harbour.<br/><br/>The strategic position of Kellet Island became less important after Kowloon Peninsula was ceded to Britain in 1860. The battery site was subsequently used as naval magazines until 1938, when the Yacht Club was moved there. Kellet Island was connected to Causeway Bay following land reclamation in 1969.",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/05.jpg",
+                                    "description":"Former Kellet Island Battery, now Clubhouse of the Royal Hong Kong Yacht Club.",
+                                    "credit":""
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                },
+                {
+                    "name":"Possession Point<br/>Battery",
+                    "year":1854,
+                    "startDateOfCategory":1850,
+                    "endDateOfCategory":1860,
+                    "position":{
+                        "x":44.8, 
+                        "y":42.5
+                    },
+                    "details":{
+                        "list": [
+                            ["Completion Date:", "1854"],
+                            ["Location:", "Near Hollywood Road Park, Sheung Wan"],
+                            ["Type:", "Coastal battery"],
+                            ["Number of<br/>Gun emplacement:", "2"],
+                            ["Armament:", ["1854 | 8-inch Howitzer x 2"]],
+                            ["Decommission Date:", "Unknown"],
+                            ["Current Condition:", "Disappeared"],
+                            ["Present Use:", "Hollywood Road Park"]
+                        ],
+                        "description": "As part of the additional defences erected when Britain and Russia were at war in Crimea (1853–56), the battery was constructed at the water’s edge in Possession Point. The nearby Edgers Bungalow was rented for six months as a dormitory for the garrison stationed at the battery. The exact decommission date is unknown. However, its name is found in a survey in 1865.",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/06.jpg",
+                                    "description":"Former Possession Point Battery, now Hollywood Road Park.",
+                                    "credit":""
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                },
+                {
+                    "name":"Victoria<br/>Battery",
+                    "year":1890,
+                    "startDateOfCategory":1880,
+                    "endDateOfCategory":1900,
+                    "position":{
+                        "x":42, 
+                        "y":44.6
+                    },
+                    "details":{
+                        "list": [
+                            ["Completion Date:", "1890"],
+                            ["Location:", "University Lodge, No. 1 University Drive, Pokfulam"],
+                            ["Type:", "Coastal battery"],
+                            ["Number of<br/>Gun emplacement:", "1"],
+                            ["Armament:", ["1890 | 9.2-inch BL Gun x 1"]],
+                            ["Decommission Date:", "1907"],
+                            ["Current Condition:", "Disappeared"],
+                            ["Present Use:", "HKU University Lodge"]
+                        ],
+                        "description": "Victoria Battery was constructed to guard the approaches to <br/>Victoria Harbour and to ward off the threat from France and Russia. It was considered redundant in 1906 by the Owen Committee. The site was handed back to the government in 1920.<br/><br/>In 1965, when works were in progress to build the HKU University Lodge on the old battery site, a gun barrel was unearthed there. Eventually, the gun was erected in the house’s garden. The gun is mounted on a stone plinth and has an explanatory plaque attached to it.",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/07.jpg",
+                                    "description":"Former Victoria Battery, now HKU University Lodge.",
+                                    "credit":""
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                },
+                {
+                    "name":"Fly Point<br/>Battery",
+                    "year":1890,
+                    "startDateOfCategory":1880,
+                    "endDateOfCategory":1910,
+                    "position":{
+                        "x":39, 
+                        "y":44.8
+                    },
+                    "details":{
+                        "list": [
+                            ["Completion Date:", "1890"],
+                            ["Location:", "HKU Ricci Hall, Pokfulam Road"],
+                            ["Type:", "Coastal battery"],
+                            ["Number of<br/>Gun emplacement:", "1"],
+                            ["Armament:", ["1890 | 10-inch BL Gun x 1"]],
+                            ["Decommission Date:", "1912"],
+                            ["Current Condition:", "Disappeared"],
+                            ["Present Use:", "HKU Ricci Hall"]
+                        ],
+                        "description": "Fly Point Battery was built to ward off the threat from France and Russia. The battery was considered redundant in 1906 by the </br>Owen Committee and was then abandoned in 1912. The site was later redeveloped into a university hall of residence.",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/08.jpg",
+                                    "description":"Former Fly Point Battery, present-day HKU Ricci Hall",
+                                    "credit":""
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                },
+                {
+                    "name":"Lower Belcher<br/>Battery",
+                    "year":1890,
+                    "startDateOfCategory":1880,
+                    "endDateOfCategory":1945,
+                    "position":{
+                        "x":38.5, 
+                        "y":42.7
+                    },
+                    "details":{
+                        "list": [
+                            ["Completion Date:", "1890"],
+                            ["Location:", "The Belcher’s, Hong Kong Island West"],
+                            ["Type:", "Coastal battery"],
+                            ["Number of<br/>Gun emplacement:", "3"],
+                            ["Armament:", ["1890 | 6-inch BL Gun Mk V x3", "1897 | 6-inch BL Gun Mk V x 3", "<span style='margin-left:11.5%'></span> | 6-Pdr QF Gun x 2 (spread between <span style='margin-left:15.5%'></span>lower and upper batteries)", "<span style='margin-left:11.5%'></span> | 3-Pdr QF Gun x 3 (spread between <span style='margin-left:15.5%'></span>lower and upper batteries)", "1905 | 6-inch BL Gun Mk VII x 2", "1941 | 4.7-inch QF Gun x 2"]],
+                            ["Decommission Date:", "1945"],
+                            ["Current Condition:", "Disappeared"],
+                            ["Present Use:", "private residence"]
+                        ],
+                        "description": "Belcher Battery consisted of two batteries (upper and lower ones) constructed in the late 19th century. It was constructed to guard the approaches to Victoria Harbour and to guard the approaches to <br/>Victoria Harbour and to ward off the threat from France and Russia.<br/><br/>Lower Belcher Battery was originally armed with three 6-inch breech loaders. After several changes of armament, it was equipped with two 4.7-inch quick-firing guns taken from Lyemun West Battery by 1941 as part of the reorganisation of defences against the threat from Japan.<br/><br/>During the Battle for Hong Kong in December 1941, the battery was manned by the 965 Defence Battery of the Royal Artillery. The two guns were bombarded and damaged by the Japanese on the 14th. On the 25th, the battery personnel received orders to blow up the guns. The site was transferred to the government in 1956 and later redeveloped for residential use.",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/09.jpg",
+                                    "description":"Former Lower Belcher Battery, now converted for private residence.",
+                                    "credit":""
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                },
+                {
+                    "name":"Upper Belcher<br/>Battery",
+                    "year":1890,
+                    "startDateOfCategory":1880,
+                    "endDateOfCategory":1945,
+                    "position":{
+                        "x":39.8, 
+                        "y":41.5
+                    },
+                    "details":{
+                        "list": [
+                            ["Completion Date:", "1890"],
+                            ["Location:", "The Belcher’s, Hong Kong Island West"],
+                            ["Type:", "Coastal battery"],
+                            ["Number of<br/>Gun emplacement:", "2"],
+                            ["Armament:", ["1890 | 10-inch BL Gun x 1", "<span style='margin-left:11.5%'></span> | 6-inch BL Gun Mk V x 1", "1897 | 10-inch BL Gun x 1", "<span style='margin-left:11.5%'></span> | 6-inch BL Gun Mk V x 1", "<span style='margin-left:11.5%'></span> | 6-Pdr QF Gun x 2 (spread between <span style='margin-left:15.5%'></span>lower and upper batteries)", "<span style='margin-left:11.5%'></span> | 3-Pdr QF Gun x 3 (spread between <span style='margin-left:15.5%'></span>lower and upper batteries)", "1906 | 10-inch BL Gun x 1", "<span style='margin-left:11.5%'></span> | 12-Pdr QF Gun x1", "1913 | 6-inch BL Gun Mk VII x 1", "<span style='margin-left:11.5%'></span> | 12-Pdr QF Gun x 1", "1917-41 | 6-inch BL Gun Mk VII x 1"]],
+                            ["Decommission Date:", "1945"],
+                            ["Current Condition:", "Disappeared"],
+                            ["Present Use:", "private residence"]
+                        ],
+                        "description": "Belcher Battery consisted of two batteries (upper and lower ones). It was constructed to guard the approaches to Victoria Harbour and to ward off the threat from France and Russia. Upper Belcher Battery was originally armed with one 10-inch and one 6-inch gun. In 1905, the </br>6-inch gun emplacement was modified to take a 12-pounder quick-firing gun. In 1912, the 10-inch gun emplacement was modified to take a </br>6-inch gun. Three years later, only the 6-inch gun was left.<br/><br/>During the Battle for Hong Kong in December 1941, the battery was manned by the 965 Defence Battery of the Royal Artillery which was reported to have opened fire on and destroyed six Japanese freighters on the 13th. The battery personnel received orders to blow up the guns on the 25th. The battery site was transferred to the government in 1956 and later redeveloped for residential use, but a 10-inch gun barrel remained there until 1997, when the site was rebuilt and the gun barrel transferred to Hong Kong Museum of Coastal Defence for display.",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/10.jpg",
+                                    "description":"Former Upper Belcher Battery, now converted for private residence.",
+                                    "credit":""
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                },
+                {
+                    "name":"Elliott<br/>Battery",
+                    "year":1900,
+                    "startDateOfCategory":1900,
+                    "endDateOfCategory":1910,
+                    "position":{
+                        "x":40.2, 
+                        "y":43.7
+                    },
+                    "details":{
+                        "list": [
+                            ["Completion Date:", "about 1900"],
+                            ["Location:", "Near Elliot Pumping Station and Chow Yei Ching Building of The University of Hong Kong"],
+                            ["Type:", "Coastal battery"],
+                            ["Number of<br/>Gun emplacement:", "2"],
+                            ["Armament:", ["1900 | 12-Pdr QF Gun x 2"]],
+                            ["Decommission Date:", "1913"],
+                            ["Current Condition:", "Disappeared"],
+                            ["Present Use:", "Elliot Pumping Station and Chow Yei Ching Building of The University of Hong Kong"]
+                        ],
+                        "description": "Elliott Battery was located above Belcher Battery. It was constructed to guard the approaches to Victoria Harbour and to ward off the threat from France and Russia.<br/><br/>In 1906, the battery was considered redundant by the Owen Committee, and the guns were used only for practice. In 1913, the battery was decommissioned, and part of the site was converted into a service reservoir three years later. In 1921, another portion of the battery site was transferred to the government to allow of a diversion to </br>Pokfulam Road.",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/11.jpg",
+                                    "description":"Former Elliott Battery, now around  Elliot Pumping Station and Chow Yei Ching Building of The University of Hong Kong, Pokfulam.",
+                                    "credit":""
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                },
+                {
+                    "name":"Pinewood<br/>Battery",
+                    "year":1905,
+                    "startDateOfCategory":1900,
+                    "endDateOfCategory":1945,
+                    "position":{
+                        "x":40.6, 
+                        "y":46.3
+                    },
+                    "details":{
+                        "list": [
+                            ["Completion Date:", "1905"],
+                            ["Location:", "Near present-day Hatton Road, The Peak"],
+                            ["Type:", "Coastal battery / Anti-aircraft gun battery"],
+                            ["Number of<br/>Gun emplacement:", "2"],
+                            ["Armament:", ["1905 | 6-inch BL Gun Mk VII x 2", "1920s | 3-inch AA Gun Mk I x2"]],
+                            ["Decommission Date:", "1945"],
+                            ["Current Condition:", "Preserved"],
+                            ["Present Use:", "Lung Fu Shan Country Park"]
+                        ],
+                        "description": "Located on a 307m-high hill, Pinewood Battery was the highest of all the coastal batteries in Hong Kong. It was recommended as part of the 1899 review of the colony’s defence after the lease of the <br/>New Territories. In 1906, one year after its completion, it was designated surplus to requirements by the Owen Committee. The guns were removed in 1913. In the mid-1920s, the battery was drafted back into use with the installation of anti-aircraft guns.<br/><br/>During the Battle for Hong Kong in December 1941, the battery was manned by the 17th Heavy Anti-Aircraft Battery, Hong Kong and Singapore Royal Artillery. On the 15th, the battery personnel retreated after an anti-aircract gun was destroyed and other equipment damaged during one of the air raids by the Japanese bombers.The battery, long abandoned, is now part of part of Lung Fu Shan Country Park with signs to illustrate its significance.",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/12.jpg",
+                                    "description":"Former Pinewood Battery, now part of Lung Fu Shan Country Park.",
+                                    "credit":""
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                },
+                {
+                    "name":"Mount Davis<br/>Battery",
+                    "year":1912,
+                    "startDateOfCategory":1910,
+                    "endDateOfCategory":1945,
+                    "position":{
+                        "x":36.1, 
+                        "y":46.8
+                    },
+                    "details":{
+                        "list": [
+                            ["Completion Date:", "1912"],
+                            ["Location:", "The summit of Mount Davis, westernmost hill on Hong Kong Island"],
+                            ["Type:", "Coastal battery"],
+                            ["Number of<br/>Gun emplacement:", "5"],
+                            ["Armament:", ["1912 | 9.2-inch BL Gun x 5", "1941 | 9.2-inch BL Gun x 3", " <span style='margin-left:12.8%'></span>| 3.7-inch AA Gun x 2"]],
+                            ["Decommission Date:", "1945"],
+                            ["Current Condition:", "Preserved"],
+                            ["Present Use:", "Youth Hostel and part of Mount Davis Path"]
+                        ],
+                        "description": "The Owen Committee recommended in 1906 to build a battery to cover the western entry to Victoria Harbour on Mount Davis. After its completion, Mount Davis Battery served as the headquarters of the Western Fire Command. Two guns out of five were relocated to </br>Stanley Battery in 1935, when the local defence was reorganised.<br/><br/>During the Battle for Hong Kong in December 1941, the battery was manned by the 24th Coast Battery, Royal Artillery and the 17th </br>Heavy Anti-Aircraft Battery, Hong Kong and Singapore Royal Artillery. One anti-aircraft gun was destroyed on the 14th. The battery came under continuous attack by Japanese bombers and heavy artillery on the 16th, when the plotting room was destroyed. The remaining armament was eventually blown up by its personnel on the 25th.<br/><br/>The site was used after the war for a variety of military formations, such as a Royal Air Force Radar site, but was abandoned in the 1970s. A youth hostel was established on part of the site in the 1980s. The battery ruins still remain as part of a hiking trail.",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/13_thumb.jpg",
+                                    "description":"",
+                                    "credit":""
+                                },
+                                {
+                                    "src":"/images/d01/13.jpg",
+                                    "description":"Former Mount Davis Battery, now the Youth Hostel and part of Mount Davis Path.",
+                                    "credit":""
+                                }
+                            ],
+                            "video":"/images/d01/13.mp4"
+                        }
+                    }
+                },
+                {
+                    "name":"Jubilee<br/>Battery",
+                    "year":1939,
+                    "startDateOfCategory":1930,
+                    "endDateOfCategory":1945,
+                    "position":{
+                        "x":34.5, 
+                        "y":47.7
+                    },
+                    "details":{
+                        "list": [
+                            ["Completion Date:", "1939"],
+                            ["Location:", "The foot of Mount Davis on Hong Kong Island"],
+                            ["Type:", "Coastal battery"],
+                            ["Number of<br/>Gun emplacement:", "3"],
+                            ["Armament:", ["1939-41 | 6-inch BL Gun Mk VII x 3"]],
+                            ["Decommission Date:", "1945"],
+                            ["Current Condition:", "Preserved"],
+                            ["Present Use:", "The University of Chicago’s Hong Kong campus"]
+                        ],
+                        "description": "Jubilee Battery was constructed in the 1930s to cope with the threat from Japan. The battery was named after Victoria Jubilee Road (now Victoria Road) nearby. It comprised three 6-inch guns; two were transferred from the nearby Belcher Battery and one from </br>Pak Sha Wan Battery.<br/><br/>The battery was manned by the 12th Coast Regiment, Royal Artillery, during the Battle for Hong Kong in December 1941. The battery saw action on the 11th when the Japanese attempted to land on </br>Lamma Island. It was blown up under orders by its own personnel on the 25th.<br/><br/>The battery was abandoned after the war. The Victoria Road Detention Centre (better known locally as ‘White House’) was built on the site in the early 1950s, but was decommissioned before 1997. In recent years, the ‘White House’ was revitalised as a campus, and some battery relics are conserved and open for public tour.",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/14.jpg",
+                                    "description":"Former Jubilee Battery, now part of The University of Chicago’s Hong Kong campus.",
+                                    "credit":""
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                },
+                {
+                    "name":"North Point<br/>Battery",
+                    "year":1879,
+                    "startDateOfCategory":1880,
+                    "endDateOfCategory":1900,
+                    "position":{
+                        "x":59.3, 
+                        "y":40.5
+                    },
+                    "details":{
+                        "list": [
+                            ["Completion Date:", "1879"],
+                            ["Location:", "Fort Street, North Point"],
+                            ["Type:", "Coastal battery"],
+                            ["Number of<br/>Gun emplacement:", "4"],
+                            ["Armament:", ["1886-89 | 9-inch RML Gun x 1", "<span style='margin-left:18.8%'></span> | 7-inch RML Gun x 2", "<span style='margin-left:18.8%'></span> | 8-inch RML Howitzer x 1", "1894 | 9-inch RML Gun x 2", "1905 | 6-inch BL Gun x 2"]],
+                            ["Decommission Date:", "1907"],
+                            ["Current Condition:", "Disappeared"],
+                            ["Present Use:", "Fort Street"]
+                        ],
+                        "description": "North Point Battery was built on a hill near today’s Fort Street, with magazines and barracks. It was part of the defence scheme to guard the approaches to Victoria Harbour and to ward off the threat from France and Russia.<br/><br/>The battery was designated surplus to requirements in 1906 by the Owen Committee, so the guns were removed in 1907–08. The site was transferred to the government in the early 1920s for city development.",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/15.jpg",
+                                    "description":"Former North Point Battery, near present-day Fort Street.",
+                                    "credit":""
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                },
+                {
+                    "name":"Lyemun Redoubt<br/>Battery",
+                    "year":1887,
+                    "startDateOfCategory":1880,
+                    "endDateOfCategory":1910,
+                    "position":{
+                        "x":72.9, 
+                        "y":44
+                    },
+                    "details":{
+                        "list": [
+                            ["Completion Date:", "1887"],
+                            ["Location:", "Hong Kong Museum of Coastal Defence"],
+                            ["Type:", "Coastal battery"],
+                            ["Number of<br/>Gun emplacement:", "2"],
+                            ["Armament:", ["1890 | 6-inch BL Gun Mk IV x 2"]],
+                            ["Decommission Date:", "1910"],
+                            ["Current Condition:", "Preserved"],
+                            ["Present Use:", "Hong Kong Museum of Coastal Defence"]
+                        ],
+                        "description": "Lyemun Redoubt Battery was built as part of the fortifications of Lyemun Fort. The redoubt is a substantial construction with extensive underground works with 6-inch disappearing guns guarding the eastern entry to Victoria Harbour.<br/><br/>The guns were installed on hydro-pneumatic mountings, which allowed them to ‘disappear’ after firing. Due to the changes of defence scheme, they were no longer specified on the armament list in 1910, although one of the guns was still there in 1935. The site was subsequently used as an ammunition store. The battery was captured by the Japanese on 18 December 1941.<br/><br/>The site was used after the war as a training ground by the British Army until 1987. In 1970, a 6-inch gun barrel was found half-buried in the ditch of the redoubt, and the mounting of the gun was found in 1982. Both of them were sent to the United Kingdom and are now displayed at the Royal Artillery Museum, Woolwich.",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/16.jpg",
+                                    "description":"Former Lyemun Redoubt, now part of Hong Kong Museum of Coastal Defence.",
+                                    "credit":""
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                },
+                {
+                    "name":"Lyemun Central<br/>Battery",
+                    "year":1887,
+                    "startDateOfCategory":1880,
+                    "endDateOfCategory":1900,
+                    "position":{
+                        "x":71.8, 
+                        "y":42.7
+                    },
+                    "details":{
+                        "list": [
+                            ["Completion Date:", "1887"],
+                            ["Location:", "Hong Kong Museum of Coastal Defence"],
+                            ["Type:", "Coastal battery"],
+                            ["Number of<br/>Gun emplacement:", "2"],
+                            ["Armament:", ["1887 | 64-Pdr RML Gun Mk III x 2"]],
+                            ["Decommission Date:", "1905"],
+                            ["Current Condition:", "Preserved"],
+                            ["Present Use:", "Hong Kong Museum of Coastal Defence"]
+                        ],
+                        "description": "Lyemun Central Battery was built as part of the fortifications of Lyemun Fort to guard the eastern entry to Victoria Harbour. However, the gun positions were too high to engage targets passing through </br>Lyemun Pass. The battery was not listed in 1903, and all guns were removed in 1905. The battery was captured by the Japanese on 18 December 1941.<br/><br/>The site was used after the war as a training ground by the British Army until 1987.",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/17.jpg",
+                                    "description":"Former Lyemun Central Battery, now part of Hong Kong Museum of Coastal Defence.",
+                                    "credit":""
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                },
+                {
+                    "name":"Lyemun West<br/>Battery",
+                    "year":1887,
+                    "startDateOfCategory":1880,
+                    "endDateOfCategory":1940,
+                    "position":{
+                        "x":70, 
+                        "y":44
+                    },
+                    "details":{
+                        "list": [
+                            ["Completion Date:", "1887"],
+                            ["Location:", "Hong Kong Museum of Coastal Defence"],
+                            ["Type:", "Coastal battery"],
+                            ["Number of<br/>Gun emplacement:", "2"],
+                            ["Armament:", ["1887 | 9-inch RML Gun x 2", "1917 | 4.7-inch QF Gun x2"]],
+                            ["Decommission Date:", "1941"],
+                            ["Current Condition:", "Preserved"],
+                            ["Present Use:", "Hong Kong Museum of Coastal Defence"]
+                        ],
+                        "description": "Lyemun West Battery was built as part of the fortifications of </br>Lymeun Fort. It was initially armed with two 9-inch guns, which were the largest weapons ever mounted at Lyemun. But the guns were outdated after two decades and were removed by 1907.<br/><br/>Alteration works commenced in 1914 with the addition of two 4.7-inch quick-firing guns to deal with a potential torpedo boat attack. The guns were mounted in 1917, but were relocated to Lower Belcher Battery in 1941 because of the reorganisation of Hong Kong’s defences against the threat from Japan. The battery was captured by the Japanese on 18 December 1941.<br/><br/>The site was used after the war as a training ground by the British Army until 1987.",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/18.jpg",
+                                    "description":"Former Lyemun West Battery, now part of Hong Kong Museum of Coastal Defence.",
+                                    "credit":""
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                },
+                {
+                    "name":"Lyemun Pass<br/>Battery",
+                    "year":1892,
+                    "startDateOfCategory":1880,
+                    "endDateOfCategory":1900,
+                    "position":{
+                        "x":71.5, 
+                        "y":41.2
+                    },
+                    "details":{
+                        "list": [
+                            ["Completion Date:", "1892"],
+                            ["Location:", "Hong Kong Museum of Coastal Defence"],
+                            ["Type:", "Coastal battery"],
+                            ["Number of<br/>Gun emplacement:", "2"],
+                            ["Armament:", ["1892 | 6-Pdr QF Hotchkiss Gun x 2"]],
+                            ["Decommission Date:", "1907"],
+                            ["Current Condition:", "Preserved"],
+                            ["Present Use:", "Hong Kong Museum of Coastal Defence"]
+                        ],
+                        "description": "Lyemun Pass Battery was built as part of the fortifications of </br>Lymeun Fort. It is located at the north end of Lyemun Fort, quite near the shoreline. Otherwise also known as Lyemun West Quick Firing Battery, it was often confused with the similarly named Lyemun West Battery where quick-firing guns were installed in 1914.<br/><br/>Lyemun Pass Battery was designed to repel small, </br>high-speed torpedo boats passing through Lyemun Pass. In 1906, its guns were considered redundant by the Owen Committee. On the night of 18 December 1941, the battery was attacked by the Japanese soldiers who landed at a nearby pier. Bullet holes can still be seen in the concrete casemate.<br/><br/>The site was used after the war as a training ground by the British Army until 1987.",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/19.jpg",
+                                    "description":"Former Lyemun Pass Battery, now part of Hong Kong Museum of Coastal Defence.",
+                                    "credit":""
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                },
+                {
+                    "name":"Lyemun Reverse<br/>Battery",
+                    "year":1887,
+                    "startDateOfCategory":1880,
+                    "endDateOfCategory":1900,
+                    "position":{
+                        "x":71.4, 
+                        "y":45.2
+                    },
+                    "details":{
+                        "list": [
+                            ["Completion Date:", "1887"],
+                            ["Location:", "Hong Kong Museum of Coastal Defence"],
+                            ["Type:", "Coastal battery"],
+                            ["Number of<br/>Gun emplacement:", "4"],
+                            ["Armament:", ["1887 | 9-inch RML Gun x 3", "1897 | 9-inch RML Gun x 3", "<span style='margin-left:11.5%'></span> | 6-Pdr QF Gun x 1"]],
+                            ["Decommission Date:", "1907"],
+                            ["Current Condition:", "Disappeared"],
+                            ["Present Use:", "Hong Kong Museum of Coastal Defence (restricted area)"]
+                        ],
+                        "description": "Lyemun Reverse Battery was built as part of the fortifications of </br>Lymeun Fort, and initially armed with three 9-inch guns. By 1897, an additional </br>6-pounder quick-firing gun was installed there. <br/><br/>Lyemun Reverse Battery was meant to cover the whole of the minefield laid to protect the eastern entry to Victoria Harbour. However, the arc of fire was too narrow and each gun would get only one round off at a target passing through Lyemun Pass into the harbour. All the guns were removed in 1907. The battery was captured by the Japanese on 18 December 1941.<br/><br/>After the war, the battery site was converted into two barrack blocks. The barracks fell into disuse in 1987 when the British Army withdrew from Lyemun Fort. The old battery site is located in an area not open to the public.",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/20.jpg",
+                                    "description":"Former Lyemun Reserve Battery, now  within Hong Kong Museum of Coastal Defence.",
+                                    "credit":""
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                },
+                {
+                    "name":"Lyemun Howitzer<br/>Battery",
+                    "year":1897,
+                    "startDateOfCategory":1880,
+                    "endDateOfCategory":1945,
+                    "position":{
+                        "x":69.8, 
+                        "y":46.5
+                    },
+                    "details":{
+                        "list": [
+                            ["Completion Date:", "1897"],
+                            ["Location:", "Lei Yue Mun Park"],
+                            ["Type:", "Coastal battery"],
+                            ["Number of<br/>Gun emplacement:", "2"],
+                            ["Armament:", ["1897 | 8-inch RML Howitzer x 2", "1941 | 6-inch Howitzer x 2"]],
+                            ["Decommission Date:", "1945"],
+                            ["Current Condition:", "Disappeared"],
+                            ["Present Use:", "Lei Yue Mun Park"]
+                        ],
+                        "description": "Located on the hill between Lyemun Barracks and Lyemun Fort, </br>Lyemun Howitzer Battery consisted of a concrete platform on which guns could be deployed, together with ammunition lockers. It was intended to strengthen the defence of the eastern approach to </br>Victoria Harbour.<br/><br/>During the Battle for Hong Kong in December 1941, the battery was manned by the 3rd Medium Battery of the Hong Kong and Singapore Royal Artillery. On the night of the 18th, the Japanese assault of </br>Hong Kong Island surprised and overran the defenders, and the battery was captured.",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/21.jpg",
+                                    "description":"Former Lyemun Howitzer Battery, now part of Lei Yue Mun Park and Holiday Village.",
+                                    "credit":""
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                },
+                {
+                    "name":"Pak Sha Wan<br/>Battery",
+                    "year":1903,
+                    "startDateOfCategory":1880,
+                    "endDateOfCategory":1945,
+                    "position":{
+                        "x":73, 
+                        "y":46.2
+                    },
+                    "details":{
+                        "list": [
+                            ["Completion Date:", "1903"],
+                            ["Location:", "Hong Kong Museum of Coastal Defence"],
+                            ["Type:", "Coastal battery"],
+                            ["Number of<br/>Gun emplacement:", "4"],
+                            ["Armament:", ["1903 | 12-Pdr QF Gun Mk I x 4", "1910 | 6-inch BL Gun Mk VII x 3", "1936–41 | 6-inch BL Gun Mk VII x 2", "1945 | 6-inch BL Gun Mk VII x 1"]],
+                            ["Decommission Date:", "1957"],
+                            ["Current Condition:", "Preserved"],
+                            ["Present Use:", "Hong Kong Museum of Coastal Defence (restricted area)"]
+                        ],
+                        "description": "Located in a promontory to the east of Lyemun Fort, <br/>Pak Sha Wan Battery was constructed to strengthen the defence of the eastern approach to Victoria Harbour. It was initially armed with four </br>12-pounder quick-firing guns, which in 1909 were replaced by three more powerful 6-inch guns. In 1936, one of the 6-inch guns was relocated to the newly-built Jubilee Battery because of the reorganisation of local defence.<br/><br/>During the Battle for Hong Kong in December 1941, the battery was manned by the 4th Battery of the Hong Kong Volunteer Defence Corps. It came under heavy fire starting from the 13th and was seriously damaged. In the night of the 15th, the battery personnel fired rounds to repulse a Japanese attack, which resulted in a counter attack from the Japanese artillery position on Devil’s Peak. The battery was captured on the 21st. The old battery site is located in a restricted area of </br>Hong Kong Museum of Coastal Defence.",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/22.jpg",
+                                    "description":"Former Pak Sha Wan Battery, now within Hong Kong Museum of Coastal Defence.",
+                                    "credit":""
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                },
+                {
+                    "name":"Sai Wan<br/>Battery",
+                    "year":1903,
+                    "startDateOfCategory":1900,
+                    "endDateOfCategory":1957,
+                    "position":{
+                        "x":71.7, 
+                        "y":48.1
+                    },
+                    "details":{
+                        "list": [
+                            ["Completion Date:", "1903"],
+                            ["Location:", "Sai Wan Hill"],
+                            ["Type:", "Coastal battery"],
+                            ["Number of<br/>Gun emplacement:", "4"],
+                            ["Armament:", ["1903 | 6-inch BL Gun x 2", "Mid-1920s | 3-inch AA Gun x 2", "1941 | 3-inch AA Gun x 4", "<span style='margin-left:11.5%'></span> | 40mm Bofors AA Gun ", "<span style='margin-left:11.5%'></span> | 3.7-inch Mountain Howitzer", "1949 | 3.7-inch Heavy AA Gun x 4"]],
+                            ["Decommission Date:", "1957"],
+                            ["Current Condition:", "Preserved"],
+                            ["Present Use:", "Sai Wan Fort Morning Trail"]
+                        ],
+                        "description": "Sai Wan Battery was located on a hill to the southeast of </br>Lyemun Redoubt. It was built alongside Sai Wan Redoubt to strengthen the defence of the eastern approach to Victoria Harbour and cover the flank of the newly developed areas of North Point and Taikoo. The battery was originally armed with two 6-inch breech loaders. In 1906, three years after, the guns were considered by the Owen Committee to be surplus to requirements, and removed by 1911. Like </br>Pinewood Battery, this site was utilised as an anti-aircraft battery since the mid-1920s when two 3-inch anti-aircraft guns were deployed there.<br/><br/>During the Battle for Hong Kong in December 1941, the battery was manned by the 5th Anti-Aircraft Battery of the Hong Kong Volunteer Defence Corps.  During the hostilities, the gunners there were reported to have inflicted casualties to the Japanese aircraft which took offensive against the battery. The Japanese captured the battery on the 18th after which they tied up the captives and baynotted them to death.<br/><br/>The site was rebuilt for four 3.7-inch anti-aircraft guns in 1949. The guns were removed when the British decided to disband the anti-aircraft personnel in 1957. The old battery remains as part of </br>Sai Wan Fort Morning Trail.",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/23.jpg",
+                                    "description":"Former Sai Wan Battery, now part of Sai Wan Fort Morning Trail.",
+                                    "credit":""
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                },
+                {
+                    "name":"Collinson<br/>Battery",
+                    "year":1938,
+                    "startDateOfCategory":1930,
+                    "endDateOfCategory":1945,
+                    "position":{
+                        "x":77.7, 
+                        "y":60.1
+                    },
+                    "details":{
+                        "list": [
+                            ["Completion Date:", "1938"],
+                            ["Location:", "Cape Collinson, Hong Kong Island East"],
+                            ["Type:", "Coastal battery"],
+                            ["Number of<br/>Gun emplacement:", "2"],
+                            ["Armament:", ["1938-41 | 6-inch BL Gun Mk VII x 2"]],
+                            ["Decommission Date:", "1945"],
+                            ["Current Condition:", "Preserved"],
+                            ["Present Use:", "Disused"]
+                        ],
+                        "description": "Collinson Battery, overlooking Junk Bay (today’s Tseung Kwan O) and the eastern entrance to Victoria Harbour, was constructed in the 1930s as part of the reorganisation of defences against the threat from Japan. It was armed with two 6-inch breech loaders transferred from Stonecutters West Battery.<br/><br/>During the Battle for Hong Kong in December 1941, the battery was manned by the 36th Coast Battery, 8th Coast Regiment of the </br>Royal Artillery. It took part in no recorded action before the Japanese landed on Hong Kong Island. The battery was blown up by its own personnel on the 19th before retreating. Nowadays, battery relics still exist.",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/24.jpg",
+                                    "description":"The searchlight position of the former Collinson Battery, near Cape Collinson Correctional Institution.",
+                                    "credit":""
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                },
+                {
+                    "name":"Stanley<br/>Battery",
+                    "year":1937,
+                    "startDateOfCategory":1930,
+                    "endDateOfCategory":1940,
+                    "position":{
+                        "x":67.7, 
+                        "y":87.6
+                    },
+                    "details":{
+                        "list": [
+                            ["Completion Date:", "1937"],
+                            ["Location:", "Hong Kong Island South (next to Bluff Head Battery)"],
+                            ["Type:", "Coastal battery / Anti-aircraft gun battery"],
+                            ["Number of<br/>Gun emplacement:", "5"],
+                            ["Armament:", ["1941 | 9.2-inch BL Gun Mk X x 3", "<span style='margin-left:11.5%'></span> | 3-inch AA Gun x 2"]],
+                            ["Decommission Date:", "late 1940s"],
+                            ["Current Condition:", "Preserved"],
+                            ["Present Use:", "Chek Chue Barracks of PLA Hong Kong Garrison (restricted area)"]
+                        ],
+                        "description": "Stanley Battery was constructed in the 1930s as part of the reorganisation of defences against the threat from Japan. Its armaments were taken from the batteries at Gough and Mount Davis. After its completion, the headquarters of Eastern Fire Command was relocated to Stanley from Devil’s Peak.<br/><br/>The battery was manned by the 12th Coast Battery, 8th Coast Regiment of the Royal Artillery. During the Japanese invasion, the battery provided artillery support for the defenders. The fort was the last stand, as the defence was still able to maintain an effective counter to the Japanese attack until early on Christmas Day, 1941. After </br>Governor Sir Mark Young (1886-1974) made the decision to surrender on the same day, the defenders of the battery surrendered later in the day when the news was confirmed locally. Since there was not enough time to destroy the battery and other installations, all the facilities were captured by the Japanese.<br/><br/>During their occupation period, the Japanese used No. 2 and No. 3 guns for coastal defence. They added a 4-foot shield in front of the guns. After the war, the British forces returned and removed all the guns in 1952. All that remained was an empty gunpit that became a base for satellite receiver in 1970. The site remained a military land until 1994 when it was handed back to the government.",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/25.jpg",
+                                    "description":"Former Stanley Battery, now part of Chek Chue Barracks of PLA Hong Kong Garrison. Photo taken in 1994.",
+                                    "credit":""
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                },
+                {
+                    "name":"Chung Hom Kok<br/>Battery",
+                    "year":1941,
+                    "startDateOfCategory":1930,
+                    "endDateOfCategory":1945,
+                    "position":{
+                        "x":60.2, 
+                        "y":80.3
+                    },
+                    "details":{
+                        "list": [
+                            ["Completion Date:", "1941"],
+                            ["Location:", "At the end of Chung Hom Kok Road"],
+                            ["Type:", "Coastal battery"],
+                            ["Number of<br/>Gun emplacement:", "2"],
+                            ["Armament:", ["1941 | 6-inch BL Gun x 2"]],
+                            ["Decommission Date:", "1945"],
+                            ["Current Condition:", "Preserved"],
+                            ["Present Use:", "Chung Hom Kok Cheshire Home and Chung Hom Kok Park"]
+                        ],
+                        "description": "Chung Hom Kok Battery was constructed in the 1930s as part of the reorganisation of defences against the threat from Japan. It had two levels, each of which was armed with a 6-inch gun.<br/><br/>During the Battle for Hong Kong in December 1941, the battery was defended by the 36th Coast Battery, 8th Coast Regiment of the </br>Royal Artillery. On the 19th, the gunners received orders to blow it up before retreating to Stanley. After the war, the upper emplacement was rebuilt into a home for the elderly, while the lower one with a half-dome cover is preserved as an object in Chung Hom Kok Park.",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/26.jpg",
+                                    "description":"Former Chung Hom Kok Battery, now Chung Hom Kok Cheshire Home and Chung Hom Kok Park.",
+                                    "credit":""
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                },
+                {
+                    "name":"Bokhara<br/>Battery",
+                    "year":1941,
+                    "startDateOfCategory":1930,
+                    "endDateOfCategory":1945,
+                    "position":{
+                        "x":79.2, 
+                        "y":81.3
+                    },
+                    "details":{
+                        "list": [
+                            ["Completion Date:", "1941"],
+                            ["Location:", "Hong Kong Island South (near Cape D’Aguilar Lighthouse)"],
+                            ["Type:", "Coastal battery"],
+                            ["Number of<br/>Gun emplacement:", "2"],
+                            ["Armament:", ["1941 | 9.2-inch BL Gun x 2"]],
+                            ["Decommission Date:", "1945"],
+                            ["Current Condition:", "Preserved"],
+                            ["Present Use:", "Earth satellite station (restricted area)"]
+                        ],
+                        "description": "Bokhara Battery at the southern end of the peninsula of Cape D’Aguilar, or Hok Tsui, was constructed as part of the reorganisation of defences against the threat from Japan in the 1930s.The armaments of this battery came from Pottinger Battery at Devil’s Peak.<br/><br/>Construction of Bokhara Battery was completed just before the Japanese invasion of Hong Kong in December 1941. On the 16th, when a Japanese destroyer came just within its range, the battery fired about 10 salvoes and the Japanese vessel left. On the 19th, the battery was destroyed by its own personnel before they retreated to Stanley. The site was converted into an earth satellite station after the war. Nowadays, it is located in a restricted area.",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/27.jpg",
+                                    "description":"Former Bokhara Battery, now an earth satellite station.",
+                                    "credit":""
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                },
+                {
+                    "name":"Cape D’Aguilar<br/>Battery",
+                    "year":1939,
+                    "startDateOfCategory":1930,
+                    "endDateOfCategory":1945,
+                    "position":{
+                        "x":76.9, 
+                        "y":80.8
+                    },
+                    "details":{
+                        "list": [
+                            ["Completion Date:", "1939"],
+                            ["Location:", "Hong Kong Island South (near Hok Tsui Tsuen)"],
+                            ["Type:", "Emergency battery / Anti-aircraft gun battery"],
+                            ["Number of<br/>Gun emplacement:", "2"],
+                            ["Armament:", ["1941 | 4-inch BL Gun x 2"]],
+                            ["Decommission Date:", "1945"],
+                            ["Current Condition:", "Preserved"],
+                            ["Present Use:", "Disused"]
+                        ],
+                        "description": "Cape D’Aguilar Battery at the southern end of the peninsula of </br>Cape D’Aguilar, or Hok Tsui, was constructed as part of the reorganisation of defences against the threat from Japan in the 1930s. It was armed with two 4-inch guns supplied by the Royal Navy.<br/><br/>During the Battle for Hong Kong in December 1941, the battery was manned by the 1st Battery of the Hong Kong Volunteer Defence Corps and the 18th Light Anti-Aircraft Battery of the Hong Kong and </br>Singapore Royal Artillery. On the 19th, the gunners received orders to destroy the battery before retreating to Stanley. The battery was abandoned after the war.",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/28.jpg",
+                                    "description":"Former Cape D’Aguilar Battery",
+                                    "credit":""
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                },
+                {
+                    "name":"Bluff Head<br/>Battery",
+                    "year":1939,
+                    "startDateOfCategory":1930,
+                    "endDateOfCategory":1945,
+                    "position":{
+                        "x":65.6, 
+                        "y":87.3
+                    },
+                    "details":{
+                        "list": [
+                            ["Completion Date:", "1939"],
+                            ["Location:", "Hong Kong Island South (next to Stanley Battery)"],
+                            ["Type:", "Emergency battery"],
+                            ["Number of<br/>Gun emplacement:", "2"],
+                            ["Armament:", ["1941 | 6-inch BL Gun x 2"]],
+                            ["Decommission Date:", "1945"],
+                            ["Current Condition:", "Preserved"],
+                            ["Present Use:", "Chek Chue Barracks of PLA Hong Kong Garrison (restricted area)"]
+                        ],
+                        "description": "Bluff Head Battery was constructed as part of the reorganisation of defences against the threat from Japan in the 1930s. Land for the battery was resumed from eight families then living in the village of Wong Ma Kok. During the Battle for Hong Kong, the battery was manned by the 2nd Battery of the Hong Kong Volunteer Defence Corps. It was damaged by Japanese artillery and bombing, and was captured by the Japanese on the 25th. Nowadays, the site is part of Chek Chue Barracks of PLA Hong Kong Garrison.",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/29.jpg",
+                                    "description":"Former Bluff Head Battery, now Chek Chue Barracks of PLA Hong Kong Garrison.",
+                                    "credit":"Courtesy of Mr Derek Lo"
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                },
+                {
+                    "name":"Aberdeen<br/>Battery",
+                    "year":1941,
+                    "startDateOfCategory":1930,
+                    "endDateOfCategory":1945,
+                    "position":{
+                        "x":44.6, 
+                        "y":65.6
+                    },
+                    "details":{
+                        "list": [
+                            ["Completion Date:", "1941"],
+                            ["Location:", "To the south of Ap Lei Chau Estate"],
+                            ["Type:", "Emergency battery"],
+                            ["Number of<br/>Gun emplacement:", "2"],
+                            ["Armament:", ["1941 | 4-inch BL Gun x 2"]],
+                            ["Decommission Date:", "1945"],
+                            ["Current Condition:", "Preserved"],
+                            ["Present Use:", "Disused"]
+                        ],
+                        "description": "Aberdeen Battery set on a hill facing the sea was constructed as part of the reorganisation of defences against the threat from Japan in the 1930s. Its construction was completed just before the Japanese invasion of Hong Kong in 1941.<br/><br/>During the Battle for Hong Kong in December 1941, the battery was manned by the 3rd Battery of the Hong Kong Volunteer Defence Corps. On the 11th, the gunners opened fire on the Japanese who attempted to land on Lamma Island. The battery was destroyed by its own personnel on the 24th.",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/30.jpg",
+                                    "description":"Former Aberdeen Battery, now in ruins.",
+                                    "credit":""
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                },
+                {
+                    "name":"Kowloon Dockyard<br/>Battery",
+                    "year":1880,
+                    "startDateOfCategory":1880,
+                    "endDateOfCategory":1900,
+                    "position":{
+                        "x":57.9, 
+                        "y":32.8
+                    },
+                    "details":{
+                        "list": [
+                            ["Completion Date:", "1880"],
+                            ["Location:", "S.K.H. Fung Kei Millennium Primary School"],
+                            ["Type:", "Coastal battery"],
+                            ["Number of<br/>Gun emplacement:", "5"],
+                            ["Armament:", ["1886 | 9-inch RML Gun x 1", "<span style='margin-left:11.5%'></span> | 7-inch RML Gun x 2", "<span style='margin-left:11.5%'></span> | 8-inch Howitzer x 2", "1894 | 9-inch RML Gun x 3 "]],
+                            ["Decommission Date:", "1905"],
+                            ["Current Condition:", "Disappeared"],
+                            ["Present Use:", "S.K.H. Fung Kei Millennium Primary School"]
+                        ],
+                        "description": "Kowloon Dockyard Battery was built on the former Whampoa Dock site. It was constructed to ward off the threat from France and Russia, and it formed a relatively complete defence at the eastern side of the harbour, along with North Point Battery.<br/><br/>The battery was considered redundant after the 1899 review of </br>Hong Kong’s defences after the lease of the New Territories. It was decommissioned in 1905, and the site was transferred to the government for redevelopment. Nothing remains of this battery, but a </br>9-inch rifled muzzle loader was excavated during the construction of Whampoa Garden.",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/31.jpg",
+                                    "description":"Former Kowloon Dockyard Battery, now around the area of S.K.H. Fung Kei Millennium Primary School.",
+                                    "credit":""
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                },
+                {
+                    "name":"Kowloon East<br/>Battery",
+                    "year":1890,
+                    "startDateOfCategory":1880,
+                    "endDateOfCategory":1910,
+                    "position":{
+                        "x":57.7, 
+                        "y":30.5
+                    },
+                    "details":{
+                        "list": [
+                            ["Completion Date:", "1890"],
+                            ["Location:", "Whampoa Garden and Dyer Avenue (north to Kowloon Dockyard Battery)"],
+                            ["Type:", "Coastal battery"],
+                            ["Number of<br/>Gun emplacement:", "1"],
+                            ["Armament:", ["1895 | 9.2-inch BL Gun Mk VI x 1"]],
+                            ["Decommission Date:", "1911"],
+                            ["Current Condition:", "Disappeared"],
+                            ["Present Use:", "Whampoa Garden"]
+                        ],
+                        "description": "Kowloon East Battery, located above and behind </br>Kowloon Dockyard Battery, was intended to back up the inner defences and cover the mouth of Lyemun Pass. It was constructed to ward off the threat from France and Russia.<br/><br/>In 1906, the battery was recommended by the Owen Committee to be removed. There were no armaments left by 1911. The site was transferred to the government in sections between 1922 and 30 for redevelopment.",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/32.jpg",
+                                    "description":"Former Kowloon East Battery, now Whampoa Garden.",
+                                    "credit":""
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                },
+                {
+                    "name":"Gough<br/>Battery",
+                    "year":1903,
+                    "startDateOfCategory":1900,
+                    "endDateOfCategory":1930,
+                    "position":{
+                        "x":73.9, 
+                        "y":39.4
+                    },
+                    "details":{
+                        "list": [
+                            ["Completion Date:", "1903"],
+                            ["Location:", "Upper level of Devil’s Peak"],
+                            ["Type:", "Coastal battery"],
+                            ["Number of<br/>Gun emplacement:", "2"],
+                            ["Armament:", ["1903 | 6-inch BL Gun x 2", "1911 | 9.2-inch BL Gun x 1"]],
+                            ["Decommission Date:", "1936"],
+                            ["Current Condition:", "Preserved"],
+                            ["Present Use:", "Part of Wilson Trail (hiking trail)"]
+                        ],
+                        "description": "After the British lease of the New Territories, the British military chose Devil’s Peak as a site to strengthen the defence of the eastern entrance to Victoria Harbour. Two batteries on different levels were constructed there with a redoubt at the summit of Devil’s Peak.<br/><br/>The Gough Battery on the upper level of Devil’s Peak was originally armed with two 6-inch guns. One of the gun emplacements was enlarged to accommodate a 9.2-inch breech loader in 1911, whilst the remaining 6-inch gun was dismantled by 1912. Owing to changes in the defence plan, the 9.2-inch gun was relocated to Stanley Battery by 1936, leaving no fixed armaments at Gough Battery thereafter.<br/><br/>Devil’s Peak was defended by the 5/7th Rajputs during the Battle for Hong Kong in December 1941. After the fall of Gin Drinker’s Line, the surviving members of the garrison received orders to evacuate to </br>Hong Kong Island. The evacuation began on the 12th and completed early the next morning. In the following days, Devil’s Peak was used by the Japanese as an artillery position to bombard the northern shore of Hong Kong Island.<br/><br/>There was no gun in the battery after the war. The site was transferred to the government in 1957.",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/40_thumb.jpg",
+                                    "description":"",
+                                    "credit":""
+                                },
+                                {
+                                    "src":"/images/d01/40.jpg",
+                                    "description":"Former Gough Battery, now part of Wilson Trail.",
+                                    "credit":""
+                                }
+                            ],
+                            "video":"/images/d01/40.mp4"
+                        }
+                    }
+                },
+                {
+                    "name":"Pottinger<br/>Battery",
+                    "year":1903,
+                    "startDateOfCategory":1900,
+                    "endDateOfCategory":1930,
+                    "position":{
+                        "x":74.1, 
+                        "y":41.4
+                    },
+                    "details":{
+                        "list": [
+                            ["Completion Date:", "1903"],
+                            ["Location:", "Lower level of Devil’s Peak"],
+                            ["Type:", "Coastal battery"],
+                            ["Number of<br/>Gun emplacement:", "2"],
+                            ["Armament:", ["1903 | 9.2-inch BL Gun x 2"]],
+                            ["Decommission Date:", "1939"],
+                            ["Current Condition:", "Preserved"],
+                            ["Present Use:", "Part of Wilson Trail (hiking trail)"]
+                        ],
+                        "description": "After the British lease of the New Territories, the British military chose Devil’s Peak as a site to strengthen the defence of the eastern entrance to Victoria Harbour. Two batteries on different levels were constructed there with a redoubt at the summit of Devil’s Peak.<br/><br/>The Pottinger Battery on the lower level of Devil’s Peak was originally armed with two 9.2-inch guns. Owing to changes in the defence plan, the two guns were relocated to Bokhara Battery by 1939, leaving no fixed armaments in Pottinger Battery thereafter.<br/><br/>Devil’s Peak was defended by the 5/7th Rajputs during the Battle for Hong Kong in December 1941. After the fall of Gin Drinker’s Line, the surviving members of the garrison received orders to evacuate to </br>Hong Kong Island. The evacuation began on the 12th and completed early the next morning. In the following days, Devil’s Peak was used by the Japanese as an artillery position to bombard the northern shore of Hong Kong Island.<br/><br/>There were no guns in the battery after the war. The site was transferred to the government in 1957.",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/41_thumb.jpg",
+                                    "description":"",
+                                    "credit":""
+                                },
+                                {
+                                    "src":"/images/d01/41.jpg",
+                                    "description":"Former Pottinger Battery, now part of Wilson Trail.",
+                                    "credit":""
+                                }
+                            ],
+                            "video":"/images/d01/41.mp4"
+                        }
+                    }
+                },
+                {
+                    "name":"Kowloon West<br/>Battery",
+                    "year":1878,
+                    "startDateOfCategory":1880,
+                    "endDateOfCategory":1910,
+                    "position":{
+                        "x":50.6, 
+                        "y":35.4
+                    },
+                    "details":{
+                        "list": [
+                            ["Completion Date:", "1878-80"],
+                            ["Location:", "Kowloon Park Discovery Playground"],
+                            ["Type:", "Coastal battery"],
+                            ["Number of<br/>Gun emplacement:", "3"],
+                            ["Armament:", ["1886 | 7-inch RML Gun x 3", "1894 | 10-inch RML Gun x 3", "1904 | 6-inch BL Gun Mk VII x 2"]],
+                            ["Decommission Date:", "1911"],
+                            ["Current Condition:", "Preserved"],
+                            ["Present Use:", "Kowloon Park Discovery Playground"]
+                        ],
+                        "description": "Kowloon West Battery was constructed between 1878 and 80 to guard the approaches to Victoria Harbour and to ward off the threat from France and Russia. It overlooked the whole of the British-ruled area of Kowloon Peninsula and at longer range, the sea between </br>Stonecutters Island and Green Island.<br/><br/>The battery was initially armed with three 7-inch guns. In 1886, the battery was rebuilt to accommodate three 10-inch guns. In 1901, the gun emplacements were remodelled again for two 6-inch guns.<br/><br/>In 1906 the battery was considered redundant by the Owen Committee and the guns were dismounted by 1907. Thereafter, the site was used as a training base for gunners. When Whitfield Barracks was converted into Kowloon Park in 1970, the site was reused as a children’s playground.",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/33.jpg",
+                                    "description":"Former Kowloon West Battery, now Kowloon Park Discovery Playground.",
+                                    "credit":""
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                },
+                {
+                    "name":"Stonecutters East<br/>Battery",
+                    "year":1881,
+                    "startDateOfCategory":1880,
+                    "endDateOfCategory":1910,
+                    "position":{
+                        "x":42.5, 
+                        "y":25.6
+                    },
+                    "details":{
+                        "list": [
+                            ["Completion Date:", "1881"],
+                            ["Location:", "A highland in the centre of the eastern part of Stonecutters Island"],
+                            ["Type:", "Coastal battery"],
+                            ["Number of<br/>Gun emplacement:", "3"],
+                            ["Armament:", ["1881 | 9-inch RML Gun x 2", "<span style='margin-left:11.5%'></span> | 8-inch RML Howitzer x 1", "1889 | 9-inch RML Gun x 2", "1901 | 4.7-inch QF Gun x 2"]],
+                            ["Decommission Date:", "1912"],
+                            ["Current Condition:", "Preserved"],
+                            ["Present Use:", "Ngong Shuen Chau Naval Base (restricted area)"]
+                        ],
+                        "description": "Stonecutters East Battery was the first battery built on <br/>Stonecutters Island to protect the western entrance to Victoria Harbour and to ward off the threat from France and Russia. The original documents named it the Central Battery, but it was crossed out </br>and ‘Central’ was replaced with ‘East’.<br/><br/>The battery was initially designed for two 9-inch guns and one 8-inch gun. In 1894, the 9-inch guns were dismounted. In their place, two </br>4.7-inch quick-firing guns for drills and practice were mounted in 1901. In 1906 the battery was considered redundant by the Owen Committee, and all guns were removed by 1912.",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/34.jpg",
+                                    "description":"Former Stonecutters East Battery, now Ngong Shuen Chau Naval Base. Photo taken in 1995. ",
+                                    "credit":""
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                },
+                {
+                    "name":"Stonecutters South Shore<br/>Battery",
+                    "year":1889,
+                    "startDateOfCategory":1880,
+                    "endDateOfCategory":1910,
+                    "position":{
+                        "x":39.5, 
+                        "y":23.4
+                    },
+                    "details":{
+                        "list": [
+                            ["Completion Date:", "1889"],
+                            ["Location:", "A highland north to the basin, Stonecutters Island"],
+                            ["Type:", "Coastal battery"],
+                            ["Number of<br/>Gun emplacement:", "5"],
+                            ["Armament:", ["1889-99 | 64-Pdr RML Gun x 3", "<span style='margin-left:18.5%'></span> | 6-Pdr Hotchkiss QF Gun x 2", "1903 | 12-Pdr QF Gun x 2"]],
+                            ["Decommission Date:", "1912"],
+                            ["Current Condition:", "Preserved"],
+                            ["Present Use:", "Ngong Shuen Chau Naval Base (restricted area)"]
+                        ],
+                        "description": "Stonecutters South Shore Battery was constructed to protect the western entrance to Victoria Harbour and to ward off the threat from France and Russia.<br/><br/>The battery was initially armed with three 64-pounder rifled </br> muzzle loaders and two 6-pounder Hotchkiss quick-firing guns. In 1903, it was installed with two 12-pounder quick-firing guns. It was considered redundant by the Owen Committee in 1906, and was decommissioned by 1912.",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/35.jpg",
+                                    "description":"Former Stonecutters South Shore Battery, now Ngong Shuen Chau Naval Base. Photo taken in 1995.",
+                                    "credit":""
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                },
+                {
+                    "name":"Stonecutters West<br/>Battery",
+                    "year":1890,
+                    "startDateOfCategory":1880,
+                    "endDateOfCategory":1945,
+                    "position":{
+                        "x":38.4, 
+                        "y":25.5
+                    },
+                    "details":{
+                        "list": [
+                            ["Completion Date:", "1890"],
+                            ["Location:", "A highland west to the basin, Stonecutters Island"],
+                            ["Type:", "Coastal battery"],
+                            ["Number of<br/>Gun emplacement:", "6"],
+                            ["Armament:", ["1890 | 10-inch BL Gun x 2", "<span style='margin-left:11.5%'></span> | 6-inch BL Gun Mk V x 2", "<span style='margin-left:11.5%'></span> | 6-Pdr QF Gun x 1", "1900 | 10-inch BL Gun x 2", "<span style='margin-left:11.5%'></span> | 6-inch BL Gun Mk V x 2", "<span style='margin-left:11.5%'></span> | 6-Pdr QF Gun x 1", "<span style='margin-left:11.5%'></span> | 3-Pdr QF Gun x 1 ", "1906 | 10-inch BL Gun x 2", "<span style='margin-left:11.5%'></span> | 6-inch BL Gun x 2", "1912 | 6-inch BL Gun Mk VII x 5", "1938 | 6-inch BL Gun Mk VII x 3", "1941 | 6-inch BL Gun Mk VII x 2"]],
+                            ["Decommission Date:", "1945"],
+                            ["Current Condition:", "Preserved"],
+                            ["Present Use:", "Ngong Shuen Chau Naval Base (restricted area)"]
+                        ],
+                        "description": "Stonecutters West Battery was constructed to protect the western entrance to Victoria Harbour and to ward off the threat from France and Russia.<br/><br/>The battery was initially armed with two 6-inch guns, two 10-inch guns and one 6-pounder quick-firing gun. In 1900, one 3-pounder quick firing gun was added. After several changes of armament, the battery was equipped with five 6-inch breech loaders by 1912.  Owing to changes in the defence plan, two of the 6-inch guns were relocated to </br>Collinson Battery in 1938.<br/><br/>During the Battle for Hong Kong in December 1941, the battery came under severe bombardment by the Japanese. On the 10th, the battery personnel received orders to fire upon Shing Mun Redoubt, which fell into Japanese hands. On the night of the 11th, they received orders to destroy the guns before retreating.",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/36.jpg",
+                                    "description":"Former Stonecutters West Battery, now Ngong Shuen Chau Naval Base. Photo taken in 1995.",
+                                    "credit":""
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                },
+                {
+                    "name":"Stonecutters Central<br/>Battery",
+                    "year":1891,
+                    "startDateOfCategory":1880,
+                    "endDateOfCategory":1910,
+                    "position":{
+                        "x":41.7, 
+                        "y":24.4
+                    },
+                    "details":{
+                        "list": [
+                            ["Completion Date:", "1891"],
+                            ["Location:", "near the present day Container Port Road South, Stonecutters Island"],
+                            ["Type:", "Coastal battery"],
+                            ["Number of<br/>Gun emplacement:", "4"],
+                            ["Armament:", ["1891 | 10-inch BL Gun Mk I x 1", "<span style='margin-left:11.5%'></span> | 6-inch BL Gun x 1", "1894 | 10-inch BL Gun Mk I x 1", "<span style='margin-left:11.5%'></span> | 6-inch BL Gun Mk V x 1", "<span style='margin-left:11.5%'></span> | 3-Pdr QF Gun x 2", "1906 | 10-inch BL Gun Mk III x 1", "<span style='margin-left:11.5%'></span> | 6-inch BL Gun Mk VII x 1", "1911 | 10-inch BL Gun Mk III x 1 </br><span style='margin-left:15.5%'></span>(in reserve)", "<span style='margin-left:11.5%'></span> | 6-inch BL Gun Mk VII x 1 </br><span style='margin-left:15.5%'></span>(in reserve)"]],
+                            ["Decommission Date:", "1915"],
+                            ["Current Condition:", "Preserved"],
+                            ["Present Use:", "Ngong Shuen Chau Naval Base (restricted area)"]
+                        ],
+                        "description": "Stonecutters Central Battery was constructed to protect the western entrance to Victoria Harbour and to ward off the threat from France and Russia. It was originally named as West Central Battery, but <br/>‘West Central’ was replaced with ‘Central’ later on.<br/><br/>The battery was originally armed with one 10-inch gun and one 6-inch gun. Two 3-pounder quick-firing guns were added in 1894, but were removed in 1902. In 1906 this battery was considered redundant by the Owen Committee, so it was put in reserve in 1911 and decommissioned in 1915.",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/37.jpg",
+                                    "description":"Former Stonecutters Central Battery, now Ngong Shuen Chau Naval Base. Photo taken in 1937.",
+                                    "credit":""
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                },
+                {
+                    "name":"Albion<br/>Battery",
+                    "year":1905,
+                    "startDateOfCategory":1900,
+                    "endDateOfCategory":1910,
+                    "position":{
+                        "x":44.6, 
+                        "y":24.4
+                    },
+                    "details":{
+                        "list": [
+                            ["Completion Date:", "1905"],
+                            ["Location:", "A knoll on the eastern side of Stonecutters Island"],
+                            ["Type:", "Coastal battery"],
+                            ["Number of<br/>Gun emplacement:", "2"],
+                            ["Armament:", ["1905 | 12-Pdr QF Gun x 2"]],
+                            ["Decommission Date:", "1917"],
+                            ["Current Condition:", "Preserved"],
+                            ["Present Use:", "Dockyard (restricted area)"]
+                        ],
+                        "description": "Albion Battery was constructed to prevent surprise attacks by enemy torpedo boats. It was armed with two 12-pounder quick-firing guns. In 1906, the battery was considered redundant by the Owen Committee. The battery was retained for drills and night practice in 1909 and was decommissioned in 1917.",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/38.jpg",
+                                    "description":"Former Albion Battery shown in a 1907 War Office map, now a dockyard site.",
+                                    "credit":"Courtesy of The National Archives (UK)"
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                },
+                {
+                    "name":"Centurion<br/>Battery",
+                    "year":1905,
+                    "startDateOfCategory":1900,
+                    "endDateOfCategory":1930,
+                    "position":{
+                        "x":42.5, 
+                        "y":27.8
+                    },
+                    "details":{
+                        "list": [
+                            ["Completion Date:", "1905"],
+                            ["Location:", "Southeastern Stonecutters Island"],
+                            ["Type:", "Coastal battery"],
+                            ["Number of<br/>Gun emplacement:", "2"],
+                            ["Armament:", ["1905 | 12-Pdr QF Gun x 2", "1917 | 4.7-inch QF Gun x 2"]],
+                            ["Decommission Date:", "1939"],
+                            ["Current Condition:", "Preserved"],
+                            ["Present Use:", "Ngong Shuen Chau Naval Base (restricted area)"]
+                        ],
+                        "description": "Centurion Battery was constructed to prevent surprise attacks by enemy torpedo boats. It was initially armed with two 12-pounder quick-firing guns, but they were removed in 1911 as the battery had been considered redundant by the Owen Committee in 1906.<br/><br/>In 1917, the battery was reconstructed to accommodate two 4.7-inch quick-firing guns. By 1939, the guns were removed and the battery was abandoned. They were most likely transferred to Chung Hom Kok Battery in 1938 as initial armaments.",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/39.jpg",
+                                    "description":"Former Centurion Battery, now Ngong Shuen Chau Naval Base. Photo taken in 1995.",
+                                    "credit":""
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                }
+            ]
+        },
+        "tc":{
+            "global":{
+                "selectDate": "選擇日期"
+            },
+            "menu":[
+                {
+                    "year":"1840年代",
+                    "description": "英國人在香港修建的首批永久防禦工事",
+                    "category":1840
+                },
+                {
+                    "year":"1850年代",
+                    "description": "因應克里米亞戰爭(1853-1856)與俄國交戰而額外增建的防禦工事",
+                    "category":1850
+                },
+                {
+                    "year":"1880至1890年代",
+                    "description": "應對法國和俄國在亞洲的軍事威脅所作的防禦工事",
+                    "category":1880
+                },
+                {
+                    "year":"1900年代",
+                    "description": "租借新界後修建的防禦工事",
+                    "category":1900
+                },
+                {
+                    "year":"1910年代",
+                    "description": "奧雲委員會評估香港的防衛佈局後提議修建",
+                    "category":1910
+                },
+                {
+                    "year":"1930年代至1941年",
+                    "description": "面對日本威脅而重組的防禦工事",
+                    "category":1930
+                }
+            ],
+            "batteries":[
+                {
+                    "name":"皇家炮台",
+                    "year":1846,
+                    "startDateOfCategory":1840,
+                    "endDateOfCategory":1880,
+                    "position":{
+                        "x":48, 
+                        "y":45.5
+                    },
+                    "details":{
+                        "list": [
+                            ["建成日期：", "1840年"],
+                            ["地點：", "金鐘美利道（近中環軍營及舊皇家海軍船塢）"],
+                            ["類別：", "海岸炮台"],
+                            ["炮位數量：", "不明"],
+                            ["裝備：", ["1846-60年 | 24磅前裝滑膛炮", "<span style='margin-left:32.2%'></span>| 32磅前裝滑膛炮"]],
+                            ["退役日期：", "1884年"],
+                            ["現狀：", "消失"],
+                            ["現今用途：", "美利道（近遮打花園）"]
+                        ],
+                        "description": "皇家炮台是英國在香港首批永久防禦工事之一，由皇家工程兵愛秩序少校設計，用於拱衛海軍錨地及市區，原計劃於1846年峻工，但工程因財政緊拙而延遲。1886年，炮台用<span>地被轉為公共休憩空間。</span>",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/02.jpg",
+                                    "description":"皇家炮台舊址，今美利道一帶。",
+                                    "credit":null
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                },
+                {
+                    "name":"美利炮台",
+                    "year":1845,
+                    "startDateOfCategory":1840,
+                    "endDateOfCategory":1900,
+                    "position":{
+                        "x":46.5, 
+                        "y":46.6
+                    },
+                    "details":{
+                        "list": [
+                            ["建成日期：", "1845"],
+                            ["地點：", "中環炮台里"],
+                            ["類別：", "海岸炮台"],
+                            ["炮位數量：", "9"],
+                            ["裝備：", ["1846年 | 6至9門大炮", "1854年 | 6門24磅前裝滑膛炮", "<span style='margin-left:22.8%'></span>| 3門10英吋臼炮", "1894年 | 1門64磅前裝線膛炮"]],
+                            ["退役日期：", "1900年代初"],
+                            ["現狀：", "消失"],
+                            ["現今用途：", "前中區政府合署西座"]
+                        ],
+                        "description": "美利炮台以英國戰爭及殖民地大臣美利爵士(1772-1846)命<span>名，是英國在香港首批永久防禦工事之一，由皇家工程兵<span>愛秩序少校設計，用作保護政府總部及維多利亞港。美利軍<span>營亦於同一時間在炮台附近建成。</span><span><br/><br/></span><span>自1882年起，炮台只用作訓練用途。1901年因軍事設施搬遷，以及香港島上有新炮台建成而被棄用。炮台用地於1920年移交香港政府。1950年代，政府決定在該處興建新<span>的中區政府合署（現已搬遷至添馬）。</span></span></span></span>",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/01.jpg",
+                                    "description":"美利炮台舊址，即前中區政府合署一帶。",
+                                    "credit":null
+                                }
+                            ],
+                            "video":""
+                        }
+                    }
+                },
+                {
+                    "name":"威靈頓炮台",
+                    "year":1845,
+                    "startDateOfCategory":1840,
+                    "endDateOfCategory":1880,
+                    "position":{
+                        "x":50.5, 
+                        "y":47
+                    },
+                    "details":{
+                        "list": [
+                            ["建成日期：", "1845年"],
+                            ["地點：", "近灣仔香港警察總部"],
+                            ["類別：", "海岸炮台"],
+                            ["炮位數量：", "9"],
+                            ["裝備：", ["1845年 | 6門24磅前裝滑膛炮", "1854年 | 9門32磅前裝滑膛炮"]],
+                            ["退役日期：", "1887年"],
+                            ["現狀：", "消失"],
+                            ["現今用途：", "香港警察總部"]
+                        ],
+                        "description": "威靈頓炮台是英國在香港首批永久防禦工事之一，座落於軍方醫院前的岸邊，由皇家工程兵愛秩序少校設計，並以第一代威靈頓公爵阿瑟‧韋爾斯利(1769-1852)命名。自1875年起，所有火炮均被移除，炮台位置於1887年成為水雷炮兵<span>的軍營。該處現為香港警察總部。</span>",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/03.jpg",
+                                    "description":"威靈頓炮台舊址，今警察總部。",
+                                    "credit":null
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                },
+                {
+                    "name":"西角炮台",
+                    "year":1850,
+                    "startDateOfCategory":1850,
+                    "endDateOfCategory":9999,
+                    "position":{
+                        "x":42.5, 
+                        "y":42.5
+                    },
+                    "details":{
+                        "list": [
+                            ["建成日期：", "1850年代"],
+                            ["地點：", "西營盤聖類斯中學"],
+                            ["類別：", "海岸炮台"],
+                            ["炮位數量：", "不明"],
+                            ["裝備：", ["1854年 | 11門32磅前裝滑膛炮", "<span style='margin-left:22.8%'></span>| 2門8英吋前裝線膛榴彈炮"]],
+                            ["退役日期：", "不明"],
+                            ["現狀：", "消失"],
+                            ["現今用途：", "聖類斯中學"]
+                        ],
+                        "description": "西角炮台因英國與俄國陷入克里米亞戰爭(1853-56)而建<span>立，但旋即於1855年被廢置。炮台的正式退役日期並無記<span>錄，但它在1865年的調查中仍然存在。</span></span>",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/04.jpg",
+                                    "description":"西角炮台舊址，今聖類斯中學。",
+                                    "credit":null
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                },                
+                {
+                    "name":"奇力島炮台",
+                    "year":1854,
+                    "startDateOfCategory":1850,
+                    "endDateOfCategory":1860,
+                    "position":{
+                        "x":55, 
+                        "y":43
+                    },
+                    "details":{
+                        "list": [
+                            ["建成日期：", "1854年"],
+                            ["地點：", "紅磡海底隧道銅鑼灣入口東面"],
+                            ["類別：", "海岸炮台"],
+                            ["炮位數量：", "3"],
+                            ["裝備：", ["1854-60年代 | 3門32磅前裝滑膛炮"]],
+                            ["退役日期：", "1860年代"],
+                            ["現狀：", "消失"],
+                            ["現今用途：", "香港遊艇會會所"]
+                        ],
+                        "description": "奇力島炮台因英國與俄國陷入克里米亞戰爭(1853-1856)而<span>建立，以協助停泊在維多利亞港東面入口的醫院船「<span>赫丘利斯號」一同保護港口。</span><span><br/><br/></span><span>自1860年九龍半島被割讓予英國後，奇力島的防衛重要性大不如前，炮台後被改作海軍的彈藥庫，直至1938年遊艇會進駐島上。1969年奇力島因填海工程而與銅鑼灣相連。</span></span>",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/05.jpg",
+                                    "description":"奇力島炮台舊址，今香港遊艇會會所。",
+                                    "credit":""
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                },
+                {
+                    "name":"佔領角炮台",
+                    "year":1854,
+                    "startDateOfCategory":1850,
+                    "endDateOfCategory":1860,
+                    "position":{
+                        "x":44.8, 
+                        "y":42.5
+                    },
+                    "details":{
+                        "list": [
+                            ["建成日期：", "1854年"],
+                            ["地點：", "上環荷李活道公園"],
+                            ["類別：", "海岸炮台"],
+                            ["炮位數量：", "2"],
+                            ["裝備：", ["1854年 | 2門8英吋前裝線膛榴彈炮"]],
+                            ["退役日期：", "不明"],
+                            ["現狀：", "消失"],
+                            ["現今用途：", "荷李活道公園"]
+                        ],
+                        "description": "這炮台位於佔領角岸邊，因英國與俄國陷入克里米亞戰<span>爭(1853-56)而建立。英軍並租用了附近樓房<span>Edgers Bungalow六個月作炮台駐軍宿舍。炮台的正式<span>退役日期並無記錄，但它在1865年的調查中仍然存在。</span></span></span>",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/06.jpg",
+                                    "description":"佔領角炮台舊址，今荷李活道公園。",
+                                    "credit":""
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                },
+                {
+                    "name":"域多利炮台",
+                    "year":1890,
+                    "startDateOfCategory":1880,
+                    "endDateOfCategory":1900,
+                    "position":{
+                        "x":42, 
+                        "y":44.6
+                    },
+                    "details":{
+                        "list": [
+                            ["建成日期：", "1890年"],
+                            ["地點：", "薄扶林大學道1號香港大學校長寓所"],
+                            ["類別：", "海岸炮台"],
+                            ["炮位數量：", "1"],
+                            ["裝備：", ["1890年 | 1門9.2英吋後裝線膛炮"]],
+                            ["退役日期：", "1907年"],
+                            ["現狀：", "消失"],
+                            ["現今用途：", "香港大學校長寓所"]
+                        ],
+                        "description": "域多利炮台是為守衛維多利亞港入口以應對法國及俄國的軍事威脅而建立。1906年奧雲委員會決定棄置炮台；用地最<span>終於1920年交回香港政府。</span><span><br/><br/></span><span>1965年，香港大學在該處興建校長宿舍，發現一門英軍遺留的大炮，校方最終決定將大炮納入宿舍花園範圍。大炮現<span>置在石製基座上，並附有說明簡介。</span></span>",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/07.jpg",
+                                    "description":"域多利炮台舊址，今香港大學校長寓所。",
+                                    "credit":""
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                },
+                {
+                    "name":"法拉角炮台",
+                    "year":1890,
+                    "startDateOfCategory":1880,
+                    "endDateOfCategory":1910,
+                    "position":{
+                        "x":39, 
+                        "y":44.8
+                    },
+                    "details":{
+                        "list": [
+                            ["建成日期：", "1890年"],
+                            ["地點：", "薄扶林道香港大學利瑪竇宿舍"],
+                            ["類別：", "海岸炮台"],
+                            ["炮位數量：", "1"],
+                            ["裝備：", ["1890年 | 1門10英吋後裝線膛炮"]],
+                            ["退役日期：", "1912年"],
+                            ["現狀：", "消失"],
+                            ["現今用途：", "香港大學利瑪竇宿舍"]
+                        ],
+                        "description": "法拉角炮台是為應對法國及俄國在亞洲的軍事威脅而建立。1906年，奧雲委員會認為炮台是多餘的防衛設施，炮台遂<span>於1912年退役。其後，炮台用地被改建為大學宿舍。</span>",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/08.jpg",
+                                    "description":"法拉角炮台舊址，今香港大學利瑪竇宿舍。",
+                                    "credit":""
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                },
+                {
+                    "name":"下卑路乍炮台",
+                    "year":1890,
+                    "startDateOfCategory":1880,
+                    "endDateOfCategory":1945,
+                    "position":{
+                        "x":38.5, 
+                        "y":42.7
+                    },
+                    "details":{
+                        "list": [
+                            ["建成日期：", "1890年"],
+                            ["地點：", "港島西寶翠園"],
+                            ["類別：", "海岸炮台"],
+                            ["炮位數量：", "3"],
+                            ["裝備：", ["1890年 | 3門6英吋後裝線膛炮V型", "1897年 | 3門6英吋後裝線膛炮V型", "<span style='margin-left:22.8%'></span>| 2門6磅後裝速射炮（分佈<span style='margin-left:25.5%'></span>在上、下炮台）", "<span style='margin-left:22.8%'></span>| 3門3磅後裝速射炮（分佈<span style='margin-left:25.5%'></span>在上、下炮台）", "1905年 | 2門6英吋後裝線膛炮VII型", "1941年 | 2門4.7英吋後裝速射炮"]],
+                            ["退役日期：", "1945年"],
+                            ["現狀：", "消失"],
+                            ["現今用途：", "私人住宅"]
+                        ],
+                        "description": "<span>卑路乍炮台建於19世紀末，分上、下兩部分，為守衛<span>維多利亞港入口以應對法國及俄國的軍事威脅而興建。</span><span><br/><br/></span><span>下卑路乍炮台最初裝備了三門6英吋後裝線膛炮。炮台軍備其後經歷數次變動，並於1941年換成兩門從鯉魚門西炮台運來的4.7英吋速射炮，這是為應對日本的威脅而作出的防<span>務調整。</span><span><br/><br/></span><span>在1941年12月香港保衛戰期間，炮台由皇家炮兵團第965防衛炮連駐守，但兩門速射炮於14日遭炮擊損毀，守軍最終在25日將火炮炸毀。炮台用地於1956年移交予政府，後來<span>改建為私人住宅。</span></span></span>",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/09.jpg",
+                                    "description":"下卑路乍炮台舊址，今已改作私人住宅。",
+                                    "credit":""
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                },
+                {
+                    "name":"上卑路乍炮台",
+                    "year":1890,
+                    "startDateOfCategory":1880,
+                    "endDateOfCategory":1945,
+                    "position":{
+                        "x":39.8, 
+                        "y":41.5
+                    },
+                    "details":{
+                        "list": [
+                            ["建成日期：", "1890年"],
+                            ["地點：", "港島西寶翠園"],
+                            ["類別：", "海岸炮台"],
+                            ["炮位數量：", "2"],
+                            ["裝備：", ["1890年 | 1門10英吋後裝線膛炮", "<span style='margin-left:22.8%'></span>| 1門6英吋後裝線膛炮V型", "1897年 | 1門10英吋後裝線膛炮", "<span style='margin-left:22.8%'></span>| 1門6英吋後裝線膛炮V型", "<span style='margin-left:22.8%'></span>| 2門6磅後裝速射炮（分佈<span style='margin-left:25.5%'></span>在上、下炮台）", "<span style='margin-left:20.5%'></span> | 3門3磅後裝速射炮（分佈<span style='margin-left:25.5%'></span>在上、下炮台）", "1906年 | 1門10英吋後裝線膛炮", "<span style='margin-left:22.8%'></span>| 1門12磅後裝速射炮", "1913年 | 1門6英吋後裝線膛炮VII型", "<span style='margin-left:22.8%'></span>| 1門12磅後裝速射炮", "1917-41年 | 1門6英吋後裝線膛炮V<span style='margin-left:35%'></span>型"]],
+                            ["退役日期：", "1945年"],
+                            ["現狀：", "消失"],
+                            ["現今用途：", "私人住宅"]
+                        ],
+                        "description": "卑路乍炮台建於19世紀末，為守衛維多利亞港入口以應對法<span>國及俄國的軍事威脅而興建，分上、下兩部分。<span>上卑路乍炮台原裝備了10英吋及6英吋大炮各一門。1905<span>年，6英吋炮被換成12磅速射炮；到1912年，10英吋炮亦<span>被6英吋炮取代；三年後更只剩下一門6英吋炮。</span><span><br/><br/></span><span>在1941年12月香港保衛戰期間，皇家炮兵團第965防衛炮連駐守於此，並在13日用炮火摧毀了6艘日軍貨船。守軍最終在25日奉命把火炮炸毀。炮台用地於1956年移交政府，後來改建為私人住宅。但一門10英吋炮則留在原地，直至<span>1997年屋苑重建，被移送至香港海防博物館展出。</span></span></span></span></span>",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/10.jpg",
+                                    "description":"上卑路乍炮台舊址，今已改作私人住宅。",
+                                    "credit":""
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                },
+                {
+                    "name":"義律炮台",
+                    "year":1900,
+                    "startDateOfCategory":1900,
+                    "endDateOfCategory":1910,
+                    "position":{
+                        "x":40.2, 
+                        "y":43.7
+                    },
+                    "details":{
+                        "list": [
+                            ["建成日期：", "約1900年"],
+                            ["地點：", "近今日薄扶林西區抽水站及香港大學周亦卿樓"],
+                            ["類別：", "海岸炮台"],
+                            ["炮位數量：", "2"],
+                            ["裝備：", ["1900年 | 2門12磅後裝速射炮"]],
+                            ["退役日期：", "1913年"],
+                            ["現狀：", "消失"],
+                            ["現今用途：", "西區抽水站及香港大學周亦卿樓"]
+                        ],
+                        "description": "義律炮台位於卑路乍炮台上方，為守衛維多利亞港入口以<span>應對法國及俄國在亞洲的軍事威脅而建立。</span><span><br/><br/></span><span>1906年，奧雲委員會認為炮台是多餘的防衛設施，因此火炮只用作訓練。1913年，炮台正式退役；炮台部分用地於三年後改建為配水庫。到1921年，另一部分炮台用地被移<span>交政府，以配合薄扶林道重整工程。</span></span>",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/11.jpg",
+                                    "description":"義律炮台舊址，今西區抽水站及香港大學周亦卿樓一帶。",
+                                    "credit":""
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                },
+                {
+                    "name":"松林炮台",
+                    "year":1905,
+                    "startDateOfCategory":1900,
+                    "endDateOfCategory":1945,
+                    "position":{
+                        "x":40.6, 
+                        "y":46.3
+                    },
+                    "details":{
+                        "list": [
+                            ["建成日期：", "1905年"],
+                            ["地點：", "近今日山頂克頓道"],
+                            ["類別：", "海岸炮台／<span style='margin-left:-3.8%'></span>防空炮台"],
+                            ["炮位數量：", "2"],
+                            ["裝備：", ["1905年 | 2門6英吋後裝線膛炮VII型", "1920年代 | 2門3英吋高射炮I型"]],
+                            ["退役日期：", "1945年"],
+                            ["現狀：", "現存"],
+                            ["現今用途：", "龍虎山郊野公園"]
+                        ],
+                        "description": "松林炮台位處307米高的山崗上，是香港最高的海岸防衛炮台。1899年英國租借新界，軍部檢討防務後，建議在該處設立炮台。但炮台剛建成後一年，奧雲委員會在1906年即視炮台為多餘的防衛建設，所有火炮在1913年被移除。自<span>1920年代中起，炮台裝置高射炮，重新投入使用。</span><span><br/><br/></span><span>1941年12月香港保衛戰期間，炮台由香港及新加坡皇家炮兵團第17重高射炮連駐防，15日遭受日軍猛烈轟炸，一門高射炮及其他器材被炸毀，駐軍被逼棄守。時至今日，這個已被廢棄多時的炮台成為龍虎山郊野公園的一部分，並設<span>有告示牌講述箇中故事。</span></span>",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/12.jpg",
+                                    "description":"松林炮台舊址，今龍虎山郊野公園的一部分。",
+                                    "credit":""
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                },
+                {
+                    "name":"摩星嶺炮台",
+                    "year":1912,
+                    "startDateOfCategory":1910,
+                    "endDateOfCategory":1945,
+                    "position":{
+                        "x":36.1, 
+                        "y":46.8
+                    },
+                    "details":{
+                        "list": [
+                            ["建成日期：", "1912年"],
+                            ["地點：", "香港島最西端摩星嶺山頂"],
+                            ["類別：", "海岸炮台"],
+                            ["炮位數量：", "2"],
+                            ["裝備：", ["1912年 | 5門9.2英吋後裝線膛炮", "1941年 | 3門9.2英吋後裝線膛炮", "<span style='margin-left:22.8%'></span>| 2門3.7英吋高射炮"]],
+                            ["退役日期：", "1945年"],
+                            ["現狀：", "現存"],
+                            ["現今用途：", "青年旅社及摩星嶺徑"]
+                        ],
+                        "description": "<span>1906年，奧雲委員會提議在摩星嶺建立炮台，以防衛<span>維多利亞港的西面入口。炮台竣工後成為西部火力指揮部。1935年，五門大炮的其中兩門因應本地防務調整而被移到<span>赤柱炮台。</span><span><br/><br/></span><span>1941年12月香港保衛戰期間，炮台由皇家炮兵團第24海防炮連及香港及新加坡皇家炮兵團第17重高射炮連駐防。14日，一門高射炮被擊毀；至16日，炮台遭日本轟炸機和重炮連番轟炸，指揮總部被炸毀。最終守軍在25日自行摧毀<span>炮台剩餘的武器和設備。</span></span><span><br/></span><span>炮台用地在戰後被轉作其它軍事用途，在1970年代前一直是皇家空軍雷達站。到了1980年代，炮台的部分用地被用作興建青年旅社，餘下的炮台遺迹現為遠足徑的一部分。</span></span></span>",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/13_thumb.jpg",
+                                    "description":"",
+                                    "credit":""
+                                },
+                                {
+                                    "src":"/images/d01/13.jpg",
+                                    "description":"摩星嶺炮台舊址，今青年旅社及摩星嶺徑。",
+                                    "credit":""
+                                }
+                            ],
+                            "video":"/images/d01/13.mp4"
+                        }
+                    }
+                },
+                {
+                    "name":"銀禧炮台",
+                    "year":1939,
+                    "startDateOfCategory":1930,
+                    "endDateOfCategory":1945,
+                    "position":{
+                        "x":34.5, 
+                        "y":47.7
+                    },
+                    "details":{
+                        "list": [
+                            ["建成日期：", "1939年"],
+                            ["地點：", "香港島摩星嶺山麓"],
+                            ["類別：", "海岸炮台"],
+                            ["炮位數量：", "3"],
+                            ["裝備：", ["1939-41年 | 3門6英吋後裝線膛炮<span style='margin-left:35.8%'></span>VII型"]],
+                            ["退役日期：", "1945年"],
+                            ["現狀：", "現存"],
+                            ["現今用途：", "芝加哥大學香港分校"]
+                        ],
+                        "description": "銀禧炮台為應對1930年代日本的威脅而興建，英文名稱取自附近的「域多利銀禧道」（今稱域多利道）。炮台備有三門6英吋大炮，其中兩門從卑路乍炮台調來，另外一門則<span>從白沙灣炮台運來。</span><span><br/><br/></span><span>在1941年12月香港保衛戰期間，炮台由皇家炮兵第12海防炮團駐防。當日軍於11日嘗試登陸南丫島時，炮台守軍曾<span>向敵軍發炮。至25日炮台被守軍自行摧毀。</span></span><span><br/></span><span>炮台在戰後被廢棄，1950年代初政府在原址設立域多利道扣押中心，俗稱「白屋」，「白屋」直至1997年前停止運作，近年被活化為芝加哥大學香港分校；部分炮台遺跡已被<span>保育並開放予公眾參觀。</span></span>",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/14.jpg",
+                                    "description":"銀禧炮台舊址，今芝加哥大學香港分校的一部分。",
+                                    "credit":""
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                },
+                {
+                    "name":"北角炮台",
+                    "year":1879,
+                    "startDateOfCategory":1880,
+                    "endDateOfCategory":1900,
+                    "position":{
+                        "x":59.3, 
+                        "y":40.5
+                    },
+                    "details":{
+                        "list": [
+                            ["建成日期：", "1879年"],
+                            ["地點：", "北角堡壘街"],
+                            ["類別：", "海岸炮台"],
+                            ["炮位數量：", "4"],
+                            ["裝備：", ["1886-89年 | 1門9英吋前裝線膛炮", "<span style='margin-left:32.2%'></span>| 2門7英吋前裝線膛炮", "<span style='margin-left:32.2%'></span>| 1門8英吋前裝線膛榴<span style='margin-left:35.8%'></span>彈炮", "1894年 | 2門9英吋前裝線膛炮", "1905年 | 2門6英吋後裝線膛炮"]],
+                            ["退役日期：", "1907年"],
+                            ["現狀：", "消失"],
+                            ["現今用途：", "堡壘街"]
+                        ],
+                        "description": "北角炮台為守衛維多利亞港入口以應對法國及俄國在亞洲的軍事威脅而建立。它位處現今堡壘街附近的一個小山丘上，<span>設有彈藥庫及營房。</span><span><br/><br/></span><span>奧雲委員會認為北角炮台是多餘的防衛建設，因此所有火炮於1907至08年間被移除，炮台用地則於1920年代初移交香<span>港政府作城市發展。</span></span>",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/15.jpg",
+                                    "description":"北角炮台舊址，今堡壘街一帶。",
+                                    "credit":""
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                },
+                {
+                    "name":"鯉魚門堡壘炮台",
+                    "year":1887,
+                    "startDateOfCategory":1880,
+                    "endDateOfCategory":1910,
+                    "position":{
+                        "x":72.9, 
+                        "y":44
+                    },
+                    "details":{
+                        "list": [
+                            ["建成日期：", "1887年"],
+                            ["地點：", "香港海防博物館"],
+                            ["類別：", "海岸炮台"],
+                            ["炮位數量：", "2"],
+                            ["裝備：", ["1890年 | 2門6英吋後裝線膛炮IV型"]],
+                            ["退役日期：", "1910年"],
+                            ["現狀：", "現存"],
+                            ["現今用途：", "香港海防博物館"]
+                        ],
+                        "description": "鯉魚門堡壘炮台是整個鯉魚門要塞的一部分，堡壘是一個擁有大量地下工事的堅固建築，配備6英吋隱沒式大炮，以防<span>衛維多利亞港的東面入口。</span><span><br/><br/></span><span><span>隱沒式大炮採用液壓升降，使大炮在開火後得以「隱<span>沒」。由於防衛計劃改變，隱沒式大炮在1910年開始已不再被列入軍備清單，儘管其中一門大炮仍留在原地直至1935年。此後堡壘改作彈藥庫。炮台於1941年12月18日遭<span>日軍攻陷。</span><span><br/><br/></span><span>堡壘用地在戰後被英軍用作訓練場地直至1987年。一門原裝的6英吋大炮於1970年在堡壘的壕溝中被發現，而炮架則<span>在1982年出土。大炮及炮架均被送往英國，目前展於<span>伍利奇皇家炮兵博物館。</span></span></span></span></span>",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/16.jpg",
+                                    "description":"鯉魚門堡壘炮台舊址，今香港海防博物館的一部分。",
+                                    "credit":""
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                },
+                {
+                    "name":"鯉魚門中央炮台",
+                    "year":1887,
+                    "startDateOfCategory":1880,
+                    "endDateOfCategory":1900,
+                    "position":{
+                        "x":71.8, 
+                        "y":42.7
+                    },
+                    "details":{
+                        "list": [
+                            ["建成日期：", "1887年"],
+                            ["地點：", "香港海防博物館"],
+                            ["類別：", "海岸炮台"],
+                            ["炮位數量：", "2"],
+                            ["裝備：", ["1887年 | 2門64磅前裝線膛炮III型"]],
+                            ["退役日期：", "1903年"],
+                            ["現狀：", "現存"],
+                            ["現今用途：", "香港海防博物館"]
+                        ],
+                        "description": "鯉魚門中央炮台是整個鯉魚門要塞的一部分，用以防衛<span>維多利亞港的東面入口，但由於炮台的位置過高，無法攻擊鯉魚門海峽中的目標，最終於1903年被除名，其配備的火炮則於1905年被移除。炮台於1941年12月18日遭日軍<span>攻陷。</span></span><span style='width:100%'><br/></span><span>炮台用地在戰後被轉作英軍訓練場地直至1987年。</span>",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/17.jpg",
+                                    "description":"鯉魚門中央炮台舊址，今香港海防博物館的一部分。",
+                                    "credit":""
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                },
+                {
+                    "name":"鯉魚門西炮台",
+                    "year":1887,
+                    "startDateOfCategory":1880,
+                    "endDateOfCategory":1940,
+                    "position":{
+                        "x":70, 
+                        "y":44
+                    },
+                    "details":{
+                        "list": [
+                            ["建成日期：", "1887年"],
+                            ["地點：", "香港海防博物館"],
+                            ["類別：", "海岸炮台"],
+                            ["炮位數量：", "2"],
+                            ["裝備：", ["1887年 | 2門9英吋前裝線膛炮", "1917年 | 2門4.7英吋後裝速射炮"]],
+                            ["退役日期：", "1941年"],
+                            ["現狀：", "現存"],
+                            ["現今用途：", "香港海防博物館"]
+                        ],
+                        "description": "鯉魚門西炮台是整個鯉魚門要塞的一部分。它起初配備兩門9英吋前裝炮，是裝設在鯉魚門口徑最大的火炮，直到1907<span>年因過時而被移除。</span><span><br/><br/></span><span>炮台於1914年改裝4.7英吋速射炮以應對潛在的魚雷艇攻<span>擊，為應對日本威脅而作防務調整，這兩門炮於1941年被<span>調往下卑路乍炮台。炮台於1941年12月18日遭日軍攻陷。</span><span><br/><br/></span><span>炮台用地在戰後被轉作英軍訓練場地直至1987年。</span></span></span>",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/18.jpg",
+                                    "description":"鯉魚門西炮台舊址，今香港海防博物館的一部分。",
+                                    "credit":""
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                },
+                {
+                    "name":"鯉魚門渡口炮台",
+                    "year":1892,
+                    "startDateOfCategory":1880,
+                    "endDateOfCategory":1900,
+                    "position":{
+                        "x":71.5, 
+                        "y":41.2
+                    },
+                    "details":{
+                        "list": [
+                            ["建成日期：", "1892年"],
+                            ["地點：", "香港海防博物館"],
+                            ["類別：", "海岸炮台"],
+                            ["炮位數量：", "2"],
+                            ["裝備：", ["1892年 | 2門哈乞開斯6磅後裝速射<span style='margin-left:25.5%'></span>炮"]],
+                            ["退役日期：", "1907年"],
+                            ["現狀：", "現存"],
+                            ["現今用途：", "香港海防博物館"]
+                        ],
+                        "description": "鯉魚門渡口炮台是整個鯉魚門要塞的一部分。位於鯉魚門要塞北岸的海邊。它別稱為鯉魚門西速射炮台，有時會與在<span>1914年安裝速射炮的西炮台混淆。</span><span><br/><br/></span><span><span>炮台設計用以擊退小型、快速魚雷艇的突擊。1906年<span>奧雲委員會建議撤去炮台的火炮。日軍於1941年12月18日在此附近碼頭登陸，隨即進攻炮台，戰鬥所造成的彈孔至<span>今仍清晰可見。</span><span><br/><br/></span><span>炮台用地在戰後被轉作英軍訓練場地直至1987年。</span></span></span></span>",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/19.jpg",
+                                    "description":"鯉魚門渡口炮台舊址，今香港海防博物館的一部分。",
+                                    "credit":""
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                },
+                {
+                    "name":"鯉魚門反向炮台",
+                    "year":1887,
+                    "startDateOfCategory":1880,
+                    "endDateOfCategory":1900,
+                    "position":{
+                        "x":71.4, 
+                        "y":45.2
+                    },
+                    "details":{
+                        "list": [
+                            ["建成日期：", "1887年"],
+                            ["地點：", "香港海防博物館"],
+                            ["類別：", "海岸炮台"],
+                            ["炮位數量：", "4"],
+                            ["裝備：", ["1887年 | 3門9英吋前裝線膛炮", "1897年 | 3門9英吋前裝線膛炮", "<span style='margin-left:22.8%'></span>| 1門6磅後裝速射炮"]],
+                            ["退役日期：", "1907年"],
+                            ["現狀：", "拆除"],
+                            ["現今用途：", "香港海防博物館（不對外開放）"]
+                        ],
+                        "description": "鯉魚門反向炮台是整個鯉魚門要塞的一部分。它最初配備三<span>門9英吋炮，至1897年，增設了一門6磅速射炮。</span><span><br/><br/></span><span>炮台設計用以覆蓋整個雷區，以防衛維多利亞港的東面入<span>口。但反向炮台因為射界太窄，且每門大炮只能對進入鯉魚門海峽的目標進行一次射擊，最終於1907年撤去所有火<span><span>炮。炮台於1941年12月18日遭日軍攻陷。</span><span><br/><br/></span><span>戰後，炮台被改建為兩座營房，1987年英軍撤出鯉魚門要<span>塞前仍在使用。炮台舊址暫不對外開放。</span></span></span></span></span></span>",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/20.jpg",
+                                    "description":"鯉魚門反向炮台舊址，今香港海防博物館範圍。",
+                                    "credit":""
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                },
+                {
+                    "name":"鯉魚門榴彈炮台",
+                    "year":1897,
+                    "startDateOfCategory":1880,
+                    "endDateOfCategory":1945,
+                    "position":{
+                        "x":69.8, 
+                        "y":46.5
+                    },
+                    "details":{
+                        "list": [
+                            ["建成日期：", "1897年"],
+                            ["地點：", "鯉魚門公園"],
+                            ["類別：", "海岸炮台"],
+                            ["炮位數量：", "2"],
+                            ["裝備：", ["1897年 | 2門8英吋前裝線膛榴彈炮", "1941年 | 2門6英吋榴彈炮"]],
+                            ["退役日期：", "1945年"],
+                            ["現狀：", "消失"],
+                            ["現今用途：", "鯉魚門公園"]
+                        ],
+                        "description": "鯉魚門榴彈炮台位於鯉魚門軍營及鯉魚門堡壘之間山上的一個混凝土平台，備有火炮，配合彈藥儲藏櫃，用於加強維<span>多利亞港東面入口的防禦。</span><span><br/><br/></span><span>1941年12月香港保衛戰期間，炮台由香港及新加坡皇家炮兵團第3中型炮兵連駐防。至18日，日軍夜襲香港島，守軍<span>猝不及防，就被日軍佔領了炮台。</span></span>",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/21.jpg",
+                                    "description":"鯉魚門榴彈炮台舊址，今鯉魚門公園的一部分。",
+                                    "credit":""
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                },
+                {
+                    "name":"白沙灣炮台",
+                    "year":1903,
+                    "startDateOfCategory":1880,
+                    "endDateOfCategory":1945,
+                    "position":{
+                        "x":73, 
+                        "y":46.2
+                    },
+                    "details":{
+                        "list": [
+                            ["建成日期：", "1903年"],
+                            ["地點：", "香港海防博物館"],
+                            ["類別：", "海岸炮台"],
+                            ["炮位數量：", "4"],
+                            ["裝備：", ["1903年 | 4門12磅後裝速射炮", "1910年 | 3門6英吋後裝線膛炮VII型", "1936-41年 | 2門6英吋後裝線膛炮<span style='margin-left:35.8%'></span>VII型", "1945年 | 1門6英吋後裝線膛炮VII型"]],
+                            ["退役日期：", "1957年"],
+                            ["現狀：", "現存"],
+                            ["現今用途：", "香港海防博物館（不對外開放）"]
+                        ],
+                        "description": "白沙灣炮台位於鯉魚門堡壘東邊的岬角，用以增強維多利亞港東面入口的防禦。炮台起初配有四門12磅速射炮，至<span>1909年換上三門火力更強的6英吋炮。至1936年，因應本地防務所作的調整，其中一門6英吋炮被調往新建成的銀禧<span>炮台。</span><span><br/><br/></span><span>1941年12月香港保衛戰期間，炮台由香港義勇防衛軍第4炮兵連駐防。自13日起，炮台遭受猛烈轟擊，當日軍在15日嘗試夜渡偷襲時，炮台守軍發炮把他們擊退，結果對岸魔鬼山上的日軍發炮還擊。至21日，炮台最終被攻佔。舊址暫<span>不對外開放。</span></span></span>",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/22.jpg",
+                                    "description":"白沙灣炮台舊址，今香港海防博物館範圍。",
+                                    "credit":""
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                },
+                {
+                    "name":"西灣炮台",
+                    "year":1903,
+                    "startDateOfCategory":1900,
+                    "endDateOfCategory":1957,
+                    "position":{
+                        "x":71.7, 
+                        "y":48.1
+                    },
+                    "details":{
+                        "list": [
+                            ["建成日期：", "1903年"],
+                            ["地點：", "西灣山"],
+                            ["類別：", "海岸炮台"],
+                            ["炮位數量：", "4"],
+                            ["裝備：", ["1903年 | 2門6英吋後裝線膛炮", "1920年代中期 | 2門3英吋高射炮", "1941年 | 4門3英吋高射炮", "<span style='margin-left:22.8%'></span>| 40毫米波佛斯高射炮", "<span style='margin-left:22.8%'></span>| 1門3.7英吋速射山炮", "1945年 | 4門3.7英吋高射炮"]],
+                            ["退役日期：", "1957年"],
+                            ["現狀：", "現存"],
+                            ["現今用途：", "西灣炮台晨運徑"]
+                        ],                        
+                        "description": "西灣炮台位於鯉魚門堡壘東南方的山上，與西灣堡壘同期建造，以增強維多利亞港東面入口的防禦及掩護新開發的北角及太古的側翼。炮台起初配有兩門6英吋炮，但三年後被<span>奧雲委員會認為冗餘，火炮遂而在1911年被移除。此後西灣炮台就如松林炮台一樣轉型為防空炮台，於1920年代中<span>期裝備兩門3英吋高射炮。</span><span><br/><br/></span><span>在1941年12月香港保衛戰期間，炮台由香港義勇防衛軍第5高射炮連駐防，據報炮兵曾擊中來襲的日本軍機。當日軍在18日攻陷炮台後，即把戰俘捆綁，並用刺刀殘忍殺害<span>戰俘。</span><span><br/><br/></span><span>戰後初年，炮台裝備四門3.7英吋高射炮，直至1957年英軍解散高射炮團，炮台才停止運作。炮台遺迹至今尚存，成<span>為西灣炮台晨運徑的一部分。</span></span></span></span>",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/23.jpg",
+                                    "description":"西灣炮台舊址，今西灣炮台晨運徑的一部分。",
+                                    "credit":""
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                },
+                {
+                    "name":"哥連臣炮台",
+                    "year":1938,
+                    "startDateOfCategory":1930,
+                    "endDateOfCategory":1945,
+                    "position":{
+                        "x":77.7, 
+                        "y":60.1
+                    },
+                    "details":{
+                        "list": [
+                            ["建成日期：", "1938年"],
+                            ["地點：", "港島東哥連臣角"],
+                            ["類別：", "海岸炮台"],
+                            ["炮位數量：", "2"],
+                            ["裝備：", ["1938-41年 | 2門6英吋後裝線膛炮<span style='margin-left:35.8%'></span>VII型"]],
+                            ["退役日期：", "1945年"],
+                            ["現狀：", "現存"],
+                            ["現今用途：", "廢置"]
+                        ],
+                        "description": "哥連臣炮台俯瞰帆船灣（現稱將軍澳）及維多利亞港的東面入口，建於1930年代，是因應日本軍事威脅所作的防務調<span>整。炮台配有兩門從昂船洲西炮台運來的6英吋大炮。</span><span><br/><br/></span><span>1941年12月香港保衛戰期間，炮台由皇家炮兵第8海防炮團的第36海防炮連駐防，在日軍登陸香港島以前並無任何行動記錄，最終守軍於19日撤退前炸毀炮台，炮台遺跡至今尚<span>存。</span></span>",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/24.jpg",
+                                    "description":"哥連臣炮台探射燈舊址，近歌連臣角懲教所。",
+                                    "credit":""
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                },
+                {
+                    "name":"赤柱炮台",
+                    "year":1937,
+                    "startDateOfCategory":1930,
+                    "endDateOfCategory":1940,
+                    "position":{
+                        "x":67.7, 
+                        "y":87.6
+                    },
+                    "details":{
+                        "list": [
+                            ["建成日期：", "1937年"],
+                            ["地點：", "港島南 （黃麻角炮台旁）"],
+                            ["類別：", "海岸炮台／<span style='margin-left:-3.8%'></span>防空炮台"],
+                            ["炮位數量：", "5"],
+                            ["裝備：", ["1941年 | 3門9.2英吋後裝線膛炮X<span style='margin-left:25.5%'></span>型", "<span style='margin-left:22.8%'></span>| 2門3英吋高射炮"]],
+                            ["退役日期：", "1952年"],
+                            ["現狀：", "現存"],
+                            ["現今用途：", "解放軍駐港部隊赤柱軍營（不對外開放）"]
+                        ],
+                        "description": "赤柱炮台是於1930年代為應對日本軍事威脅所作的防務調<span>整，火炮從歌賦炮台和摩星嶺炮台遷至。炮台落成後，港<span>島東射擊指揮總部即由魔鬼山搬到赤柱。</span><span><br/><br/></span><span>在1941年香港保衛戰期間，赤柱炮台由皇家炮兵第8海防炮團的第12海防炮連駐防。炮台守軍戰鬥到最後一刻，直至港督楊慕琦爵士(1886-1974)於12月25日宣布投降。赤柱炮台的守軍收到消息後於同日稍後時間向日軍投降。由於時間<span>緊逼，炮台及其設施未及破壞，已被日軍佔據。</span></span><span><br/></span><span>在日佔時期，日軍利用赤柱炮台二號及三號炮位作海防之<span>用，並為其加裝4英尺厚的炮盾。英軍在戰後歸來，並於1952年拆除炮台內所有火炮。至1970年，炮位用作衛星接<span>收器基座，直至1994年軍方始把炮台用地交回香港政府。</span></span></span></span>",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/25.jpg",
+                                    "description":"赤柱炮台舊址，今解放軍駐港部隊赤柱軍營的一部分。攝於1994年。",
+                                    "credit":""
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                },
+                {
+                    "name":"舂坎角炮台",
+                    "year":1941,
+                    "startDateOfCategory":1930,
+                    "endDateOfCategory":1945,
+                    "position":{
+                        "x":60.2, 
+                        "y":80.3
+                    },
+                    "details":{
+                        "list": [
+                            ["建成日期：", "1941年"],
+                            ["地點：", "舂磡角道末端"],
+                            ["類別：", "海岸炮台"],
+                            ["炮位數量：", "2"],
+                            ["裝備：", ["1941年 | 2門6英吋後裝線膛炮"]],
+                            ["退役日期：", "1945年"],
+                            ["現狀：", "現存"],
+                            ["現今用途：", "舂磡角慈氏護養院及舂坎角公園"]
+                        ],
+                        "description": "舂坎角炮台是於1930年代為應對日本軍事威脅所作的防務調<span>整。炮台分上下兩層，每層均配備一門6英吋大炮。</span><span><br/><br/></span><span>1941年12月香港保衛戰期間，炮台由皇家炮兵第8海防炮團的第36炮兵連駐防。至19日，守軍奉命炸毀炮台撤回赤<span>柱。上層炮台在戰後被重建成護養院，而下層炮台的穹頂則<span>被保存下來成為舂坎角公園的一部分。</span></span></span>",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/26.jpg",
+                                    "description":"舂坎角炮台舊址，今舂磡角慈氏護養院及舂坎角公園。",
+                                    "credit":""
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                },
+                {
+                    "name":"博加拉炮台",
+                    "year":1941,
+                    "startDateOfCategory":1930,
+                    "endDateOfCategory":1945,
+                    "position":{
+                        "x":79.2, 
+                        "y":81.3
+                    },
+                    "details":{
+                        "list": [
+                            ["建成日期：", "1941年"],
+                            ["地點：", "港島南 （近鶴咀燈塔）"],
+                            ["類別：", "海岸炮台"],
+                            ["炮位數量：", "2"],
+                            ["裝備：", ["1941年 | 2門9.2英吋後裝線膛炮"]],
+                            ["退役日期：", "1945年"],
+                            ["現狀：", "現存"],
+                            ["現今用途：", "地面衛星通訊站（不對外開放）"]
+                        ],
+                        "description": "博加拉炮台位處鶴咀半島南面，是1930年代為應對日本軍事威脅所作的防務調整。炮台的武器從魔鬼山的砵甸乍炮台<span>運來。</span><span><br/><br/></span><span>炮台在1941年12月日本進攻香港前夕完工，並曾於16日向駛進其射程範圍的日軍驅逐艦連發十餘炮，將之逼退。至19日，守軍奉命摧毀炮台並撤回赤柱。炮台用地於戰後被<span>轉為地面衛星通訊站，現屬不對外開放範圍。</span></span>",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/27.jpg",
+                                    "description":"博加拉炮台舊址，今為地面衛星通訊站",
+                                    "credit":""
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                },
+                {
+                    "name":"鶴咀炮台",
+                    "year":1939,
+                    "startDateOfCategory":1930,
+                    "endDateOfCategory":1945,
+                    "position":{
+                        "x":76.9, 
+                        "y":80.8
+                    },
+                    "details":{
+                        "list": [
+                            ["建成日期：", "1939年"],
+                            ["地點：", "港島南 （近鶴咀村）"],
+                            ["類別：", "臨時炮台／<span style='margin-left:-3.8%'></span>防空炮台"],
+                            ["炮位數量：", "2"],
+                            ["裝備：", ["1941年 | 2門4英吋後裝線膛炮"]],
+                            ["退役日期：", "1945年"],
+                            ["現狀：", "現存"],
+                            ["現今用途：", "廢置"]
+                        ],
+                        "description": "鶴咀炮台位處鶴咀半島南面，是1930年代為應對日本軍事威脅所作的防務調整。炮台配備兩門由皇家海軍提供的4英<span>吋炮。</span><span><br/><br/></span><span>1941年12月香港保衛戰期間，炮台由香港義勇防衛軍第1炮兵連和香港及新加坡皇家炮兵團第18輕高射炮連駐防。至<span>19日，守軍奉命摧毀炮台並撤回赤柱。炮台於戰後遭棄<span>置。</span></span></span>",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/28.jpg",
+                                    "description":"鶴咀炮台舊址",
+                                    "credit":""
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                },
+                {
+                    "name":"黃麻角炮台",
+                    "year":1939,
+                    "startDateOfCategory":1930,
+                    "endDateOfCategory":1945,
+                    "position":{
+                        "x":65.6, 
+                        "y":87.3
+                    },
+                    "details":{
+                        "list": [
+                            ["建成日期：", "1939年"],
+                            ["地點：", "港島南（近赤柱炮台）"],
+                            ["類別：", "臨時炮台"],
+                            ["炮位數量：", "2"],
+                            ["裝備：", ["1941年 | 2門6英吋後裝線膛炮"]],
+                            ["退役日期：", "1945年"],
+                            ["現狀：", "現存"],
+                            ["現今用途：", "解放軍駐港部隊赤柱軍營（不對外開放）"]
+                        ],
+                        "description": "<span>黃麻角炮台是1930年代為應對日本軍事威脅所作的防務調<span>整。炮台用地徵自當時居於黃麻角村的八戶家庭。</span><span><br/><br/></span><span>1941年12月香港保衛戰期間，炮台由香港義勇防衛軍第2炮兵連駐防，屢受日軍炮擊及空襲。至25日，炮台最終被日軍<span>攻佔。炮台用地現為解放軍駐港部隊赤柱軍營的一部分。</span></span></span>",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/29.jpg",
+                                    "description":"黃麻角炮台舊址，今解放軍駐港部隊赤柱軍營。",
+                                    "credit":"Mr Derek Lo提供"
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                },
+                {
+                    "name":"香港仔炮台",
+                    "year":1941,
+                    "startDateOfCategory":1930,
+                    "endDateOfCategory":1945,
+                    "position":{
+                        "x":44.6, 
+                        "y":65.6
+                    },
+                    "details":{
+                        "list": [
+                            ["建成日期：", "1941年"],
+                            ["地點：", "鴨脷洲邨以南"],
+                            ["類別：", "臨時炮台"],
+                            ["炮位數量：", "2"],
+                            ["裝備：", ["1941年 | 2門4英吋後裝線膛炮"]],
+                            ["退役日期：", "1945年"],
+                            ["現狀：", "現存"],
+                            ["現今用途：", "廢置"]
+                        ],
+                        "description": "香港仔炮台位於臨海的山坡上，是1930年代為應對日本軍事威脅所作的防務調整。炮台在1941年日本進攻香港前夕<span>完工。</span><span><br/><br/></span><span>1941年12月香港保衛戰期間，炮台由香港義勇防衛軍第3炮兵連駐防，守軍並於11日向試圖登陸南丫島的日軍開火。<span>炮台最終於12月24日由守軍自行摧毀。</span></span>",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/30.jpg",
+                                    "description":"香港仔炮台舊址，現已成廢墟。",
+                                    "credit":""
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                },
+                {
+                    "name":"九龍船塢炮台",
+                    "year":1880,
+                    "startDateOfCategory":1880,
+                    "endDateOfCategory":1900,
+                    "position":{
+                        "x":57.9, 
+                        "y":32.8
+                    },
+                    "details":{
+                        "list": [
+                            ["建成日期：", "1880年"],
+                            ["地點：", "聖公會奉基千禧小學"],
+                            ["類別：", "海岸炮台"],
+                            ["炮位數量：", "5"],
+                            ["裝備：", ["1886年 | 1門9英吋前裝線膛炮", "<span style='margin-left:22.8%'></span>| 2門7英吋前裝線膛炮", "<span style='margin-left:22.8%'></span>| 2門8英吋前裝線膛榴彈炮", "1894年 | 3門9英吋前裝線膛炮"]],
+                            ["退役日期：", "1905年"],
+                            ["現狀：", "消失"],
+                            ["現今用途：", "聖公會奉基千禧小學"]
+                        ],
+                        "description": "九龍船塢炮台位於前黃埔船塢內，為對抗法俄兩國的軍事威脅及防衛維多利亞港的東面入口而建造，使之與北角炮台形<span>成完整防禦。</span><span><br/><br/></span><span>到了1899年，炮台在英國租借新界後所作的防衛檢討中被視為冗餘。炮台於1905年退役，用地交還政府重新發展。如今炮台已蕩然無存，但曾經有一門9英吋前裝炮在黃埔花<span>園建造工程時出土。</span></span>",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/31.jpg",
+                                    "description":"九龍船塢炮台舊址，今聖公會奉基千禧小學一帶。",
+                                    "credit":""
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                },
+                {
+                    "name":"九龍東炮台",
+                    "year":1890,
+                    "startDateOfCategory":1880,
+                    "endDateOfCategory":1910,
+                    "position":{
+                        "x":57.7, 
+                        "y":30.5
+                    },
+                    "details":{
+                        "list": [
+                            ["建成日期：", "1890年"],
+                            ["地點：", "黃埔花園及戴亞街（九龍船塢炮台以北）"],
+                            ["類別：", "海岸炮台"],
+                            ["炮位數量：", "1"],
+                            ["裝備：", ["1895年 | 1門9.2英吋後裝線膛炮VI<span style='margin-left:25.5%'></span>型"]],
+                            ["退役日期：", "1911年"],
+                            ["現狀：", "消失"],
+                            ["現今用途：", "黃埔花園"]
+                        ],
+                        "description": "<span>九龍東炮台位於九龍船塢炮台上後方，主要為支援內部防<span>禦，及覆蓋鯉魚門海峽入口，並對抗法俄兩國的軍事威脅而<span>建造。</span><span><br/><br/></span><span>1906年，炮台被奧雲委員會評為應該拆除，至1911年已沒有裝備任何武器。炮台用地最終於1922年至30年分批移交<span>政府重新發展。</span></span></span></span>",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/32.jpg",
+                                    "description":"九龍東炮台舊址，今黃埔花園。",
+                                    "credit":""
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                },
+                {
+                    "name":"歌賦炮台",
+                    "year":1903,
+                    "startDateOfCategory":1900,
+                    "endDateOfCategory":1930,
+                    "position":{
+                        "x":73.9, 
+                        "y":39.4
+                    },
+                    "details":{
+                        "list": [
+                            ["建成日期：", "1903年"],
+                            ["地點：", "魔鬼山山腹"],
+                            ["類別：", "海岸炮台"],
+                            ["炮位數量：", "2"],
+                            ["裝備：", ["1903年 | 2門6英吋後裝線膛炮", "1911年 | 1門9.2英吋後裝線膛炮"]],
+                            ["退役日期：", "1936年"],
+                            ["現狀：", "現存"],
+                            ["現今用途：", "衛奕信徑的一部分"]
+                        ],
+                        "description": "英國租借新界後，英軍決定以魔鬼山作為陣地以增強維多利亞港東面入口的防禦，在不同高度上興建了兩座炮台，配合<span>位於魔鬼山頂的堡壘。</span><span><br/><br/></span><span>歌賦炮台位於魔鬼山較高位置，起初裝備兩門6英吋炮，1911-12年間，其中一個炮位擴建並裝上9.2英吋炮，而另一門6英吋炮則被拆除。至1936年，由於防衛計劃有變，這<span>門9.2英吋炮被調往赤柱炮台，此後炮台再沒有固定的<span>火炮。</span></span><span><br/></span><span>1941年12月香港保衛戰期間，第7拉吉普團第5營曾經駐防於此。當醉酒灣防線被攻破後，守軍奉命退守香港島。撤退行動始於12日，並於次日清晨全體撤離。隨後數天，日<span>軍以魔鬼山作為陣地攻擊香港島北岸。</span></span><span><br/><br/></span><span>炮台於戰後沒有裝備任何火炮，用地亦於1957年移交予<span>政府。</span></span></span>",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/40_thumb.jpg",
+                                    "description":"",
+                                    "credit":""
+                                },
+                                {
+                                    "src":"/images/d01/40.jpg",
+                                    "description":"歌賦炮台舊址，今衛奕信徑的一部分。",
+                                    "credit":""
+                                }
+                            ],
+                            "video":"/images/d01/40.mp4"
+                        }
+                    }
+                },
+                {
+                    "name":"砵甸乍炮台",
+                    "year":1903,
+                    "startDateOfCategory":1900,
+                    "endDateOfCategory":1930,
+                    "position":{
+                        "x":74.1, 
+                        "y":41.4
+                    },
+                    "details":{
+                        "list": [
+                            ["建成日期：", "1903年"],
+                            ["地點：", "魔鬼山山麓"],
+                            ["類別：", "海岸炮台"],
+                            ["炮位數量：", "2"],
+                            ["裝備：", ["1903年 | 2門9.2英吋後裝線膛炮"]],
+                            ["退役日期：", "1939年"],
+                            ["現狀：", "現存"],
+                            ["現今用途：", "衛奕信徑的一部分"]
+                        ],
+                        "description": "英國租借新界後，英軍決定以魔鬼山作為陣地以增強維多利亞港東面入口的防禦，在不同的高度興建了兩座炮台，配合<span>位於魔鬼山頂的堡壘。</span><span><br/><br/></span><span><span>砵甸乍炮台位於魔鬼山較低位置，起初裝備兩門9.2英吋<span>炮。至1939年，由於防衛計劃有變，其9.2英吋炮被調往博<span>加拉炮台，此後炮台再沒有固定的火炮。</span></span><span><br/></span><span>1941年12月香港保衛戰期間，第7拉吉普團第5營曾經駐防於此。當醉酒灣防線被攻破後，守軍奉命退守香港島。撤退行動始於12日，並於次日清晨全體撤離。隨後幾日，日<span>軍以魔鬼山作為陣地攻擊香港島北岸。</span></span><span><br/></span><span>炮台於戰後沒有裝備任何火炮，用地亦於1957年移交予<span>政府。</span></span></span></span>",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/41_thumb.jpg",
+                                    "description":"",
+                                    "credit":""
+                                },
+                                {
+                                    "src":"/images/d01/41.jpg",
+                                    "description":"砵甸乍炮台舊址，今衛奕信徑的一部分。",
+                                    "credit":""
+                                }
+                            ],
+                            "video":"/images/d01/41.mp4"
+                        }
+                    }
+                },
+                {
+                    "name":"九龍西炮台",
+                    "year":1878,
+                    "startDateOfCategory":1880,
+                    "endDateOfCategory":1910,
+                    "position":{
+                        "x":50.6, 
+                        "y":35.4
+                    },
+                    "details":{
+                        "list": [
+                            ["建成日期：", "1878-80年"],
+                            ["地點：", "九龍公園歷奇樂園"],
+                            ["類別：", "海岸炮台"],
+                            ["炮位數量：", "3"],
+                            ["裝備：", ["1886年 | 3門7英吋前裝線膛炮", "1894年 | 3門10英吋前裝線膛炮", "1904年 | 2門6英吋後裝線膛炮VII型"]],
+                            ["退役日期：", "1911年"],
+                            ["現狀：", "現存"],
+                            ["現今用途：", "九龍公園歷奇樂園"]
+                        ],
+                        "description": "九龍西炮台於1878至80年間為守衛維多利亞港入口以對抗<span>法俄兩國的軍事威脅而建成，雄踞整個九龍半島的英屬土<span>地，以至昂船洲至青洲一帶的海面。</span><span><br/><br/></span><span>炮台最初配備三門7英吋炮，至1886年，炮台改建並安裝三<span>門10英吋炮，及後於1901年再改裝，換上兩門6英吋後<span>裝炮。</span></span><span><br/></span><span>1906年炮台被奧雲委員會認定為多餘建設，炮台上的火炮遂於1907年被移除，此後炮台便成為炮兵的訓練場所。1970年威菲路軍營被改建為九龍公園時，炮台用地也改建<span>為兒童遊樂場。</span></span></span></span></span>",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/33.jpg",
+                                    "description":"九龍西炮台舊址，今九龍公園歷奇樂園。",
+                                    "credit":""
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                },
+                {
+                    "name":"昂船洲東炮台",
+                    "year":1881,
+                    "startDateOfCategory":1880,
+                    "endDateOfCategory":1910,
+                    "position":{
+                        "x":42.5, 
+                        "y":25.6
+                    },
+                    "details":{
+                        "list": [
+                            ["建成日期：", "1881年"],
+                            ["地點：", "昂船洲以東中間的高地"],
+                            ["類別：", "海岸炮台"],
+                            ["炮位數量：", "3"],
+                            ["裝備：", ["1881年 | 2門9英吋前裝線膛炮", "<span style='margin-left:22.8%'></span>| 1門8英吋前裝線膛榴彈炮", "1889年 | 2門9英吋前裝線膛炮", "1901年 | 2門4.7英吋後裝速射炮"]],
+                            ["退役日期：", "1912年"],
+                            ["現狀：", "現存"],
+                            ["現今用途：", "昂船洲海軍基地（不對外開放）"]
+                        ],
+                        "description": "昂船洲東炮台是首個在昂船洲建造的炮台，為保護<span>維多利亞港西面入口並對抗法俄兩國的軍事威脅而建造。炮台在原始文件中起初被稱為「中央炮台」，其後改稱「東<span>炮台」。</span><span><br/><br/></span><span>炮台最初裝備兩門9英吋炮及一門8英吋炮，至1894年，英軍拆除了兩門9英吋炮，並於1901年在原地裝上兩門4.7英吋速射炮作練習用途。至1906年，炮台被奧雲委員會認定<span>為多餘建設，所有火炮因而在1912年被移除。</span></span></span>",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/34.jpg",
+                                    "description":"昂船洲東炮台舊址，今昂船洲海軍基地。攝於1995年。",
+                                    "credit":""
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                },
+                {
+                    "name":"昂船洲南岸炮台",
+                    "year":1889,
+                    "startDateOfCategory":1880,
+                    "endDateOfCategory":1910,
+                    "position":{
+                        "x":39.5, 
+                        "y":23.4
+                    },
+                    "details":{
+                        "list": [
+                            ["建成日期：", "1889年"],
+                            ["地點：", "昂船洲盤地以北的高地"],
+                            ["類別：", "海岸炮台"],
+                            ["炮位數量：", "5"],
+                            ["裝備：", ["1889-99年 | 3門64磅前裝線膛炮", "<span style='margin-left:32.2%'></span>| 2門哈乞開斯6磅後裝<span style='margin-left:35%'></span>速射炮", "1903年 | 2門12磅後裝速射炮"]],
+                            ["退役日期：", "1912年"],
+                            ["現狀：", "現存"],
+                            ["現今用途：", "昂船洲海軍基地（不對外開放）"]
+                        ],
+                        "description": "昂船洲南岸炮台是為了保護維多利亞港西面入口，並對抗法<span>俄兩國的軍事威脅而建造。</span><span><br/><br/></span><span>炮台最初裝備三門64磅前裝炮及兩門哈乞開斯6磅速射炮，於1903年裝上兩門12磅後裝速射炮。但炮台於1906年被奧<span>雲委員會認定為多餘建設，遂於1912年宣告退役。</span></span>",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/35.jpg",
+                                    "description":"昂船洲南岸炮台舊址，今昂船洲海軍基地。攝於1995年。",
+                                    "credit":""
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                },
+                {
+                    "name":"昂船洲西炮台",
+                    "year":1890,
+                    "startDateOfCategory":1880,
+                    "endDateOfCategory":1945,
+                    "position":{
+                        "x":38.4, 
+                        "y":25.5
+                    },
+                    "details":{
+                        "list": [
+                            ["建成日期：", "1890年"],
+                            ["地點：", "昂船洲盤地以西的高地"],
+                            ["類別：", "海岸炮台"],
+                            ["炮位數量：", "6"],
+                            ["裝備：", ["1890年 | 2門10英吋後裝線膛炮", "<span style='margin-left:22.8%'></span>| 2門6英吋後裝線膛炮V型", "<span style='margin-left:22.8%'></span>| 1門6磅後裝速射炮", "1900年 | 2門10英吋後裝線膛炮", "<span style='margin-left:22.8%'></span>| 2門6英吋後裝線膛炮V型", "<span style='margin-left:22.8%'></span>| 1門6磅後裝速射炮", "<span style='margin-left:22.8%'></span>| 1門3磅吋後裝速射炮", "1906年 | 2門10英吋後裝線膛炮", "<span style='margin-left:22.8%'></span>| 2門6英吋後裝線膛炮", "1912年 | 5門6英吋後裝線膛炮VII型", "1938年 | 3門6英吋後裝線膛炮VII型", "1941年 | 2門6英吋後裝線膛炮VII型"]],
+                            ["退役日期：", "1945年"],
+                            ["現狀：", "現存"],
+                            ["現今用途：", "昂船洲海軍基地（不對外開放）"]
+                        ],
+                        "description": "昂船洲西炮台是為了保護維多利亞港西面入口，並對抗法俄<span>兩國的軍事威脅而建造。</span><span><br/><br/></span><span>炮台最初裝備10英吋炮、6英吋炮各兩門以及一門6磅速射炮，至1900年增設一門3磅速射炮。炮台軍備其後經歷幾次變動，並於1912年全面換裝為五門6英吋炮。到了1938<span>年，因應對本地防務所作的調整，其中兩門6英吋炮被調往<span>哥連臣炮台。</span></span><span><br/></span><span>1941年12月香港保衛戰期間，炮台遭到日軍猛烈轟炸，守軍於10日奉命向已被日軍攻佔的城門碉堡開火。至11日晚<span>上，守軍撤退前按照指示自行摧毀炮台。</span></span></span></span>",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/36.jpg",
+                                    "description":"昂船洲西炮台舊址，今昂船洲海軍基地。攝於1995年。",
+                                    "credit":""
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                },
+                {
+                    "name":"昂船洲中央炮台",
+                    "year":1891,
+                    "startDateOfCategory":1880,
+                    "endDateOfCategory":1910,
+                    "position":{
+                        "x":41.7, 
+                        "y":24.4
+                    },
+                    "details":{
+                        "list": [
+                            ["建成日期：", "1891年"],
+                            ["地點：", "現今貨櫃碼頭南路附近"],
+                            ["類別：", "海岸炮台"],
+                            ["炮位數量：", "4"],
+                            ["裝備：", ["1891年 | 1門10英吋後裝線膛炮I型", "<span style='margin-left:22.8%'></span>| 1門6英吋後裝線膛炮", "1894年 | 1門10英吋後裝線膛炮I型", "<span style='margin-left:22.8%'></span>| 1門6英吋後裝線膛炮V型", "<span style='margin-left:22.8%'></span>| 2門3磅後裝速射炮", "1906年 | 1門10英吋後裝線膛炮III<span style='margin-left:25.5%'></span>型", "<span style='margin-left:22.8%'></span>| 1門6英吋後裝線膛炮VII型", "1911年 | 1門10英吋後裝線膛炮III<span style='margin-left:25.5%'></span>型（封存）", "<span style='margin-left:22.8%'></span>| 1門6英吋後裝線膛炮VII<span style='margin-left:25.5%'></span>型（封存）"]],
+                            ["退役日期：", "1915年"],
+                            ["現狀：", "現存"],
+                            ["現今用途：", "昂船洲海軍基地（不對外開放）"]
+                        ],
+                        "description": "昂船洲中央炮台是為了保護維多利亞港西面入口，並對抗法俄兩國的軍事威脅而建造，起初被稱為「西中央炮台」，<span>其後改稱「中央炮台」。</span><span><br/><br/></span><span>炮台起初裝備一門10英吋炮及一門6英吋炮，並於1894年增設兩門3磅速射炮，但該兩門速射炮於1902年被拆除。炮台<span>於1906年被奧雲委員會認定為多餘建設，於1911年被封<span>存，並最終於1915年退役。</span></span></span>",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/37.jpg",
+                                    "description":"昂船洲中央炮台舊址，今昂船洲海軍基地。攝於1937年。",
+                                    "credit":""
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                },
+                {
+                    "name":"亞比安炮台",
+                    "year":1905,
+                    "startDateOfCategory":1900,
+                    "endDateOfCategory":1910,
+                    "position":{
+                        "x":44.6, 
+                        "y":24.4
+                    },
+                    "details":{
+                        "list": [
+                            ["建成日期：", "1905年"],
+                            ["地點：", "昂船洲東部小山丘"],
+                            ["類別：", "海岸炮台"],
+                            ["炮位數量：", "2"],
+                            ["裝備：", ["1905年 | 2門12磅後裝速射炮"]],
+                            ["退役日期：", "1917年"],
+                            ["現狀：", "現存"],
+                            ["現今用途：", "船塢（不對外開放）"]
+                        ],
+                        "description": "亞比安炮台是為了防備敵軍魚雷艇快速突襲而建造，備有兩門12磅速射炮，但奧雲委員會於1906年認定這類炮台為多餘建設，炮台遂於1909年轉為演習及晚間訓練之用，並最<span>終於1917年退役。</span>",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/38.jpg",
+                                    "description":"1907年英國陸軍部地圖顯示亞比安炮台，炮台用地現為船塢。",
+                                    "credit":"英國國家檔案館提供"
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                },
+                {
+                    "name":"百夫長炮台",
+                    "year":1905,
+                    "startDateOfCategory":1900,
+                    "endDateOfCategory":1930,
+                    "position":{
+                        "x":42.5, 
+                        "y":27.8
+                    },
+                    "details":{
+                        "list": [
+                            ["建成日期：", "1905年"],
+                            ["地點：", "昂船洲東南部"],
+                            ["類別：", "海岸炮台"],
+                            ["炮位數量：", "2"],
+                            ["裝備：", ["1905年 | 2門12磅後裝速射炮", "1917年 | 2門4.7英吋後裝速射炮"]],
+                            ["退役日期：", "1939年"],
+                            ["現狀：", "現存"],
+                            ["現今用途：", "昂船洲海軍基地（不對外開放）"]
+                        ],
+                        "description": "百夫長炮台是為了防備敵軍魚雷艇快速突襲而建造，備有兩門12磅速射炮，但奧雲委員會於1906年認定這類炮台為多<span>餘建設，炮台上的火炮遂於1911年被拆除。</span><span><br/><br/></span><span>至1917年，炮台重修並裝備了兩門4.7英吋速射炮。1939年火炮被拆除，炮台亦隨之而廢棄。這兩門速射炮可能被移往<span>舂坎角炮台作為其最初的預定裝備。</span></span>",
+                        "gallery":{
+                            "images":[
+                                {
+                                    "src":"/images/d01/39.jpg",
+                                    "description":"百夫長炮台舊址，今昂船洲海軍基地。攝於1995年。",
+                                    "credit":""
+                                }
+                            ],
+                            "video":null
+                        }
+                    }
+                }               
+            ]
+        }
+    }
+}

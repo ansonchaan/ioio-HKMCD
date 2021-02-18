@@ -1,0 +1,3227 @@
+{
+    "categories":{
+        "characters": {
+            "name": ["Characters", "人物"]
+        },
+        "warships": {
+            "name":["Warships", "戰艦"]
+        },
+        "events": {
+            "name":["Events", "事件"]
+        },
+        "fortification": {
+            "name":["Fortification", "工事"]
+        }
+    },
+    "items":{
+        "characters": {
+            "MountParkerRoad":{
+                "name": ["Mount Parker Road", "柏架山道"],
+                "location": ["Quarry Pass, Hong Kong Island", "大風坳，香港島"],
+                "sourceID":"WilliamParker",
+                "mapIdx":7,
+                "images":[
+                    {
+                        "src":"/images/lm01/011.jpg", 
+                        "thum":"/images/lm01/thum/011.jpg",
+                        "credit":[
+                            "Courtesy of Britannia Royal Naval College",
+                            "不列顛尼亞皇家海軍學院提供"
+                        ]
+                    },
+                    {
+                        "src":"/images/lm01/013.jpg", 
+                        "thum":null,
+                        "credit":null                        
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/12.svg"
+                },
+                "position":{
+                    "x":13,
+                    "y":38
+                }
+            },
+            "AldrichBay":{
+                "name": ["Aldrich Bay", "愛秩序灣"],
+                "location": ["Shau Kei Wan, Hong Kong Island", "筲箕灣，香港島"],
+                "sourceID":"EdwardAldrich",
+                "mapIdx":8,
+                "images":[                    
+                    {
+                        "src":"/images/lm01/029_5.jpg",
+                        "thum":null,
+                        "credit":null,
+                        "selected":true     
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/25.svg"
+                },
+                "position":{
+                    "x":35,
+                    "y":28.6
+                }
+            },
+            "KellettBay":{
+                "name": ["Kellett Bay", "雞籠灣 (又名奇力灣)", "kellet"],
+                "location": ["Southern District, Hong Kong Island", "南區，香港島"],
+                "sourceID":"HenryKellett",
+                "mapIdx":10,
+                "images":[                    
+                    {
+                        "src":"/images/lm01/032.jpg",
+                        "thum":"/images/lm01/thum/032.jpg",
+                        "credit":[
+                            "Public Records Office, Government Records Service",
+                            "政府檔案處歷史檔案館"
+                        ]
+                    },
+                    {
+                        "src":"/images/lm01/035_12.jpg",
+                        "thum":null,
+                        "credit":null,
+                        "selected":true    
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/31.svg"
+                },
+                "position":{
+                    "x":59,
+                    "y":15
+                }
+            },
+            "MountCollinson":{
+                "name": ["Mount Collinson", "歌連臣山"],
+                "location": ["Chai Wan, Hong Kong Island", "柴灣，香港島"],
+                "sourceID":"ThomasBernardCollinson",
+                "mapIdx":7,
+                "images":[  
+                    {
+                        "src":"/images/lm01/020.jpg", 
+                        "thum":"/images/lm01/thum/020.jpg",
+                        "credit":[
+                            "© National Portrait Gallery, London",
+                            null
+                        ],
+                        "selected":true
+                    },                 
+                    {
+                        "src":"/images/lm01/018_12.jpg", 
+                        "thum":null,
+                        "credit":null
+                    }
+                    
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/16.svg"
+                },
+                "position":{
+                    "x":57.9,
+                    "y":85
+                }
+            },
+            "BelcherBay":{
+                "name": ["Belcher Bay", "卑路乍灣"],
+                "location": ["Kennedy Town, Hong Kong Island", "堅尼地城，香港島"],
+                "sourceID":"EdwardBelcher",
+                "mapIdx":1,
+                "images":[
+                    {
+                        "src":"/images/lm01/005.jpg", 
+                        "thum":"/images/lm01/thum/005.jpg",
+                        "credit":[
+                            "© National Portrait Gallery, London",
+                            null
+                        ]
+                    },
+                    {
+                        "src":"/images/lm01/134_3.jpg", 
+                        "thum":null,
+                        "credit":null,
+                        "selected":true
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/6.svg"
+                },
+                "position":{
+                    "x":51.5,
+                    "y":12
+                }
+            },       
+            "MountKellett":{
+                "name": ["Mount Kellett", "加列山"],
+                "location": ["The Peak, Hong Kong Island", "太平山頂，香港島"],
+                "sourceID":"HenryKellett",
+                "mapIdx":17,
+                "images":[                    
+                    {
+                        "src":"/images/lm01/032.jpg",
+                        "thum":"/images/lm01/thum/032.jpg",
+                        "credit":[
+                            "Public Records Office, Government Records Service",
+                            "政府檔案處歷史檔案館"
+                        ]
+                    },
+                    {
+                        "src":"/images/lm01/138_12.jpg",
+                        "thum":null,
+                        "credit":null,
+                        "selected":true     
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/29.svg"
+                },
+                "position":{
+                    "x":34,
+                    "y":48
+                }
+            },
+            "CapeDAguilar":{
+                "name": ["Cape D’Aguilar", "鶴咀"],
+                "location": ["Shek O, Hong Kong Island", "石澳，香港島"],
+                "sourceID":"GeorgeDAguilar",
+                "mapIdx":20,
+                "images":[
+                    {
+                        "src":"/images/lm01/026.jpg",
+                        "thum":"/images/lm01/thum/026.jpg",
+                        "credit":[
+                            "Courtesy of the Hong Kong Museum of Art",
+                            null
+                        ]     
+                    },
+                    {
+                        "src":"/images/lm01/025_2.jpg", 
+                        "thum":null,
+                        "credit":null,
+                        "selected":true
+                    }                    
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/23.svg"
+                },
+                "position":{
+                    "x":85.8,
+                    "y":72
+                }
+            },
+            "AldrichBayRoad":{
+                "name": ["Aldrich Bay Road", "愛秩序灣道"],
+                "location": ["Shau Kei Wan, Hong Kong Island", "筲箕灣，香港島"],
+                "sourceID":"EdwardAldrich",
+                "mapIdx":8,
+                "images":[                    
+                    {
+                        "src":"/images/lm01/030_4.jpg",
+                        "thum":null,
+                        "credit":null
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/26.svg"
+                },
+                "position":{
+                    "x":32,
+                    "y":60
+                }
+            },
+            "AldrichStreet":{
+                "name": ["Aldrich Street", "愛秩序街"],
+                "location": ["Shau Kei Wan, Hong Kong Island", "筲箕灣，香港島"],
+                "sourceID":"EdwardAldrich",
+                "mapIdx":8,
+                "images":[                    
+                    {
+                        "src":"/images/lm01/031_4.jpg",
+                        "thum":null,
+                        "credit":null
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/27.svg"
+                },
+                "position":{
+                    "x":32,
+                    "y":70
+                }
+            },      
+            "CapeCollinsonPath":{
+                "name": ["Cape Collinson Path", "黑角徑"],
+                "location": ["Chai Wan, Hong Kong Island", "柴灣，香港島"],
+                "sourceID":"ThomasBernardCollinson",
+                "mapIdx":7,
+                "images":[
+                    {
+                        "src":"/images/lm01/020.jpg", 
+                        "thum":"/images/lm01/thum/020.jpg",
+                        "credit":[
+                            "© National Portrait Gallery, London",
+                            null
+                        ]                        
+                    },
+                    {
+                        "src":"/images/lm01/021.jpg", 
+                        "thum":null,
+                        "credit":[
+                            "Old site of Cape Collinson Path",
+                            "黑角徑舊址"
+                        ]
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/18.svg"
+                },
+                "position":{
+                    "x":87.6,
+                    "y":44.7
+                }
+            },
+            "MurrayHouse":{
+                "name": ["Murray House", "美利樓"],
+                "location": ["Stanley, Hong Kong Island", "赤柱，香港島"],
+                "sourceID":"GeorgeMurray",
+                "mapIdx":20,
+                "images":[
+                    {
+                        "src":"/images/lm01/001.jpg", 
+                        "thum":"/images/lm01/thum/001.jpg",
+                        "credit":[
+                            "© National Portrait Gallery, London",
+                            null
+                        ]
+                    },
+                    {
+                        "src":"/images/lm01/133_02.jpg", 
+                        "thum":"/images/lm01/thum/133_02.jpg",
+                        "credit":null,
+                        "selected":true
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/3.svg"
+                },
+                "position":{
+                    "x":22.3,
+                    "y":47.4
+                }
+            },
+            "MurrayRoad":{
+                "name": ["Murray Road", "美利道"],
+                "location": ["Admiralty, Hong Kong Island", "金鐘，香港島"],
+                "sourceID":"GeorgeMurray",
+                "mapIdx":3,
+                "images":[
+                    {
+                        "src":"/images/lm01/001.jpg", 
+                        "thum":"/images/lm01/thum/001.jpg",
+                        "credit":[
+                            "© National Portrait Gallery, London",
+                            null
+                        ],
+                        "selected":true
+                    },
+                    {
+                        "src":"/images/lm01/002_1.jpg", 
+                        "thum":null,
+                        "credit":null
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/1.svg"
+                },
+                "position":{
+                    "x":10,
+                    "y":30
+                }
+            },
+            "CaineLane":{
+                "name": ["Caine Lane", "堅巷"],
+                "location": ["Mid-Level, Hong Kong Island", "半山區，香港島"],
+                "sourceID":"WilliamCaine",
+                "mapIdx":2,
+                "images":[
+                    {
+                        "src":"/images/lm01/007.jpg", 
+                        "thum":"/images/lm01/thum/007.jpg",
+                        "credit":[
+                            "Public Records Office, Government Records Service",
+                            "政府檔案處歷史檔案館"
+                        ]
+                    },
+                    {
+                        "src":"/images/lm01/136_2.jpg", 
+                        "thum":null,
+                        "credit":null                        
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/9.svg"
+                },
+                "position":{
+                    "x":20.4,
+                    "y":51.5
+                }
+            },
+            "NelsonStreet":{
+                "name": ["Nelson Street", "奶路臣街"],
+                "location": ["Mongkok, Kowloon", "旺角，九龍"],
+                "sourceID":"HoratioNelson",
+                "mapIdx":11,
+                "images":[
+                    {
+                        "src":"/images/lm01/003.jpg", 
+                        "thum":"/images/lm01/thum/003.jpg",
+                        "credit":[
+                            "© National Portrait Gallery, London",
+                            null
+                        ],
+                        "selected":true
+                    },
+                    {
+                        "src":"/images/lm01/004_26.jpg", 
+                        "thum":null,
+                        "credit":null,
+                        "selected":true
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/4.svg"
+                },
+                "position":{
+                    "x":45,
+                    "y":6
+                }
+            },
+            "BraemarHill":{
+                "name": ["Braemar Hill", "寶馬山", "braemar", "Braemar Hill <br/>(originally called Mount Bremer)"],
+                "location": ["North Point, Hong Kong Island", "北角，香港島"],
+                "sourceID":"JohnGordonBremer",
+                "mapIdx":5,
+                "images":[
+                    {
+                        "src":"/images/lm01/014_10.jpg", 
+                        "thum":null,
+                        "credit":[
+                            null,
+                            "沒有人物照片"
+                        ]
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/13.svg"
+                },
+                "position":{
+                    "x":74,
+                    "y":86
+                }
+            },
+            "PedderStreet":{
+                "name": ["Pedder Street", "畢打街"],
+                "location": ["Central, Hong Kong Island", "中環，香港島"],
+                "sourceID":"WilliamPedder",
+                "mapIdx":2,
+                "images":[
+                    {
+                        "src":"/images/lm01/010.jpg", 
+                        "thum":"/images/lm01/thum/010.jpg",
+                        "credit":[
+                            null,
+                            "沒有人物照片"
+                        ],
+                        "selected":true
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/10.svg"
+                },
+                "position":{
+                    "x":79,
+                    "y":70.8
+                }
+            },
+            "CaineRoad":{
+                "name": ["Caine Road", "堅道"],
+                "location": ["Mid-Level, Hong Kong Island", "半山區，香港島"],
+                "sourceID":"WilliamCaine",
+                "mapIdx":2,
+                "images":[
+                    {
+                        "src":"/images/lm01/007.jpg", 
+                        "thum":"/images/lm01/thum/007.jpg",
+                        "credit":[
+                            "Public Records Office, Government Records Service",
+                            "政府檔案處歷史檔案館"
+                        ],
+                        "selected":true
+                    },
+                    {
+                        "src":"/images/lm01/008_4.jpg", 
+                        "thum":null,
+                        "credit":null                        
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/8.svg"
+                },
+                "position":{
+                    "x":45,
+                    "y":70
+                }
+            },
+            "MountParker":{
+                "name": ["Mount Parker", "柏架山"],
+                "location": ["Quarry Pass, Hong Kong Island", "大風坳，香港島"],
+                "sourceID":"WilliamParker",
+                "mapIdx":7,
+                "images":[
+                    {
+                        "src":"/images/lm01/011.jpg",
+                        "thum":"/images/lm01/thum/011.jpg", 
+                        "credit":[
+                            "Courtesy of Britannia Royal Naval College",
+                            "不列顛尼亞皇家海軍學院提供"
+                        ]
+                    },
+                    {
+                        "src":"/images/lm01/012_4.jpg", 
+                        "thum":null,
+                        "credit":null,
+                        "selected":true                                               
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/11.svg"
+                },
+                "position":{
+                    "x":20.1,
+                    "y":39.5
+                }
+            },
+            "PottingerStreet":{
+                "name": ["Pottinger Street", "砵甸乍街"],
+                "location": ["Central, Hong Kong Island", "中環，香港島"],
+                "sourceID":"HenryPottinger",
+                "mapIdx":2,
+                "images":[                    
+                    {
+                        "src":"/images/lm01/129.jpg",
+                        "thum":"/images/lm01/thum/129.jpg",
+                        "credit":null
+                    },
+                    {
+                        "src":"/images/lm01/130_2.jpg",
+                        "thum":null,
+                        "credit":null
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/84.svg"
+                },
+                "position":{
+                    "x":67.6,
+                    "y":49.3
+                }
+            },
+            "GoughHillPath":{
+                "name": ["Gough Hill Path", "歌賦山里"],
+                "location": ["The Peak, Hong Kong Island", "太平山頂，香港島"],
+                "sourceID":"ViscountHughGough",
+                "mapIdx":17,
+                "images":[                    
+                    {
+                        "src":"/images/lm01/052.jpg",
+                        "thum":"/images/lm01/thum/052.jpg",
+                        "credit":[
+                            "© National Portrait Gallery, London",
+                            null
+                        ]                        
+                    },
+                    {
+                        "src":"/images/lm01/054_10.jpg",
+                        "thum":null,
+                        "credit":null 
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/42.svg"
+                },
+                "position":{
+                    "x":47,
+                    "y":43
+                }
+            },
+            "MountCameronRoad":{
+                "name": ["Mount Cameron Road", "金馬麟山道"],
+                "location": ["The Peak, Hong Kong Island", "太平山頂，香港島"],
+                "sourceID":"WilliamGordonCameron",
+                "mapIdx":17,
+                "images":[                    
+                    {
+                        "src":"/images/lm01/056.jpg",
+                        "thum":"/images/lm01/thum/056.jpg",
+                        "credit":[
+                            "Courtesy of King’s Own Royal Regiment Museum, Lancaster",
+                            "King’s Own Royal Regiment Museum, Lancaster提供"
+                        ]                        
+                    },
+                    {
+                        "src":"/images/lm01/059_1.jpg",
+                        "thum":"/images/lm01/thum/059_1.jpg",
+                        "credit":null,
+                        "selected":true 
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/46.svg"
+                },
+                "position":{
+                    "x":83,
+                    "y":40
+                }
+            },
+            "CameronRoad":{
+                "name": ["Cameron Road", "金馬倫道"],
+                "location": ["Tsim Sha Tsui, Kowloon", "尖沙咀，九龍"],
+                "sourceID":"WilliamGordonCameron",
+                "mapIdx":11,
+                "images":[                    
+                    {
+                        "src":"/images/lm01/056.jpg",
+                        "thum":"/images/lm01/thum/056.jpg",
+                        "credit":[
+                            "Courtesy of King’s Own Royal Regiment Museum, Lancaster",
+                            "King’s Own Royal Regiment Museum, Lancaster提供"
+                        ]                        
+                    },
+                    {
+                        "src":"/images/lm01/058_14.jpg",
+                        "thum":null,
+                        "credit":null 
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/45.svg"
+                },
+                "position":{
+                    "x":54,
+                    "y":75
+                }
+            },
+            "MountCameron":{
+                "name": ["Mount Cameron", "金馬倫山"],
+                "location": ["The Peak, Hong Kong Island", "太平山頂，香港島"],
+                "sourceID":"WilliamGordonCameron",
+                "mapIdx":18,
+                "images":[                    
+                    {
+                        "src":"/images/lm01/056.jpg",
+                        "thum":"/images/lm01/thum/056.jpg",
+                        "credit":[
+                            "Courtesy of King’s Own Royal Regiment Museum, Lancaster",
+                            null
+                        ]                        
+                    },
+                    {
+                        "src":"/images/lm01/057.jpg",
+                        "thum":null,
+                        "credit":null 
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/44.svg"
+                },
+                "position":{
+                    "x":33,
+                    "y":84
+                }
+            },
+            "HarcourtRoad":{
+                "name": ["Harcourt Road", "夏愨道"],
+                "location": ["Admiralty, Hong Kong Island", "金鐘，香港島"],
+                "sourceID":"CecilHarcourt",
+                "mapIdx":3,
+                "images":[
+                    {
+                        "src":"/images/lm01/070.jpg",
+                        "thum":"/images/lm01/thum/070.jpg",
+                        "credit":[
+                            "© National Portrait Gallery, London",
+                            null
+                        ]                
+                    },
+                    {
+                        "src":"/images/lm01/071_22.jpg",
+                        "thum":null,
+                        "credit":null,
+                        "selected":true
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/52.svg"
+                },
+                "position":{
+                    "x":30,
+                    "y":40
+                }
+            },
+            "WhitfieldRoad":{
+                "name": ["Whitfield Road", "威非路道"],
+                "location": ["Tin Hau, Hong Kong Island", "天后，香港島"],
+                "sourceID":"HenryWaseWhitfield",
+                "mapIdx":4,
+                "images":[                    
+                    {
+                        "src":"/images/lm01/117_4.jpg",
+                        "thum":null,
+                        "credit":null
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/76.svg"
+                },
+                "position":{
+                    "x":85,
+                    "y":18
+                }
+            },
+            "WhitfieldBarracks":{
+                "name": ["Whitfield Barracks", "威非路軍營"],
+                "location": ["Tsim Sha Tsui, Kowloon", "尖沙咀，九龍"],
+                "sourceID":"HenryWaseWhitfield",
+                "mapIdx":11,
+                "images":[                    
+                    {
+                        "src":"/images/lm01/118_3.jpg",
+                        "thum":null,
+                        "credit":null,
+                        "selected":true
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/77.svg"
+                },
+                "position":{
+                    "x":48,
+                    "y":77
+                }
+            },
+            "MurrayBarracks":{
+                "name": ["Murray Barracks", "美利軍營"],
+                "location": ["Admiralty, Hong Kong Island", "金鐘，香港島"],
+                "sourceID":"GeorgeMurray",
+                "mapIdx":3,
+                "images":[
+                    {
+                        "src":"/images/lm01/001.jpg", 
+                        "thum":"/images/lm01/thum/001.jpg",
+                        "credit":[
+                            "© National Portrait Gallery, London",
+                            null
+                        ]
+                    },
+                    {
+                        "src":"/images/lm01/140_2.jpg",
+                        "thum":null, 
+                        "credit":null,
+                        "selected":true
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/2.svg"
+                },
+                "position":{
+                    "x":5,
+                    "y":47
+                }
+            },
+            "MountKellettRoad":{
+                "name": ["Mount Kellett Road", "加列山道"],
+                "location": ["The Peak, Hong Kong Island", "太平山頂，香港島"],
+                "sourceID":"HenryKellett",
+                "mapIdx":17,
+                "images":[                    
+                    {
+                        "src":"/images/lm01/032.jpg",
+                        "thum":"/images/lm01/thum/032.jpg",
+                        "credit":[
+                            "Public Records Office, Government Records Service",
+                            "政府檔案處歷史檔案館"
+                        ]
+                    },
+                    {
+                        "src":"/images/lm01/034_15.jpg",
+                        "thum":null,
+                        "credit":null    
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/30.svg"
+                },
+                "position":{
+                    "x":38,
+                    "y":53
+                }
+            },
+            "BarkerRoad":{
+                "name": ["Barker Road", "白加道"],
+                "location": ["The Peak, Hong Kong Island", "太平山頂，香港島"],
+                "sourceID":"GeorgeDigbyBarker",
+                "mapIdx":17,
+                "images":[                    
+                    {
+                        "src":"/images/lm01/060.jpg",
+                        "thum":"/images/lm01/thum/060.jpg",
+                        "credit":null                
+                    },
+                    {
+                        "src":"/images/lm01/061.jpg",
+                        "thum":null,
+                        "credit":null
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/47.svg"
+                },
+                "position":{
+                    "x":59,
+                    "y":22
+                }
+            },
+            "BroadwoodRoad":{
+                "name": ["Broadwood Road", "樂活道"],
+                "location": ["Causeway Bay, Hong Kong Island", "銅鑼灣，香港島"],
+                "sourceID":"RobertGeorgeBroadwood",
+                "mapIdx":18,
+                "images":[
+                    {
+                        "src":"/images/lm01/064.jpg",
+                        "thum":"/images/lm01/thum/064.jpg",
+                        "credit":[
+                            "© National Portrait Gallery, London",
+                            null
+                        ]                
+                    },
+                    {
+                        "src":"/images/lm01/065_9.jpg",
+                        "thum":null,
+                        "credit":null
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/49.svg"
+                },
+                "position":{
+                    "x":85,
+                    "y":25
+                }
+            },
+            "BelcherStreet":{
+                "name": ["Belcher’s Street", "卑路乍街"],
+                "location": ["Kennedy Town, Hong Kong Island", "堅尼地城，香港島"],
+                "sourceID":"EdwardBelcher",
+                "mapIdx":1,
+                "images":[
+                    {
+                        "src":"/images/lm01/005.jpg", 
+                        "thum":"/images/lm01/thum/005.jpg",
+                        "credit":[
+                            "© National Portrait Gallery, London",
+                            null
+                        ]
+                    },
+                    {
+                        "src":"/images/lm01/006_4.jpg", 
+                        "thum":null,
+                        "credit":null,
+                        "selected":true
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/5.svg"
+                },
+                "position":{
+                    "x":55,
+                    "y":40
+                }
+            },
+            "GageStreet":{
+                "name": ["Gage Street", "結志街"],
+                "location": ["Central, Hong Kong Island", "中環，香港島"],
+                "sourceID":"WilliamHallGage",
+                "mapIdx":2,
+                "images":[                    
+                    {
+                        "src":"/images/lm01/122_6.jpg",
+                        "thum":null,
+                        "credit":null
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/79.svg"
+                },
+                "position":{
+                    "x":53,
+                    "y":56
+                }
+            },
+            "BorrettRoad":{
+                "name": ["Borrett Road", "波老道"],
+                "location": ["Mid-Level, Hong Kong Island", "半山區，香港島"],
+                "sourceID":"OswaldBorrett",
+                "mapIdx":3,
+                "images":[
+                    {
+                        "src":"/images/lm01/068.jpg",
+                        "thum":"/images/lm01/thum/068.jpg",
+                        "credit":[
+                            "© National Portrait Gallery, London",
+                            null
+                        ]                
+                    },
+                    {
+                        "src":"/images/lm01/069_3.jpg",
+                        "thum":null,
+                        "credit":null
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/51.svg"
+                },
+                "position":{
+                    "x":20,
+                    "y":90
+                }
+            },
+            "GoughStreet":{
+                "name": ["Gough Street", "歌賦街"],
+                "location": ["Sheung Wan, Hong Kong Island", "上環，香港島"],
+                "sourceID":"ViscountHughGough",
+                "mapIdx":2,
+                "images":[                    
+                    {
+                        "src":"/images/lm01/052.jpg",
+                        "thum":"/images/lm01/thum/052.jpg",
+                        "credit":[
+                            "© National Portrait Gallery, London",
+                            null
+                        ],
+                        "selected":true
+                    },
+                    {
+                        "src":"/images/lm01/053.jpg",
+                        "thum":null,
+                        "credit":null 
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/41.svg"
+                },
+                "position":{
+                    "x":48,
+                    "y":48.3
+                }
+            },
+            "StaveleyStreet":{
+                "name": ["Staveley Street", "士他花利街"],
+                "location": ["Central, Hong Kong Island", "中環，香港島"],
+                "sourceID":"WilliamStaveley",
+                "mapIdx":2,
+                "images":[                    
+                    {
+                        "src":"/images/lm01/111_2.jpg",
+                        "thum":null,
+                        "credit":null
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/73.svg"
+                },
+                "position":{
+                    "x":54,
+                    "y":49
+                }
+            },
+            "PlunkettRoad":{
+                "name": ["Plunkett’s Road", "賓吉道"],
+                "location": ["The Peak, Hong Kong Island", "太平山頂，香港島"],
+                "sourceID":"CharlesBushePlunket",
+                "mapIdx":17,
+                "images":[                    
+                    {
+                        "src":"/images/lm01/084_10.jpg",
+                        "thum":null,
+                        "credit":[
+                            null,
+                            "沒有人物照片"
+                        ]    
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/58.svg"
+                },
+                "position":{
+                    "x":40,
+                    "y":30
+                }
+            },
+            "AndersonRoad":{
+                "name": ["Anderson Road", "安達臣道"],
+                "location": ["Kwun Tong, Kowloon", "觀塘，九龍"],
+                "sourceID":"CharlesAlexanderAnderson",
+                "mapIdx":13,
+                "images":[                    
+                    {
+                        "src":"/images/lm01/131.jpg",
+                        "thum":"/images/lm01/thum/131.jpg",
+                        "credit":null
+                    },
+                    {
+                        "src":"/images/lm01/132_1.jpg",
+                        "thum":null,
+                        "credit":[
+                            "Library of Congress, Prints & Photographs Division, [LC-DIG-ggbain-23145]",
+                            null
+                        ]
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/85.svg"
+                },
+                "position":{
+                    "x":37,
+                    "y":53
+                }
+            },
+            "GascoigneRoad":{
+                "name": ["Gascoigne Road", "加士居道"],
+                "location": ["Yau Ma Tei, Kowloon", "油麻地， 九龍"],
+                "sourceID":"WilliamJuliusGascoigne",
+                "mapIdx":11,
+                "images":[                    
+                    {
+                        "src":"/images/lm01/062.jpg",
+                        "thum":"/images/lm01/thum/062.jpg",
+                        "credit":[
+                            "McCord Museum N-I-49398.1",
+                            null
+                        ]                
+                    },
+                    {
+                        "src":"/images/lm01/063_3.jpg",
+                        "thum":null,
+                        "credit":null
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/48.svg"
+                },
+                "position":{
+                    "x":59,
+                    "y":47
+                }
+            },
+            "DAguilarStreet":{
+                "name": ["D’Aguilar Street", "德己立街"],
+                "location": ["Central, Hong Kong Island", "中環，香港島"],
+                "sourceID":"GeorgeDAguilar",
+                "mapIdx":2,
+                "images":[                    
+                    {
+                        "src":"/images/lm01/026.jpg",
+                        "thum":"/images/lm01/thum/026.jpg",
+                        "credit":[
+                            "Courtesy of the Hong Kong Museum of Art",
+                            null
+                        ]     
+                    },
+                    {
+                        "src":"/images/lm01/027_2.jpg", 
+                        "thum":null,
+                        "credit":null                        
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/24.svg"
+                },
+                "position":{
+                    "x":72.6,
+                    "y":70.5
+                }
+            },
+            "CollinsonStreet":{
+                "name": ["Collinson Street", "歌連臣街"],
+                "location": ["Sai Wan, Hog Kong Island", "西環，香港島"],
+                "sourceID":"ThomasBernardCollinson",
+                "mapIdx":1,
+                "images":[
+                    {
+                        "src":"/images/lm01/020.jpg", 
+                        "thum":"/images/lm01/thum/020.jpg",
+                        "credit":[
+                            "© National Portrait Gallery, London",
+                            null
+                        ]                        
+                    },
+                    {
+                        "src":"/images/lm01/023_2.jpg", 
+                        "thum":null,
+                        "credit":null                        
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/20.svg"
+                },
+                "position":{
+                    "x":62.1,
+                    "y":31.5
+                }
+            },
+            "BlackLink":{
+                "name": ["Black’s Link", "布力徑"],
+                "location": ["Wan Chai, Hong Kong Island", "灣仔，香港島"],
+                "sourceID":"WilsoneBlack",
+                "mapIdx":18,
+                "images":[    
+                    {
+                        "src":"/images/lm01/120.jpg",
+                        "thum":"/images/lm01/thum/120.jpg",
+                        "credit":[
+                            "(左起第五) 英國陸軍少將布力爵士",
+                            "(Fifth from left) Major-General Sir Wilsone Black"
+                        ]
+                    },                
+                    {
+                        "src":"/images/lm01/119.jpg",
+                        "thum":null,
+                        "credit":null
+                    }                   
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/78.svg"
+                },
+                "position":{
+                    "x":37,
+                    "y":64
+                }
+            },
+            "KellettIsland":{
+                "name": ["Kellett Island", "奇力島"],
+                "location": ["Causeway Bay, Hong Kong Island (connected to Hong Kong Island following land reclamation in 1906s)", "銅鑼灣，香港島（1960年代填海工程後與香港島連接）"],
+                "sourceID":"HenryKellett",
+                "mapIdx":4,
+                "images":[                    
+                    {
+                        "src":"/images/lm01/032.jpg",
+                        "thum":"/images/lm01/thum/032.jpg",
+                        "credit":[
+                            "Public Records Office, Government Records Service",
+                            "政府檔案處歷史檔案館"
+                        ]
+                    },
+                    {
+                        "src":"/images/lm01/033_2.jpg",
+                        "thum":null,
+                        "credit":null,
+                        "selected":true     
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/28.svg"
+                },
+                "position":{
+                    "x":24.5,
+                    "y":45
+                }
+            },
+            "BraemarHillRoad":{
+                "name": ["Braemar Hill Road", "寶馬山道"],
+                "location": ["North Point, Hong Kong Island", "北角，香港島"],
+                "sourceID":"JohnGordonBremer",
+                "mapIdx":5,
+                "images":[
+                    {
+                        "src":"/images/lm01/015_2.jpg", 
+                        "thum":null,
+                        "credit":[
+                            null,
+                            "沒有人物照片"
+                        ]
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/14.svg"
+                },
+                "position":{
+                    "x":60,
+                    "y":85
+                }
+            },
+            "CapeCollinson":{
+                "name": ["Cape Collinson", "歌連臣角"],
+                "location": ["Chai Wan, Hong Kong Island", "柴灣，香港島"],
+                "sourceID":"ThomasBernardCollinson",
+                "mapIdx":7,
+                "images":[
+                    {
+                        "src":"/images/lm01/020.jpg", 
+                        "thum":"/images/lm01/thum/020.jpg",
+                        "credit":[
+                            "© National Portrait Gallery, London",
+                            null
+                        ]                        
+                    },
+                    {
+                        "src":"/images/lm01/019_17.jpg", 
+                        "thum":null,
+                        "credit":null,
+                        "selected":true
+                    }
+                    
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/17.svg"
+                },
+                "position":{
+                    "x":96,
+                    "y":81
+                }
+            },
+            "JervoisStreet":{
+                "name": ["Jervois Street", "蘇杭街 (前稱乍畏街)"],
+                "location": ["Sheung Wan, Hong Kong Island", "上環，香港島"],
+                "sourceID":"WilliamJervois",
+                "mapIdx":2,
+                "images":[                    
+                    {
+                        "src":"/images/lm01/113_8.jpg",
+                        "thum":null,
+                        "credit":[
+                            null,
+                            "沒有人物照片"
+                        ]
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/74.svg"
+                },
+                "position":{
+                    "x":43,
+                    "y":40
+                }
+            },
+            "OsbornBarracks":{
+                "name": ["Osborn Barracks", "奧斯本軍營"],
+                "location": ["Kowloon Tong, Kowloon", "九龍塘，九龍"],
+                "sourceID":"JohnOsborn",
+                "mapIdx":12,
+                "images":[
+                    {
+                        "src":"/images/lm01/082.jpg",
+                        "thum":"/images/lm01/thum/082.jpg",
+                        "credit":[
+                            "Courtesy of Library and Archives Canada",
+                            null
+                        ]    
+                    },
+                    {
+                        "src":"/images/lm01/081_5.jpg",
+                        "thum":null,
+                        "credit":null,
+                        "selected":true        
+                    }                
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/57.svg"
+                },
+                "position":{
+                    "x":16,
+                    "y":34
+                }
+            },
+            "CochraneStreet":{
+                "name": ["Cochrane Street", "閣麟街"],
+                "location": ["Mid-Level, Hong Kong Island", "半山區，香港島"],
+                "sourceID":"ThomasCochrane",
+                "mapIdx":2,
+                "images":[
+                    {
+                        "src":"/images/lm01/016.jpg", 
+                        "thum":"/images/lm01/thum/016.jpg",
+                        "credit":[
+                            "© National Portrait Gallery, London",
+                            null
+                        ]
+                    },
+                    {
+                        "src":"/images/lm01/017_3.jpg", 
+                        "thum":null,
+                        "credit":null                        
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/15.svg"
+                },
+                "position":{
+                    "x":64,
+                    "y":60
+                }
+            },  
+            "VentrisRoad":{
+                "name": ["Ventris Road", "雲地利道"],
+                "location": ["Happy Valley, Hong Kong Island", "跑馬地，香港島"],
+                "sourceID":"FrancisVentris",
+                "mapIdx":18,
+                "images":[
+                    {
+                        "src":"/images/lm01/066.jpg",
+                        "thum":"/images/lm01/thum/066.jpg",
+                        "credit":[
+                            "© National Portrait Gallery, London",
+                            null
+                        ]                
+                    },
+                    {
+                        "src":"/images/lm01/067_2.jpg",
+                        "thum":null,
+                        "credit":null
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/50.svg"
+                },
+                "position":{
+                    "x":78,
+                    "y":25
+                }
+            },
+            "GoughHillRoad":{
+                "name": ["Gough Hill Road", "歌賦山道"],
+                "location": ["The Peak, Hong Kong Island", "太平山頂，香港島"],
+                "sourceID":"ViscountHughGough",
+                "mapIdx":17,
+                "images":[                    
+                    {
+                        "src":"/images/lm01/052.jpg",
+                        "thum":"/images/lm01/thum/052.jpg",
+                        "credit":[
+                            "© National Portrait Gallery, London",
+                            null
+                        ]                        
+                    },
+                    {
+                        "src":"/images/lm01/055_9.jpg",
+                        "thum":null,
+                        "credit":null 
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/43.svg"
+                },
+                "position":{
+                    "x":54,
+                    "y":38
+                }
+            },
+            "JatIncline":{
+                "name": ["Jat’s Incline", "扎山道"],
+                "location": ["Jat’s Incline, New Territories", "扎山道，新界"],
+                "sourceID":"JatRegiment",
+                "mapIdx":14,
+                "images":[                    
+                    {
+                        "src":"/images/lm01/049_10.jpg",
+                        "thum":null,
+                        "credit":null
+                    },
+                    {
+                        "src":"/images/lm01/050_7.jpg",
+                        "thum":null,
+                        "credit":null 
+                    },
+                    {
+                        "src":"/images/lm01/051.jpg",
+                        "thum":"/images/lm01/thum/051.jpg",
+                        "credit":null 
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/40.svg"
+                },
+                "position":{
+                    "x":26,
+                    "y":78
+                }
+            },
+            "ParkesStreet":{
+                "name": ["Parkes Street", "白加士街"],
+                "location": ["Yau Ma Tei, Kowloon", "油麻地， 九龍"],
+                "sourceID":"HarrySmithParkes",
+                "mapIdx":11,
+                "images":[                    
+                    {
+                        "src":"/images/lm01/123.jpg",
+                        "thum":"/images/lm01/thum/123.jpg",
+                        "credit":[
+                            "© National Portrait Gallery, London",
+                            null
+                        ]
+                    },
+                    {
+                        "src":"/images/lm01/124_9.jpg",
+                        "thum":null,
+                        "credit":null
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/80.svg"
+                },
+                "position":{
+                    "x":45.6,
+                    "y":55.1
+                }
+            },
+            "LuardRoad":{
+                "name": ["Luard Road", "盧押道"],
+                "location": ["Wan Chai, Hong Kong Island", "灣仔，香港島"],
+                "sourceID":"CharlesCamacLuard",
+                "mapIdx":3,
+                "images":[                    
+                    {
+                        "src":"/images/lm01/087.jpg",
+                        "thum":"/images/lm01/thum/087.jpg",
+                        "credit":[
+                            "© National Portrait Gallery, London",
+                            null
+                        ],
+                        "selected":true    
+                    },
+                    {
+                        "src":"/images/lm01/088_5.jpg",
+                        "thum":null,
+                        "credit":null
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/60.svg"
+                },
+                "position":{
+                    "x":71,
+                    "y":65
+                }
+            },
+            "HiramHighway":{
+                "name": ["Hiram’s Highway", "西貢公路"],
+                "location": ["Sai Kung, New Territories", "西貢，新界"],
+                "sourceID":"JohnWynnePotts",
+                "mapIdx":14,
+                "images":[
+                    {
+                        "src":"/images/lm01/072.jpg",
+                        "thum":"/images/lm01/thum/072.jpg",
+                        "credit":[
+                            "Courtesy of Mr Colin Aitchison",
+                            null
+                        ]                
+                    },
+                    {
+                        "src":"/images/lm01/073_10.jpg",
+                        "thum":null,
+                        "credit":null
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/53.svg"
+                },
+                "position":{
+                    "x":70,
+                    "y":36
+                }
+            },
+            "MountStenhouse":{
+                "name": ["Mount Stenhouse", "山地塘"],
+                "location": ["Lamma Island", "南丫島"],
+                "sourceID":"HumphreyFlemingSenhouse",
+                "mapIdx":10,
+                "images":[                    
+                    {
+                        "src":"/images/lm01/089.jpg",
+                        "thum":"/images/lm01/thum/089.jpg",
+                        "credit":null
+                    },
+                    {
+                        "src":"/images/lm01/090_12.jpg",
+                        "thum":null,
+                        "credit":null,
+                        "selected":true
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/61.svg"
+                },
+                "position":{
+                    "x":47,
+                    "y":80
+                }
+            },
+            "CapeCollinsonRoad":{
+                "name": ["Cape Collinson Road", "歌連臣角道"],
+                "location": ["Chai Wan, Hong Kong Island", "柴灣，香港島"],
+                "sourceID":"ThomasBernardCollinson",
+                "mapIdx":7,
+                "images":[
+                    {
+                        "src":"/images/lm01/020.jpg", 
+                        "thum":"/images/lm01/thum/020.jpg",
+                        "credit":[
+                            "© National Portrait Gallery, London",
+                            null
+                        ]                        
+                    },
+                    {
+                        "src":"/images/lm01/022_9.jpg", 
+                        "thum":null,
+                        "credit":null                        
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/19.svg"
+                },
+                "position":{
+                    "x":63,
+                    "y":58
+                }
+            },
+            "UpperLowerLascarRow":{
+                "name": ["Upper/Lower Lascar Row", "摩羅上/下街"],
+                "location": ["Tai Ping Shan, Hong Kong Island", "太平山，香港島"],
+                "sourceID":"IndianSeamen",
+                "mapIdx":2,
+                "images":[
+                    {
+                        "src":"/images/lm01/076.jpg",
+                        "thum":null,
+                        "credit":[
+                            "© IWM",
+                            null
+                        ]    
+                    },
+                    {
+                        "src":"/images/lm01/074_10.jpg",
+                        "thum":null,
+                        "credit":null,
+                        "selected":true        
+                    },
+                    {
+                        "src":"/images/lm01/075_5.jpg",
+                        "thum":null,
+                        "credit":null
+                    }                  
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/54.svg"
+                },
+                "position":{
+                    "x":31.3,
+                    "y":42.7
+                }
+            },
+            "GrahamStreet":{
+                "name": ["Graham Street", "嘉咸街"],
+                "location": ["Central, Hong Kong Island", "中環，香港島"],
+                "sourceID":"HenryHopeGraham",
+                "mapIdx":2,
+                "images":[ 
+                    {
+                        "src":"/images/lm01/095_1.jpg",
+                        "thum":null,
+                        "credit":null,
+                        "selected":true
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/64.svg"
+                },
+                "position":{
+                    "x":59,
+                    "y":57
+                }
+            },
+            "SeymourTerrace":{
+                "name": ["Seymour Terrace", "西摩台"],
+                "location": ["Mid-Level, Hong Kong Island", "半山區，香港島"],
+                "sourceID":"MichaelSeymour",
+                "mapIdx":2,
+                "images":[                    
+                    {
+                        "src":"/images/lm01/046.jpg",
+                        "thum":"/images/lm01/thum/046.jpg",
+                        "credit":[
+                            "© National Portrait Gallery, London",
+                            null
+                        ]
+                    },
+                    {
+                        "src":"/images/lm01/048_4.jpg",
+                        "thum":null,
+                        "credit":null 
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/39.svg"
+                },
+                "position":{
+                    "x":32.2,
+                    "y":70
+                }
+            },
+            "SeymourRoad":{
+                "name": ["Seymour Road", "西摩道"],
+                "location": ["Mid-Level, Hong Kong Island", "半山區，香港島"],
+                "sourceID":"MichaelSeymour",
+                "mapIdx":2,
+                "images":[                    
+                    {
+                        "src":"/images/lm01/046.jpg",
+                        "thum":"/images/lm01/thum/046.jpg",
+                        "credit":[
+                            "© National Portrait Gallery, London",
+                            null
+                        ]
+                    },
+                    {
+                        "src":"/images/lm01/047_8.jpg",
+                        "thum":null,
+                        "credit":null 
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/38.svg"
+                },
+                "position":{
+                    "x":30,
+                    "y":62
+                }
+            },
+            "DrakeStreet":{
+                "name": ["Drake Street", "德立街"],
+                "location": ["Central, Hong Kong Island", "中環，香港島"],
+                "sourceID":"FrancisDrake",
+                "mapIdx":3,
+                "images":[                    
+                    {
+                        "src":"/images/lm01/098.jpg",
+                        "thum":"/images/lm01/thum/098.jpg",
+                        "credit":null
+                    },
+                    {
+                        "src":"/images/lm01/099_14.jpg",
+                        "thum":null,
+                        "credit":null
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/66.svg"
+                },
+                "position":{
+                    "x":32,
+                    "y":48
+                }
+            },    
+            "HattonRoad":{
+                "name": ["Hatton Road", "克頓道"],
+                "location": ["Lung Fu Shan, Hong Kong Island", "龍虎山，香港島"],
+                "sourceID":"VilliersHatton",
+                "mapIdx":17,
+                "images":[                    
+                    {
+                        "src":"/images/lm01/085.jpg",
+                        "thum":"/images/lm01/thum/085.jpg",
+                        "credit":[
+                            "© Royal Collection Trust",
+                            null
+                        ]    
+                    },
+                    {
+                        "src":"/images/lm01/086_3.jpg",
+                        "thum":null,
+                        "credit":null
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/59.svg"
+                },
+                "position":{
+                    "x":8,
+                    "y":5
+                }
+            }        
+        },
+        "warships": {
+            "PloverCoveRoad":{
+                "name": ["Plover Cove Road", "寶湖道"],
+                "location": ["Tai Po, New Territory", "大埔, 新界"],
+                "sourceID":"Plover",
+                "mapIdx":15,
+                "images":[                    
+                    {
+                        "src":"/images/lm01/037_1.jpg",
+                        "thum":null,
+                        "credit":null,
+                        "selected":true
+                    },
+                    {
+                        "src":"/images/lm01/038.jpg",
+                        "thum":"/images/lm01/thum/038.jpg",
+                        "credit":[
+                            "Courtesy of the Hong Kong Museum of Art",
+                            "圖片由香港藝術館提供"
+                        ]
+                    },
+                    {
+                        "src":"/images/lm01/039.jpg",
+                        "thum":"/images/lm01/thum/039.jpg",
+                        "credit":null
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/33.svg"
+                },
+                "position":{
+                    "x":59,
+                    "y":62
+                }
+            },
+            "PloverCove":{
+                "name": ["Plover Cove", "船灣"],
+                "location": ["Shuen Wan Hoi, New Territory", "大埔船灣海，新界"],
+                "sourceID":"Plover",
+                "mapIdx":16,
+                "images":[                    
+                    {
+                        "src":"/images/lm01/036_3.jpg",
+                        "thum":null,
+                        "credit":null,
+                        "selected":true
+                    },
+                    {
+                        "src":"/images/lm01/038.jpg",
+                        "thum":"/images/lm01/thum/038.jpg",
+                        "credit":[
+                            "Courtesy of the Hong Kong Museum of Art",
+                            null
+                        ]
+                    },
+                    {
+                        "src":"/images/lm01/039.jpg",
+                        "thum":"/images/lm01/thum/039.jpg",
+                        "credit":null,
+                        "selected":true
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/32.svg"
+                },
+                "position":{
+                    "x":57,
+                    "y":80
+                }
+            },
+            "TamarPark":{
+                "name": ["Tamar Park", "添馬公園"],
+                "location": ["Admiralty , Hong Kong Island", "金鐘，香港島"],
+                "sourceID":"Tamar",
+                "mapIdx":3,
+                "images":[                                        
+                    {
+                        "src":"/images/lm01/103.jpg",
+                        "thum":null,
+                        "credit":null,
+                        "selected":true                    
+                    },
+                    {
+                        "src":"/images/lm01/141.jpg",
+                        "thum":null,
+                        "credit":null                    
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/68.svg"
+                },
+                "position":{
+                    "x":34.5,
+                    "y":25
+                    
+                }
+            },
+            "SulphurChannel":{
+                "name": ["Sulphur Channel", "硫磺海峽"],
+                "location": ["Sulphur Channel, Hong Kong Island", "硫磺海峽，香港島"],
+                "sourceID":"Sulphur",
+                "mapIdx":1,
+                "images":[                    
+                    {
+                        "src":"/images/lm01/042_6.jpg",
+                        "thum":"/images/lm01/thum/042_6.jpg",
+                        "credit":null,
+                        "selected":true
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/35.svg"
+                },
+                "position":{
+                    "x":17.5,
+                    "y":42
+                }
+            },
+            "RodneyStreet":{
+                "name": ["Rodney Street", "樂禮街"],
+                "location": ["Central, Hong Kong Island", "中環，香港島"],
+                "sourceID":"Rodney",
+                "mapIdx":3,
+                "images":[                                        
+                    {
+                        "src":"/images/lm01/100.jpg",
+                        "thum":"/images/lm01/thum/100.jpg",
+                        "credit":[
+                            "©NMM",
+                            null
+                        ]                        
+                    },
+                    {
+                        "src":"/images/lm01/101_4.jpg",
+                        "thum":null,
+                        "credit":null
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/67.svg"
+                },
+                "position":{
+                    "x":35.6,
+                    "y":43.1
+                }
+            },
+            "TamarStreet":{
+                "name": ["Tamar Street", "添馬街"],
+                "location": ["Admiralty , Hong Kong Island", "金鐘，香港島"],
+                "sourceID":"Tamar",
+                "mapIdx":3,
+                "images":[                                        
+                    {
+                        "src":"/images/lm01/102_7.jpg",
+                        "thum":null,
+                        "credit":null                    
+                    },
+                    {
+                        "src":"/images/lm01/103.jpg",
+                        "thum":null,
+                        "credit":null                    
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/69.svg"
+                },
+                "position":{
+                    "x":24.6,
+                    "y":43.7
+                }
+            } , 
+            "StarlingInlet":{
+                "name": ["Starling Inlet", "沙頭角海"],
+                "location": ["Starling Inlet, New Territory", "沙頭角海，新界"],
+                "sourceID":"Starling",
+                "mapIdx":16,
+                "images":[                    
+                    {
+                        "src":"/images/lm01/040_22.jpg",
+                        "thum":"/images/lm01/thum/040_22.jpg",
+                        "credit":null,
+                        "selected":true
+                    },
+                    {
+                        "src":"/images/lm01/041.jpg",
+                        "thum":"/images/lm01/thum/041.jpg",
+                        "credit":[
+                            "©NMM",
+                            null
+                        ]
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/34.svg"
+                },
+                "position":{
+                    "x":73,
+                    "y":18
+                }
+            },
+            "BlenheimRoad":{
+                "name": ["Blenheim Road", "白蘭軒道"],
+                "location": ["Tsim Sha Tsui, Kowloon", "尖沙咀，九龍"],
+                "sourceID":"Blenheim",
+                "mapIdx":11,
+                "images":[                                        
+                    {
+                        "src":"/images/lm01/096.jpg",
+                        "thum":"/images/lm01/thum/096.jpg",
+                        "credit":[
+                            "Courtesy of the Hong Kong Museum of Art",
+                            null
+                        ]                        
+                    },
+                    {
+                        "src":"/images/lm01/097_4.jpg",
+                        "thum":null,
+                        "credit":null,
+                        "selected":true
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/65.svg"
+                },
+                "position":{
+                    "x":53,
+                    "y":84.7
+                }
+            },
+            "HebeHill":{
+                "name": ["Hebe Hill", "尖風山"],
+                "location": ["Sai Kung, New Territories", "將軍澳，新界"],
+                "sourceID":"YoungHebe",
+                "mapIdx":14,
+                "images":[                                        
+                    {
+                        "src":"/images/lm01/045.jpg",
+                        "thum":"/images/lm01/thum/045.jpg",
+                        "credit":[
+                            "Courtesy of the Hong Kong Museum of Art",
+                            null
+                        ]                        
+                    },
+                    {
+                        "src":"/images/lm01/139_11.jpg",
+                        "thum":null,
+                        "credit":null,
+                        "selected":true
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/37.svg"
+                },
+                "position":{
+                    "x":51.5,
+                    "y":80
+                }
+            },
+            "HebeHeaven":{
+                "name": ["Hebe Heaven", "白沙灣"],
+                "location": ["Tai Po, New Territory", "大埔，新界"],
+                "sourceID":"YoungHebe",
+                "mapIdx":14,
+                "images":[                    
+                    {
+                        "src":"/images/lm01/044_5.jpg",
+                        "thum":"/images/lm01/thum/044_5.jpg",
+                        "credit":null,
+                        "selected":true
+                    },
+                    {
+                        "src":"/images/lm01/045.jpg",
+                        "thum":"/images/lm01/thum/045.jpg",
+                        "credit":[
+                            "Courtesy of the Hong Kong Museum of Art",
+                            null
+                        ]                        
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/36.svg"
+                },
+                "position":{
+                    "x":75.5,
+                    "y":36
+                }
+            }  
+        },
+        "events": {
+            "GallipoliLine":{
+                "name": ["Gallipoli Line", "新圍軍營"],
+                "location": ["Sha Tau Kok Road, New Territories", "沙頭角道，新界"],
+                "sourceID":"Gallipoli",
+                "mapIdx":16,
+                "images":[                                        
+                    {
+                        "src":"/images/lm01/079_9.jpg",
+                        "thum":"/images/lm01/thum/079_9.jpg",
+                        "credit":null,
+                        "selected":true                        
+                    },
+                    {
+                        "src":"/images/lm01/080.jpg",
+                        "thum":"/images/lm01/thum/080.jpg",
+                        "credit":[
+                            "© IWM",
+                            null
+                        ],
+                        "selected":true
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/56.svg"
+                },
+                "position":{
+                    "x":26,
+                    "y":41
+                }
+            },
+            "PossessionStreet":{
+                "name": ["Possession Street", "水坑口街"],
+                "location": ["Sheung Wan, Hong Kong Island", "上環，香港島"],
+                "sourceID":"PossessionHK",
+                "mapIdx":2,
+                "images":[                                        
+                    {
+                        "src":"/images/lm01/114_2.jpg",
+                        "thum":null,
+                        "credit":null,
+                        "selected":true                        
+                    },
+                    {
+                        "src":"/images/lm01/115.jpg",
+                        "thum":"/images/lm01/thum/115.jpg",
+                        "credit":null,
+                        "selected":true
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/75.svg"
+                },
+                "position":{
+                    "x":23.7,
+                    "y":33.2
+                }
+            },
+            "WaterlooRoad":{
+                "name": ["Waterloo Road", "窩打老道"],
+                "location": ["from Yau Ma Tei to Kowloon Tong, Kowloon", "將軍澳，新界"],
+                "sourceID":"Waterloo",
+                "mapIdx":12,
+                "images":[                                        
+                    {
+                        "src":"/images/lm01/077_17.jpg",
+                        "thum":null,
+                        "credit":null,
+                        "selected":true                        
+                    },
+                    {
+                        "src":"/images/lm01/078.jpg",
+                        "thum":"/images/lm01/thum/078.jpg",
+                        "credit":[
+                            "© Look and Learn",
+                            null
+                        ],
+                        "selected":true
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/55.svg"
+                },
+                "position":{
+                    "x":15,
+                    "y":40
+                }
+            }          
+        },
+        "fortification": {
+            "MagazineGapRoad":{
+                "name": ["Magazine Gap Road", "馬己仙峽道"],
+                "location": ["Mid-level, Hong Kong Island", "半山區，香港島"],
+                "sourceID":"Magazines",
+                "mapIdx":17,
+                "images":[                                        
+                    {
+                        "src":"/images/lm01/125_7.jpg",
+                        "thum":null,
+                        "credit":null,
+                        "selected":true                        
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/81.svg"
+                },
+                "position":{
+                    "x":63,
+                    "y":16
+                }
+            },
+            "ArsenalStreet":{
+                "name": ["Arsenal Street", "軍器廠街"],
+                "location": ["Wan Chai, Hong Kong Island", "灣仔，香港島"],
+                "sourceID":"Arsenal",
+                "mapIdx":3,
+                "images":[                                        
+                    {
+                        "src":"/images/lm01/126_5.jpg",
+                        "thum":null,
+                        "credit":null,
+                        "selected":true                        
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/82.svg"
+                },
+                "position":{
+                    "x":53,
+                    "y":50
+                }
+            },
+            "BatteryPath":{
+                "name": ["Battery Path", "炮台里"],
+                "location": ["Central, Hong Kong Island", "中環，香港島"],
+                "sourceID":"MurrayBattery",
+                "mapIdx":2,
+                "images":[                                        
+                    {
+                        "src":"/images/lm01/104.jpg",
+                        "thum":"/images/lm01/thum/104.jpg",
+                        "credit":null,
+                        "selected":true                        
+                    },
+                    {
+                        "src":"/images/lm01/105_3.jpg",
+                        "thum":null,
+                        "credit":null,
+                        "selected":true
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/70.svg"
+                },
+                "position":{
+                    "x":90,
+                    "y":85
+                }
+            },
+            "BatteryStreet":{
+                "name": ["Battery Street", "炮台街"],
+                "location": ["Yau Ma Tei, Kowloon", "油麻地, 九龍"],
+                "sourceID":"KwunChungHillBattery",
+                "mapIdx":11,
+                "images":[                                        
+                    {
+                        "src":"/images/lm01/106_2.jpg",
+                        "thum":null,
+                        "credit":null,
+                        "selected":true                        
+                    },
+                    {
+                        "src":"/images/lm01/107_4.jpg",
+                        "thum":null,
+                        "credit":null,
+                        "selected":true
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/71.svg"
+                },
+                "position":{
+                    "x":42,
+                    "y":40
+                }
+            },
+            "SaiYingPun":{
+                "name": ["Sai Ying Pun", "西營盤"],
+                "location": ["Western District, Hong Kong Island", "西區，香港島"],
+                "sourceID":"WesternEncampment",
+                "mapIdx":1,
+                "images":[                                        
+                    {
+                        "src":"/images/lm01/108_3.jpg",
+                        "thum":null,
+                        "credit":null,
+                        "selected":true                        
+                    },
+                    {
+                        "src":"/images/lm01/109.jpg",
+                        "thum":"/images/lm01/thum/109.jpg",
+                        "credit":null,
+                        "selected":true
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/72.svg"
+                },
+                "position":{
+                    "x":77,
+                    "y":20
+                }
+            },
+            "FortStreet":{
+                "name": ["Fort Street", "堡壘街"],
+                "location": ["North Point, Hong Kong Island", "北角，香港島"],
+                "sourceID":"NorthPointBattery",
+                "mapIdx":5,
+                "images":[                                        
+                    {
+                        "src":"/images/lm01/127_11.jpg",
+                        "thum":null,
+                        "credit":null,
+                        "selected":true                        
+                    },
+                    {
+                        "src":"/images/lm01/128_30.jpg",
+                        "thum":"/images/lm01/thum/128_30.jpg",
+                        "credit":null,
+                        "selected":true                        
+                    }
+                ],
+                "overlayImage":{
+                    "src":"/images/lm01/overlay/83.svg"
+                },
+                "position":{
+                    "x":40,
+                    "y":51
+                }
+            }
+        }
+    },
+    "source":{
+        "GeorgeMurray":{
+            "name":[
+                "General Sir George Murray, British Army",
+                "英國陸軍上將美利爵士"
+            ],
+            "description": [
+                "This was named after Sir George Murray (1772–1846), a British general and politician. He never visited Hong Kong, but he was a friend of the father of Major-General D’Aguilar (1784-1855), the commander of the Hong Kong garrison in the 1840s. D’Aguilar named the newly built barracks and a nearby street after Sir George Murray to express his reverence for the man.",
+                "以英國陸軍上將及政治家美利爵士（1772-1846）命名。美利爵士從未到過香港，但他是1840年代駐港英軍司令德己立將軍(17</br>84-1855)父親的朋友。以美利爵士命名當時新建的軍營及鄰近街道，以表崇敬。"
+            ],
+            "relatedItems":[
+                {"id":"MurrayRoad"},
+                {"id":"MurrayBarracks"},
+                {"id":"MurrayHouse"}
+            ]
+        },
+        "HoratioNelson":{
+            "name":[
+                "Vice-Admiral Horatio Nelson, Royal Navy",
+                "皇家海軍中將奶路臣"
+            ],
+            "description": [
+                "This was named after Vice-Admiral <br/> Horatio Nelson (1758-1805). He was famous for his victories against the French and Spanish navies in the Battle of Trafalgar (1805) during the French Revolutionary and Napoleonic Wars (1789-1815).",
+                "以英國海軍中將奶路臣（1758-1805）命名。他在法國大革命及拿破崙戰爭（1789-1815）期間的特拉法加海戰（1805）中，率領皇家海軍大破法國和西班牙的聯合艦隊而譽滿天下。"
+            ],
+            "relatedItems":[
+                {"id":"NelsonStreet"}
+            ]
+        },
+        "EdwardBelcher":{
+            "name":[
+                "Admiral Sir Edward Belcher, Royal Navy",
+                "皇家海軍上將卑路乍爵士"
+            ],
+            "description": [
+                "This was named after Admiral Sir <br/> Edward Belcher (1799-1877), who landed on Possession Point on the north shore of Hong Kong Island on 25 January 1841. He also conducted the first survey of Hong Kong’s harbour in 1841 on the orders of Captain Charles Elliot (1801-75)",
+                "以英國海軍上將卑路乍爵士（1799-1877）命名。他在1841年1月25日在香港島北岸的佔領角登陸，同年，他奉義律（1801-75）之命首次在維多利亞港進行測量。"
+            ],
+            "relatedItems":[
+                {"id":"BelcherStreet"},
+                {"id":"BelcherBay"}   
+            ]
+        },
+        "WilliamCaine":{
+            "name":[
+                "Lieutenant Colonel William Caine, British Army",
+                "英國陸軍中校威廉．堅"
+            ],
+            "description": [
+                "This was named after Lieutenant Colonel <br/> William Hull Caine (1799-1871), who was appointed the first Police Magistrate in 1841. He later became the Colonial Secretary and Lieutenant Governor of Hong Kong from 1854 to 1859 and the Acting Governor of Hong Kong from May to September 1859.",
+                "以英國陸軍中校威廉．堅（1799-1871）命名。他於1841年獲委任為香港首位警察裁判司，後於1854至1859年間出任輔政司和香港副總督，1859年5月至9月曾任署理<br/>總督。"
+            ],
+            "relatedItems":[
+                {"id":"CaineRoad"},
+                {"id":"CaineLane"}                
+            ]
+        },
+        "WilliamPedder":{
+            "name":[
+                "Lieutenant William Pedder, Royal Navy",
+                "皇家海軍中尉畢打"
+            ],
+            "description": [
+                "This was named after Lieutenant William Pedder (1801-54), who was appointed the first Harbour Master and Marine Magistrate in 1841. He was also the First Officer on the East India Company warship Nemesis during the First Opium War(1839-42).",
+                "以英國海軍中尉畢打（1801-54）命名。他於1841年獲委任為香港首任船政廳長及海事裁判官。第一次鴉片戰爭(1839-42)期間，曾擔任英國東印度公司戰艦復仇女神號的大副。"
+            ],
+            "relatedItems":[
+                {"id":"PedderStreet"}
+            ]
+        },
+        "WilliamParker":{
+            "name":[
+                "Admiral of the Fleet Sir William Parker, Royal Navy",
+                "皇家海軍元帥柏架爵士"
+            ],
+            "description": [
+                "This was named after Admiral of the Fleet Sir William Parker (1781-1866). He was the Commander-in-chief of the East Indies and China Station, which participated in the First Opium War(1839-42).",
+                "以英國海軍元帥柏架爵士（1781-1866）命名。他出任東印度及中國艦隊總司令期間，曾參與第一次鴉片戰爭(1839-42)。"
+            ],
+            "relatedItems":[
+                {"id":"MountParker"},
+                {"id":"MountParkerRoad"}
+            ]
+        },
+        "JohnGordonBremer":{
+            "name":[
+                "Rear-Admiral Sir James John Gordon Bremer, <br/>Royal Navy",
+                "皇家海軍少將寶馬爵士"
+            ],
+            "description": [
+                "This was named after Rear-Admiral <br/> Sir James John Gordon Bremer (1786-1850). He served twice as Commander-in-Chief of the British forces in the First Opium War (1839-42). He led a party of British forces to take possession of Hong Kong Island on 26 January 1841.",
+                "以英國海軍少將伯麥爵士（1786-1850）命名。他在第一次鴉片戰爭(1839-42)中兩度擔任英軍總司令，並於1841年1月26日率領英軍佔領香港島。"
+            ],
+            "relatedItems":[
+                {"id":"BraemarHill"},
+                {"id":"BraemarHillRoad"}
+            ]
+        },
+        "ThomasCochrane":{
+            "name":[
+                "Admiral Thomas Cochrane, Royal Navy",
+                "皇家海軍上將閣麟"
+            ],
+            "description": [
+                "This was named after Admiral Thomas Cochrane (1775-1860), who performed well in the Napoleonic Wars (1803-15), nicknamed <br/>“The Sea Wolf”. In the 1820s, Cochrane helped the rebel navies of several South American countries, thus contributing to their independence from Spain.",
+                "以英國海軍上將閣麟（1775-1860）命名。他於拿破崙戰爭（1803-15）中表現出色，有「海狼」之稱，並於1820年代協助南美多國的革命海軍脫離西班牙獨立。"
+            ],
+            "relatedItems":[
+                {"id":"CochraneStreet"}
+            ]
+        },        
+        "ThomasBernardCollinson":{
+            "name":[
+                "Major-General Thomas Bernard Collinson, </br>Royal Engineers",
+                "皇家工程兵少將歌連臣"
+            ],
+            "description": [
+                "This was named after Major-General Thomas Bernard Collinson (1821-1902), a surveyor of the Royal Engineers, who carried out the earliest British surveys of Hong Kong. He was the younger brother of Captain Richard Collinson (1811-83), Royal Navy, who pioneered coastal surveys of southern China.<br/><br/>Given the task of mapping Hong Kong from 1843 to 1845, Collinson produced the first set of scientifically surveyed Ordnance Map of Hong Kong in 1845.",
+                "以英國皇家工程兵少將歌連臣（1821-1902）命名。他曾以測量員身份負責英國首次在香港的測量工作。他亦是華南沿海測量先驅、皇家海軍上校理察．歌連臣(1811-83)的弟弟。<br/><br/>歌連臣於1843至1845年間為香港繪製地圖，1845年製作了首套經過科學測量的香港地圖。"
+            ],
+            "relatedItems":[
+                {"id":"MountCollinson"},
+                {"id":"CapeCollinson"},
+                {"id":"CapeCollinsonPath"},
+                {"id":"CapeCollinsonRoad"},
+                {"id":"CollinsonStreet"}
+            ]
+        },
+        "ThomasBernardCollinson2":{
+            "name":[
+                "Major-General Thomas Bernard Collinson, Royal Engineer",
+                "皇家工程兵少將歌連臣"
+            ],
+            "description": [
+                "This was named by Major-General <br/> Thomas Bernard Collinson (1821-1902) in his survey. He was responsible for mapping Hong Kong from 1843 to 1845.",
+                "英國皇家工程兵少將歌連臣（1821-1902）在鰂魚涌一帶進行測量時，將此處命名為Quarry Bay。他於1843年至1845年間負責為香港繪製地圖。"
+            ],
+            "relatedItems":[
+                {"id":"QuarryBay"},
+                {"id":"QuarryBayStreet"}
+            ]
+        },
+        "GeorgeDAguilar":{
+            "name":[
+                "Major-General Sir George D’Aguilar, British Army",
+                "英國陸軍少將德己立爵士"
+            ],
+            "description": [
+                "This was named after Major-General <br/> Sir George D’Aguilar (1784-1855). He arrived in Hong Kong as the Commander of British Forces in 1843. A year later, he was appointed Lieutenant Governor of Hong Kong until 1848. The Headquarters House (Flagstaff House) was built for him in 1846.",
+                "以英國陸軍少將德己立爵士（1784-1855）命名。他於1843年抵港履任駐港英軍總司令，一年後獲任命為第一任香港副總督至1848年。為他興建的三軍總司令官邸（旗桿屋）於1846年落成。"
+            ],
+            "relatedItems":[
+                {"id":"CapeDAguilar"},
+                {"id":"DAguilarStreet"}
+            ]
+        },
+        "EdwardAldrich":{
+            "name":[
+                "Colonel Edward Aldrich, Royal Engineers",
+                "皇家工程兵上校愛秩序"
+            ],
+            "description": [
+                "This was named after Colonel <br/>Edward Aldrich (1802-57), the first commander of the Royal Engineers in Hong Kong. He supervised the construction of many early British buildings, such as the Murray Barracks, the Victoria Barracks and Headquarters House (Flagstaff House).",
+                "以英國皇家工程兵上校愛秩序(1802-57)命名。他是香港首任皇家工程兵的指揮官，曾監督多棟英軍早期建築物的建造工程，包括美利軍營、域多利軍營及三軍總司令官邸（旗桿屋）。"
+            ],
+            "relatedItems":[
+                {"id":"AldrichBay"},
+                {"id":"AldrichBayRoad"},
+                {"id":"AldrichStreet"}
+            ]
+        },
+        "HenryKellett":{
+            "name":[
+                "Vice Admiral Sir Henry Kellett, Royal Navy",
+                "皇家海軍中將奇力爵士"
+            ],
+            "description": [
+                "This was named after Vice Admiral <br/> Sir Henry Kellett (1806-75). He was the captain of HMS <i>Starling</i> during the First Opium War (1839-42). He was also an explorer, who was credited with the discovery of Herald Island in Russia. One of his famous adventures was the rescue of <br/> Sir Robert McClure (1807-73) who had been icebound for nearly two years while searching for the missing Sir John Franklin’s (1786-1847) expedition in exploring the Northwest Passage.",
+                "以英國海軍中將奇力爵士（1806-75）命名。第一次鴉片戰爭(1839-42)期間，他是英國軍艦士他令號的艦長。他同時是一名探險家，因發現了位於俄羅斯的先驅島而備受矚目。他的探險成就之一，是救出被冰圍困了接近二年、前往極地搜尋探索西北航道而失蹤的富蘭克林上校(1786-1847)探險隊的的麥克盧爵士(1807-73)。"
+            ],
+            "relatedItems":[
+                {"id":"KellettIsland"},
+                {"id":"MountKellett"},
+                {"id":"MountKellettRoad"},
+                {"id":"KellettBay"}
+            ]
+        },
+        "Plover":{
+            "name":[
+                "HMS <i>Plover</i>",
+                "千鳥號"
+            ],
+            "description": [
+                "This was named after HMS <i>Plover</i> (1888), a gunboat assigned to the China Station of the Royal Navy in 1891. J.H. Stewart Lockhart (1858-1937), the Colonel Secretary, surveyed the New Territories on HMS <i>Plover</i> in 1898. His report provided a detailed account of the territory and an insight into community life in southern China during the late 19th century.",
+                "以英國皇家海軍炮艦千鳥號（1888）命名，它於1891年加入英國皇家海軍中國艦隊。輔政司駱克(1858-1937)於1898年乘坐千鳥號往新界考察，詳細記錄了新界的狀況，以及19世紀華南村落的樣貌。"
+            ],
+            "relatedItems":[                
+                {"id":"PloverCove"},
+                {"id":"PloverCoveRoad"}
+            ]
+        },
+        "Starling":{
+            "name":[
+                "HMS <i>Starling</i>",
+                "士他令號"
+            ],
+            "description": [
+                "This was named after HMS <i>Starling</i> (1829), a schooner of the Royal Navy. It was one of the two ships involved in an expedition under the command of Admiral Sir Edward Belcher (1799-1877) to survey the Pacific coast of the Americas.",
+                "以英國皇家海軍武裝帆船士他令號（1829）命名，它是其中一艘跟隨海軍上將<br/>卑路乍（1799-1877）測量美洲太平洋沿岸的船隻。"
+            ],
+            "relatedItems":[
+                {"id":"StarlingInlet"}
+            ]
+        },
+        "Sulphur":{
+            "name":[
+                "HMS <i>Sulphur</i>",
+                "硫磺號"
+            ],
+            "description": [
+                "This was named after HMS <i>Sulphur</i> (1836), a bomb vessel of the Royal Navy. It was one of the two ships involved in an expedition to survey <br/> the Pacific coast of the Americas under the command of Edward Belcher.",
+                "以英國皇家海軍炮艦硫磺號（1836）命名，它是其中一艘跟隨海軍上將卑路乍（1799-1877）測量美洲太平洋沿岸的船隻。"
+            ],
+            "relatedItems":[
+                {"id":"SulphurChannel"}
+            ]
+        },
+        "YoungHebe":{
+            "name":[
+                "HMS <i>Young Hebe</i>",
+                "小赫柏號"
+            ],
+            "description": [
+                "This was named after HMS <i>Young Hebe</i> (1839), a 45-ton schooner of the Royal Navy. It was one of the two vessels that surveyed the coast of China from Shanghai to Hong Kong under the command of Captain Richard Collinson (1811-83), <br/>Royal Navy.",
+                "以英國皇家海軍雙桅縱帆船小赫柏號（1<br/>839）命名，它是其中一艘跟隨皇家海軍上校理察‧哥連臣(1811-83)，從上海到香港測量中國沿岸的船隻。"
+            ],
+            "relatedItems":[
+                {"id":"HebeHeaven"},
+                {"id":"HebeHill"}
+            ]
+        },
+        "MichaelSeymour":{
+            "name":[
+                "Admiral Sir Michael Seymour, Royal Navy",
+                "皇家海軍上將西摩爵士"
+            ],
+            "description": [
+                "This was named after Admiral <br/> Sir Michael Seymour (1802-87). He was appointed Commander-in-chief of the East Indies and China Station in 1856, which participated in the Second Opium War (1856-60).",
+                "以英國海軍上將西摩爵士（1802-87）命名。他於1856年獲任命為東印度及中國艦隊總司令，率領艦隊參與第二次鴉片戰爭(1856-60)。"
+            ],
+            "relatedItems":[
+                {"id":"SeymourRoad"},
+                {"id":"SeymourTerrace"}
+            ]
+        },
+        "JatRegiment":{
+            "name":[
+                "Jat Regiment",
+                "印度賈特軍團"
+            ],
+            "description": [
+                "This was named after the Jat Regiment. Established in 1795, the Regiment was one of the oldest regiments in the Indian Army which is still in service today. The regiment was once stationed in Hong Kong. Jat’s Incline was built in 1907 by the regiment and a marker stone showing its history has been lain there since then.",
+                "此山道以賈特軍團命名。軍團成立於1795年，是印度兵其中一支歷史最悠久的部隊，至今尚存。此軍團曾駐紮香港，在1907年建成扎山道，並立下標石以作<br/>紀念。"
+            ],
+            "relatedItems":[                
+                {"id":"JatIncline"}
+            ]
+        },
+        "ViscountHughGough":{
+            "name":[
+                "Field Marshal Viscount Hugh Gough, British Army",
+                "英國陸軍元帥歌賦子爵"
+            ],
+            "description": [
+                "This was named after Field Marshal Sir Viscount Hugh Gough (1779-1869), who served as Commander-in-chief of the British Forces in China during the First Opium War (1839-42).",
+                "以英國陸軍元帥歌賦子爵（1779-1869）命名。他在第一次鴉片戰爭(1839-42)期間出任在華英軍總司令。"
+            ],
+            "relatedItems":[
+                {"id":"GoughStreet"},
+                {"id":"GoughHillPath"},
+                {"id":"GoughHillRoad"}
+            ]
+        },
+        "WilliamGordonCameron":{
+            "name":[
+                "General Sir William Gordon Cameron, British Army",
+                "英國陸軍上將金馬倫爵士"
+            ],
+            "description": [
+                "This was named after General <br/> Sir William Gordon Cameron (1827-1913). In 1884, he was appointed Commander of British Troops in China, Hong Kong and the Straits Settlements. He was the Acting Governor of Hong Kong from April to October 1887.",
+                "以英國陸軍上將金馬倫爵士（1827-1913）命名。他於1884年獲任命為駐華、香港及海峽殖民地英軍司令。1887年4月至10月曾擔任香港署理總督。"
+            ],
+            "relatedItems":[
+                {"id":"MountCameron"},
+                {"id":"CameronRoad"},
+                {"id":"MountCameronRoad"}
+            ]
+        },
+        "GeorgeDigbyBarker":{
+            "name":[
+                "General Sir George Digby Barker, British Army",
+                "英國陸軍上將白加爵士"
+            ],
+            "description": [
+                "This was named after General <br/> Sir George Digby Barker (1833-1914), who was appointed Commander of British Troops in China and Hong Kong from 1890 to 1895. Barker was also the Acting Governor of Hong Kong for a short while in 1891.",
+                "以英國陸軍上將白加爵士（1833-1914）命名。他在1890年至1895年間獲委任為駐華及香港英軍司令，並於1891年短暫擔任香港署理總督。"
+            ],
+            "relatedItems":[
+                {"id":"BarkerRoad"}
+            ]
+        },
+        "WilliamJuliusGascoigne":{
+            "name":[
+                "Major-General Sir William Julius Gascoigne, <br/>British Army",
+                "英國陸軍少將加士居爵士"
+            ],
+            "description": [
+                "This was named after Major-General <br/> Sir William Julius Gascoigne (1844-1926), who was appointed Commander of British Troops in China and Hong Kong in 1898.",
+                "以英國陸軍少將加士居爵士（1844-1926）命名。他在1898年獲任命為駐華及香港英軍司令。"
+            ],
+            "relatedItems":[
+                {"id":"GascoigneRoad"}
+            ]
+        },
+        "RobertGeorgeBroadwood":{
+            "name":[
+                "Lieutenant-General Robert George Broadwood, <br/>British Army",
+                "英國陸軍中將樂活"
+            ],
+            "description": [
+                "This was named after Lieutenant-General <br/> Robert George Broadwood (1862-1917), who served as Commander of British Troops in South China from 1906 to 1910.",
+                "以英國陸軍中將樂活（1862-1917）命名，他在1906至1910年間出任駐華南英軍<br/>司令。"
+            ],
+            "relatedItems":[
+                {"id":"BroadwoodRoad"}
+            ]
+        },
+        "FrancisVentris":{
+            "name":[
+                "Major-General Francis Ventris, British Army",
+                "英國陸軍少將雲地利"
+            ],
+            "description": [
+                "This was named after Major-General <br/> Francis Ventris (1857-1929), who was appointed Commander of British Forces in China from 1915 to 1921.",
+                "以英國陸軍少將雲地利（1857-1929）命名，他於1915至1921年間擔任駐華英軍<br/>司令。"
+            ],
+            "relatedItems":[
+                {"id":"VentrisRoad"}
+            ]
+        },
+        "OswaldBorrett":{
+            "name":[
+                "Lieutenant General Oswald Borrett",
+                "英國陸軍中將波老"
+            ],
+            "description": [
+                "This was named after Lieutenant-General <br/> Oswald Borrett (1878-1950), who served as Commander of British Troops in China between 1932 and 1935",
+                "以英國陸軍中將波老（1878-1950）命名，他於1932至1935年間擔任駐華英軍司令。"
+            ],
+            "relatedItems":[
+                {"id":"BorrettRoad"}
+            ]
+        },
+        "CecilHarcourt":{
+            "name":[
+                "Admiral Sir Cecil Harcourt, Royal Navy",
+                "皇家海軍上將夏慤爵士"
+            ],
+            "description": [
+                "This was named after Admiral Sir <br/>Cecil Harcourt (1892-1959). After the surrender of Japan, he led a British fleet to reoccupy Hong Kong on 30 August 1945 and received the Japanese surrender. He was the head of the provisional military government in Hong Kong from 1945 to 1946, until the return of Governor Sir Mark Young (1886-1974).",
+                "以英國海軍上將夏慤爵士（1892-1959）命名。日軍投降後，他於1945年8月30日率領艦隊接收香港，並主持受降儀式。此後於1945至1946年間成為臨時軍政府首長，直至港督楊慕琦爵士（1886-1974）回港復職為止。"
+            ],
+            "relatedItems":[
+                {"id":"HarcourtRoad"}
+            ]
+        },
+        "JohnWynnePotts":{
+            "name":[
+                "Lieutenant John Wynne-Potts, Royal Navy",
+                "皇家海軍上尉榮博思"
+            ],
+            "description": [
+                "This was named after Lieutenant John Wynne-Potts (1924-2009) of the 42 Royal Marine Commandos. He was the officer in charge of the construction of Hiram’s Highway. The road was constructed by the Royal Marines using Japanese prisoner-of-war labour in the immediate <br/> post-WWII years and presented as a gift to the people of Sai Kung for their resistance efforts during the Japanese occupation. Wynne-Potts, who arrived in Hong Kong in 1945 with Rear-Admiral Harcourt's fleet, was nicknamed Hiram, as he shared the name “Potts” with ”Hiram K. Potts”, an American brand of tinned sausages supplied to British troops during the Second World War.",
+                "以英國皇家海軍突擊隊第42旅榮博思<br/>上尉(1924-2009)命名，他負責建造西貢公路。這條道路是由皇家海軍陸戰隊指令日本戰俘建造，以表揚西貢居民在日佔時期作出的抵抗。他隨夏愨艦隊抵達香港，因為他的姓氏與二戰期間供給英軍的美國罐裝香腸品牌「Hiram K. Potts」同名，因而有「Hiram」這個綽號。"
+            ],
+            "relatedItems":[
+                {"id":"HiramHighway"}
+            ]
+        },
+        "IndianSeamen":{
+            "name":[
+                "Gun Lascars",
+                "印度炮兵"
+            ],
+            "description": [
+                "This was named after the Gun Lascars from the Indian subcontinent who were stationed in <br/> Hong Kong. They were commonly referred to <br/> as  “Mo Law” in Cantonese.",
+                "以駐守香港、來自印度的炮兵命名。「摩囉」一詞常用於稱呼他們。"
+            ],
+            "relatedItems":[
+                {"id":"UpperLowerLascarRow"}
+            ]
+        },
+        "Waterloo":{
+            "name":[
+                "Battle of Waterloo, 1815",
+                "滑鐵盧之役(1815)"
+            ],
+            "description": [
+                "This was named to commemorate the 1815 <br/> Battle of Waterloo, in which the French army under the command of Napoleon Bonaparte (1769-1821) was defeated by the armies of <br/> the Seventh Coalition, led by Britain.",
+                "以1815年滑鐵盧戰役命名。戰役中，由 <br/> 拿破崙（1769-1821）指揮的法軍被英國帶領的第七次反法同盟擊敗。"
+            ],
+            "relatedItems":[
+                {"id":"WaterlooRoad"}
+            ]
+        },
+        "Gallipoli":{
+            "name":[
+                "Gallipoli Campaign, 1915",
+                "加里波利戰役(1915)"
+            ],
+            "description": [
+                "This was named after the 1915 Gallipoli Campaign during the First World War (1914-18). The British planned to use the Gallipoli Peninsula as a springboard to capture Constantinople (present-day Istanbul), the capital city of the then Ottoman Empire. The campaign resulted in heavy casualties on both sides.",
+                "以1915年第一次世界大戰 (1914-18)中的加里波利戰役命名。當時英軍計劃以攻佔加里波利半島作戰略跳板，繼而進軍鄂圖曼帝國首都君士坦丁堡（即今伊斯坦堡）。雙方在此戰均傷亡慘重。"
+            ],
+            "relatedItems":[
+                {"id":"GallipoliLine"}
+            ]
+        },
+        "JohnOsborn":{
+            "name":[
+                "Warrant Officer Class II John Osborn, Canadian Army",
+                "加拿大陸軍二級准尉奧斯本"
+            ],
+            "description": [
+                "The barracks was named after Warrant Officer Class II John Osborn (1899-1941), of the Canadian Army. During the Battle for Hong Kong in 1941, Osborn was a Company Sergeant-Major of the Winnipeg Grenadiers. To protect his comrades, he threw himself on a live grenade during an engagement with the Japanese on Mount Butler. He was awarded a posthumous Victoria Cross for his selfless act.",
+                "此軍營以加拿大陸軍二級准尉<br/>奧斯本（1899-1941）命名。他是加拿大溫尼伯榴彈兵營的連隊士官長，在1941年香港保衛戰中與同袍於畢拿山和日軍激戰，他為保護同袍奮勇捨身撲上一枚手榴彈後陣亡。他身後獲頒「維多利亞十字勳章」，以表揚其無私奉獻。"
+            ],
+            "relatedItems":[
+                {"id":"OsbornBarracks"}
+            ]
+        },
+        "CharlesBushePlunket":{
+            "name":[
+                "Charles Bushe Plunkett, <br/>Registrar of the Vice Admiralty Court",
+                "海軍法庭法官賓吉"
+            ],
+            "description": [
+                "This was named after Charles Bushe Plunkett (1830-80), erstwhile Registrar of the Vice Admiralty Court, and later Police Magistrate and Coroner in Hong Kong. He died in 1880 during a voyage to London on sick leave.",
+                "以警察裁判司賓吉（1830-80）命名。他最初是海軍法庭法官，其後成為警察裁判司及驗屍官。1880年因病請假回倫敦，途中<br/>死亡。"
+            ],
+            "relatedItems":[
+                {"id":"PlunkettRoad"}
+            ]
+        },
+        "VilliersHatton":{
+            "name":[
+                "Major-General Villiers Hatton, British Army",
+                "英國陸軍少將克頓"
+            ],
+            "description": [
+                "This was named after Major-General <br/> Villiers Hatton (1852-1914), who was Commander of British Troops in South China from 1903 to 1906.",
+                "以英國陸軍少將克頓（1852-1914）命名，他於1903至1906年間擔任駐華南英軍<br/>司令。"
+            ],
+            "relatedItems":[
+                {"id":"HattonRoad"}
+            ]
+        },
+        "CharlesCamacLuard":{
+            "name":[
+                "Major-General Charles Camac Luard, British Army",
+                "英國陸軍少將盧押"
+            ],
+            "description": [
+                "This was named after Major-General Charles Camac Luard (1867-1947), Commander of the British Troops in South China from 1925 to 1929.",
+                "以英國陸軍少將盧押（1867-1947）命名，他於1925至1929年擔任駐華南英軍司令。"
+            ],
+            "relatedItems":[
+                {"id":"LuardRoad"}
+            ]
+        },
+        "HumphreyFlemingSenhouse":{
+            "name":[
+                "Captain Sir Humphrey Fleming Senhouse, Royal Navy",
+                "皇家海軍上校山侯士爵士"
+            ],
+            "description": [
+                "This was named after Captain <br/> Sir Humphrey Fleming Senhouse (1781-1841), who served in the Napoleonic Wars (1803-15). He subsequently served in the First Opium War (18<br/>39-42) and commanded HMS <i>Blenheim</i>. He died in Hong Kong in June 1841 from a fever contracted during an operation in Guangdong in May.",
+                "以英國海軍上校山侯士爵士（1781-1841）命名。他曾參與拿破崙戰爭（1803-15），後來參與第一次鴉片戰爭(1839-42)，指揮軍艦白蘭軒號。1841年5月，在廣東作戰時染病，6月於香港逝世。"
+            ],
+            "relatedItems":[
+                {"id":"MountStenhouse"}
+            ]
+        },
+        "HenryHopeGraham":{
+            "name":[
+                "Lieutenant-Colonel Henry Hope Graham, British Army",
+                "英國陸軍中校嘉咸"
+            ],
+            "description": [
+                "This was named after Lieutenant-Colonel <br/> Henry Hope Graham of the 59th Regiment of Foot, which was stationed in Hong Kong in the 1850s.",
+                "以隸屬英國陸軍第59步兵團的中校嘉咸命名，這支部隊在1850年代駐守香港。"
+            ],
+            "relatedItems":[
+                {"id":"GrahamStreet"}
+            ]
+        },
+        "Blenheim":{
+            "name":[
+                "HMS <i>Blenheim</i>",
+                "白蘭軒號"
+            ],
+            "description": [
+                "This was named after HMS <i>Blenheim</i> (1813), a 74-gun third-rate ship of the line of the Royal Navy. It saw action during the First Opium War (1839-42) under the command of Captain Sir Humphrey Fleming Senhouse (1781-1841).",
+                "以英國軍艦白蘭軒號（1813）命名。它是一艘配備74門火炮的三等戰列艦。海軍上校山侯士爵士（1781-1841）曾指揮此艦參與第一次鴉片戰爭(1839-42)。"
+            ],
+            "relatedItems":[
+                {"id":"BlenheimRoad"}
+            ]
+        },
+        "FrancisDrake":{
+            "name":[
+                "Sir Francis Drake",
+                "德立爵士"
+            ],
+            "description": [
+                "This was named after Sir Francis Drake (1540-96), an English explorer and sea captain. He was the first Englishman to circumnavigate the globe. He was appointed as Vice-Admiral in 1588 and defeated the Spanish Armada in the same year.",
+                "以英格蘭探險家及航海家德立爵士（1540-96）命名。他是第一位完成環球航海旅程的英國人，1588年被任命為海軍中將，同年擊敗西班牙無敵艦隊。"
+            ],
+            "relatedItems":[
+                {"id":"DrakeStreet"}
+            ]
+        },
+        "Rodney":{
+            "name":[
+                "HMS <i>Rodney</i>",
+                "樂禮號"
+            ],
+            "description": [
+                "This was named after the HMS <i>Rodney</i> (1833), a 92-gun second-rate ship of the line of the Royal Navy, which served during the Crimean War (1853-56). The ship served in the China Station after being converted to a steam and screw propelled vessel in 1860. It was one of the last unarmoured wooden battleships of the Royal Navy and was broken up in 1884.",
+                "以英國軍艦樂禮號（1833）命名。它是一艘配備92門火炮的二等戰列艦，曾於克里米亞戰爭（1853-56）服役。1860年，換上蒸氣引擎後服役於中國艦隊。樂禮號於1884年拆解，是皇家海軍最後一批無裝甲木製戰艦之一。"
+            ],
+            "relatedItems":[
+                {"id":"RodneyStreet"}
+            ]
+        },
+        "Tamar":{
+            "name":[
+                "HMS <i>Tamar</i>",
+                "添馬艦"
+            ],
+            "description": [
+                "This was named after HMS <i>Tamar</i>, a British troopship launched in 1863. It first visited <br/>Hong Kong in 1878 with a relief crew and was stationed permanently in Victoria Harbour from 1897 to 1941. The ship was sunk by the defenders during the Battle for Hong Kong in 1941 to avoid being captured by the Japanese invaders.",
+                "以英國運兵艦添馬艦命名。1863年正式下水， 1878年運載補充人員首次抵達香港，其後於1897至1941年間以維多利亞港為母港長期停泊。在1941年香港保衛戰中為免被日軍繳獲而被守軍鑿沉。"
+            ],
+            "relatedItems":[
+                {"id":"TamarPark"},
+                {"id":"TamarStreet"}
+            ]
+        },
+        "MurrayBattery":{
+            "name":[
+                "Murray Battery",
+                "美利炮台"
+            ],
+            "description": [
+                "This was named after the Murray Battery, which was built in 1841, shortly after the British takeover of Hong Kong. The site was transferred to the government in 1920.",
+                "以美利炮台命名。早於1841年英國人佔領香港不久即興建此炮台，炮台用地於1920年移交港英政府。"
+            ],
+            "relatedItems":[               
+                {"id":"BatteryPath"}
+            ]
+        },
+        "KwunChungHillBattery":{
+            "name":[
+                "Kwun Chung battery",
+                "官涌炮台"
+            ],
+            "description": [
+                "This was named after the Kwun Chung battery, a Chinese battery built under the order of Commissioner Lin Zexu (1785-1850) of the Qing dynasty in 1840 after the Battle of Kwun Chung in 1839. The Qing garrison stationed here was evacuated in 1841. It was subsequently bombarded by the British forces.",
+                "以官涌炮台命名。它是一座中式炮台，1839年官涌戰役後由清朝欽差大臣<br/>林則徐(1785-1850)在1840年下令興建。<br/>駐守的清兵翌年撤走，炮台最後被英軍<br/>炸毀。"
+            ],
+            "relatedItems":[               
+                {"id":"BatteryStreet"}
+            ]
+        },
+        "WesternEncampment":{
+            "name":[
+                "Western Encampment",
+                "西邊軍營"
+            ],
+            "description": [
+                "This is the site of a British Army camp in 1841. The Cantonese word sai (西) means “west” and <br/> ying pun (營盤) means “camp”.<br/><br/>After the British landing in Possession Point in 1841, Indian troops were encamped here. The next year saw a severe epidemic of fever which exacted a heavy toll among the troops.",
+                "1841年英軍軍營駐扎之地。廣東話 <br/> 中，「西」代表西方，而「營盤」則有營地的意思。<br/><br/>1841年英軍登陸水坑口後，於此處設立軍營，派印籍士兵駐守，翌年爆發嚴重瘧疾，軍士死亡甚眾。"
+            ],
+            "relatedItems":[               
+                {"id":"SaiYingPun"}
+            ]
+        },
+        "WilliamStaveley":{
+            "name":[
+                "Lieutenant-General William Staveley, British Army",
+                "英國陸軍中將士他花利"
+            ],
+            "description": [
+                "This was named after Lieutenant-General <br/> William Staveley (1784-1854). He was Commander of the British Forces in Hong Kong between 1848 and 1851. He once served as Lieutenant Governor.",
+                "以英國陸軍中將士他花利（1784-1854）命名。他在1848至1851年間擔任駐港英軍司令，他曾擔任香港副總督。"
+            ],
+            "relatedItems":[               
+                {"id":"StaveleyStreet"}
+            ]
+        },
+        "WilliamJervois":{
+            "name":[
+                "General William Jervois, British Army",
+                "英國陸軍上將乍畏"
+            ],
+            "description": [
+                "This was named after General William Jervois (1782-1862), who was Commander of the British Forces in Hong Kong from 1851 to 1854. He once served as Lieutenant Governor of Hong Kong. Hundreds of Chinese houses in the area, around the present-day Jervois Street, were burnt to the ground in a big fire on 28 December 1851. The fire led to the redevelopment of the whole area, which was supervised by Jervois.",
+                "以英國陸軍上將乍畏（1782-1862）命名。他在1851至1854年間擔任駐港英軍司令及曾擔任香港副總督。1851年12月28日，今日之蘇杭街一帶發生大火，燒毀數以百計華人的民居。大火導致的全區重建計劃，由乍畏監督。"
+            ],
+            "relatedItems":[               
+                {"id":"JervoisStreet"}
+            ]
+        },
+        "PossessionHK":{
+            "name":[
+                "Possession of Hong Kong Island by the British forces, 1841 ",
+                "英軍佔領香港島 (1841)"
+            ],
+            "description": [
+                "This was where British soldiers landed on 26 January 1841 to claim Hong Kong Island, so it was named Possession Point. A big puddle near the area was filled in and Possession Street was built over it.",
+                "為1841年1月26日英軍佔領香港島登陸之地，又名為「佔領角」。當時附近有一個水坑，被填平後建成今日之水坑口街。"
+            ],
+            "relatedItems":[               
+                {"id":"PossessionStreet"}
+            ]
+        },
+        "HenryWaseWhitfield":{
+            "name":[
+                "Lieutenant General Henry Wase Whitfield, British Army",
+                "英國陸軍中將威非路"
+            ],
+            "description": [
+                "This was named after Lieutenant General <br/> Henry Wase Whitfield (1814-77), the Commander of British Troops in China, Hong Kong and the Straits Settlements, and Lieutenant Governor of Hong Kong from 1869 to 1874.",
+                "以英國陸軍中將威非路（1814-77）命名。他在1869至1874年間獲任命為駐華、香港及海峽殖民地英軍司令，以及曾擔任香港副總督。"
+            ],
+            "relatedItems":[               
+                {"id":"WhitfieldRoad"},
+                {"id":"WhitfieldBarracks"}
+            ]
+        },
+        "WilsoneBlack":{
+            "name":[
+                "Major-General Sir Wilsone Black, British Army",
+                "英國陸軍少將布力爵士"
+            ],
+            "description": [
+                "This was named after Major-General <br/> Sir Wilsone Black (1837-1909), the Commander of British Troops in China and Hong Kong from 1895 to 1898. He was Acting Governor of Hong Kong for a short period in 1898.",
+                "以英國陸軍少將布力爵士（1837-1909）命名。他於1895至1898年出任駐華及香港英軍司令，其後於1898年短暫出任香港署理總督。"
+            ],
+            "relatedItems":[               
+                {"id":"BlackLink"}
+            ]
+        },
+        "WilliamHallGage":{
+            "name":[
+                "Admiral of the Fleet Sir William Hall Gage, <br/>Royal Navy",
+                "皇家海軍上將結志爵士"
+            ],
+            "description": [
+                "This was named after Admiral of the Fleet <br/> Sir William Hall Gage (1777-1864). He took part in the Battle of Cape St Vincent (1797) and the Siege of French-held Malta during the French Revolutionary Wars (1792-1802).",
+                "以英國海軍上將結志爵士（1777-1864）命名。他曾參與聖維森特角戰役（1797）及於法國大革命戰爭(1792-1802)期間圍攻法屬馬耳他。"
+            ],
+            "relatedItems":[               
+                {"id":"GageStreet"}
+            ]
+        },
+        "HarrySmithParkes":{
+            "name":[
+                "Sir Harry Smith Parkes",
+                "白加士爵士"
+            ],
+            "description": [
+                "This was named after Sir Harry Smith Parkes (1828-85), a British diplomat who served as the interpreter for Sir Henry Pottinger (1789-1856), the first governor of Hong Kong. He accompanied Pottinger on an expedition up the Yangzi River to Nanking. He was also present at the signing of the Treaty of Nanking on board HMS <i>Cornwallis</i> on <br/> 29 August 1842.",
+                "以英國外交官白加士(又名巴夏禮)爵士（1828-85）命名。他是香港首任總督<br/>砵甸乍（1789-1856）的翻譯官，曾陪同砵甸乍考察長江至南京一帶。1842年8月29<br/>日《南京條約》簽訂當日，白加士亦在英艦康華麗號參與簽約儀式。"
+            ],
+            "relatedItems":[               
+                {"id":"ParkesStreet"}
+            ]
+        },
+        "Magazines":{
+            "name":[
+                "Former magazines of the British forces",
+                "前英軍軍火庫"
+            ],
+            "description": [
+                "This was named after the nearby magazines built by the British Army between 1863 and 1868.",
+                "以附近的英軍軍火庫命名，興建於1863至1868年間。"
+            ],
+            "relatedItems":[               
+                {"id":"MagazineGapRoad"}
+            ]
+        },
+        "Arsenal":{
+            "name":[
+                "Former arsenal of the British forces",
+                "前英軍軍器廠"
+            ],
+            "description": [
+                "This was named after the arsenal adjacent to the Victoria Barracks.",
+                "以毗鄰域多利軍營的前英軍軍器廠命名。"
+            ],
+            "relatedItems":[               
+                {"id":"ArsenalStreet"}
+            ]
+        },
+        "NorthPointBattery":{
+            "name":[
+                "North Point Battery",
+                "北角炮台"
+            ],
+            "description": [
+                "This was named after the North Point Battery, which was built in 1879 and demolished in 1922.",
+                "以1879年建成的北角炮台命名，炮台其後於1922年拆卸。"
+            ],
+            "relatedItems":[               
+                {"id":"FortStreet"}
+            ]
+        },
+        "HenryPottinger":{
+            "name":[
+                "Lieutenant-General Sir Henry Pottinger, British Army",
+                "英國陸軍中將砵甸乍爵士"
+            ],
+            "description": [
+                "This was named after Lieutenant-General <br/> Sir Henry Pottinger (1789-1856), the first Governor of Hong Kong. He was appointed as the British Chief Superintendent of Trade in China, replacing Captain Charles Elliot (1801-75) during the First Opium War (1839-42). He led the British expeditionary force in northern China and negotiated the terms of the Treaty of Nanking.",
+                "以香港第一任總督砵甸乍（1789-1856）命名。他在第一次鴉片戰爭(1839-42 )期間，取代義律（1801-75）成為英國駐華商務總監。他加入英國遠征軍進軍華北，並負責就《南京條約》的條款進行談判。"
+            ],
+            "relatedItems":[               
+                {"id":"PottingerStreet"}
+            ]
+        },
+        "CharlesAlexanderAnderson":{
+            "name":[
+                "Lieutenant General Sir Charles Alexander Anderson, British Army",
+                "英國陸軍中將安達臣爵士"
+            ],
+            "description": [
+                "This was named after Lieutenant General <br/> Sir Charles Alexander Anderson (1857-1940), who was appointed Commander of British Troops in South China in 1910.",
+                "以英國陸軍中將安達臣爵士（1857-1940）命名，他於1910年獲任命為駐華南英軍<br/>司令。"
+            ],
+            "relatedItems":[               
+                {"id":"AndersonRoad"}
+            ]
+        } 
+    },
+    "map":[
+        {
+            "top":null,
+            "left":null,
+            "bottom":10,
+            "right":2,
+            "image":{
+                "src":"/images/lm01/map/1.jpg",
+                "areaSrc":"/images/lm01/map/1_area.jpg"
+            }
+        },
+        {
+            "top":null,
+            "left":1,
+            "bottom":null,
+            "right":3,
+            "image":{
+                "src":"/images/lm01/map/2.jpg",
+                "areaSrc":"/images/lm01/map/1_area.jpg"
+            }
+        },
+        {
+            "top":11,
+            "left":2,
+            "bottom":17,
+            "right":4,
+            "image":{
+                "src":"/images/lm01/map/3.jpg",
+                "areaSrc":"/images/lm01/map/1_area.jpg"
+            }
+        },
+        {
+            "top":11,
+            "left":3,
+            "bottom":18,
+            "right":5,
+            "image":{
+                "src":"/images/lm01/map/4.jpg",
+                "areaSrc":"/images/lm01/map/1_area.jpg"
+            }
+        },
+        {
+            "top":12,
+            "left":4,
+            "bottom":null,
+            "right":6,
+            "image":{
+                "src":"/images/lm01/map/5.jpg",
+                "areaSrc":"/images/lm01/map/1_area.jpg"
+            }
+        },
+        {
+            "top":13,
+            "left":5,
+            "bottom":null,
+            "right":8,
+            "image":{
+                "src":"/images/lm01/map/6.jpg",
+                "areaSrc":"/images/lm01/map/1_area.jpg"
+            }
+        },
+        {
+            "top":8,
+            "left":18,
+            "bottom":20,
+            "right":null,
+            "image":{
+                "src":"/images/lm01/map/7.jpg",
+                "areaSrc":"/images/lm01/map/1_area.jpg"
+            }
+        },
+        {
+            "top":null,
+            "left":6,
+            "bottom":7,
+            "right":null,
+            "image":{
+                "src":"/images/lm01/map/8.jpg",
+                "areaSrc":"/images/lm01/map/1_area.jpg"
+            }
+        },
+        {
+            "top":null,
+            "left":null,
+            "bottom":null,
+            "right":null,
+            "image":{
+                "src":"/images/lm01/map/9.jpg",
+                "areaSrc":"/images/lm01/map/1_area.jpg"
+            }
+        },
+        {
+            "top":1,
+            "left":null,
+            "bottom":20,
+            "right":17,
+            "image":{
+                "src":"/images/lm01/map/10.jpg",
+                "areaSrc":"/images/lm01/map/1_area.jpg"
+            }
+        },
+        {
+            "top":null,
+            "left":3,
+            "bottom":4,
+            "right":12,
+            "image":{
+                "src":"/images/lm01/map/11.jpg",
+                "areaSrc":"/images/lm01/map/1_area.jpg"
+            }
+        },
+        {
+            "top":14,
+            "left":11,
+            "bottom":5,
+            "right":13,
+            "image":{
+                "src":"/images/lm01/map/12.jpg",
+                "areaSrc":"/images/lm01/map/1_area.jpg"
+            }
+        },
+        {
+            "top":null,
+            "left":12,
+            "bottom":6,
+            "right":null,
+            "image":{
+                "src":"/images/lm01/map/13.jpg",
+                "areaSrc":"/images/lm01/map/1_area.jpg"
+            }
+        },
+        {
+            "top":15,
+            "left":null,
+            "bottom":12,
+            "right":null,
+            "image":{
+                "src":"/images/lm01/map/14.jpg",
+                "areaSrc":"/images/lm01/map/1_area.jpg"
+            }
+        },
+        {
+            "top":16,
+            "left":null,
+            "bottom":14,
+            "right":null,
+            "image":{
+                "src":"/images/lm01/map/15.jpg",
+                "areaSrc":"/images/lm01/map/1_area.jpg"
+            }
+        },
+        {
+            "top":null,
+            "left":null,
+            "bottom":15,
+            "right":null,
+            "image":{
+                "src":"/images/lm01/map/16.jpg",
+                "areaSrc":"/images/lm01/map/1_area.jpg"
+            }
+        },
+        {
+            "top":3,
+            "left":10,
+            "bottom":null,
+            "right":18,
+            "image":{
+                "src":"/images/lm01/map/17.jpg",
+                "areaSrc":"/images/lm01/map/1_area.jpg"
+            }
+        },
+        {
+            "top":4,
+            "left":17,
+            "bottom":null,
+            "right":7,
+            "image":{
+                "src":"/images/lm01/map/18.jpg",
+                "areaSrc":"/images/lm01/map/1_area.jpg"
+            }
+        },
+        {
+            "top":null,
+            "left":null,
+            "bottom":null,
+            "right":null,
+            "image":{
+                "src":"/images/lm01/map/19.jpg",
+                "areaSrc":"/images/lm01/map/1_area.jpg"
+            }
+        },
+        {
+            "top":7,
+            "left":10,
+            "bottom":null,
+            "right":null,
+            "image":{
+                "src":"/images/lm01/map/20.jpg",
+                "areaSrc":"/images/lm01/map/1_area.jpg"
+            }
+        }
+    ],
+    "images":{
+        "characters": {
+            "photos":[
+                ["/images/lm01/012_4.jpg", "MountParker"],
+                ["/images/lm01/052.jpg", "GoughStreet"],
+                ["/images/lm01/019_17.jpg", "CapeCollinson"],
+                ["/images/lm01/025_2.jpg", "CapeDAguilar"],
+                ["/images/lm01/140_2.jpg", "MurrayBarracks"],
+                ["/images/lm01/133_02.jpg", "MurrayHouse"],
+                ["/images/lm01/134_3.jpg", "BelcherBay"],
+                ["/images/lm01/010.jpg", "PedderStreet"],
+                ["/images/lm01/003.jpg", "NelsonStreet"],
+                ["/images/lm01/006_4.jpg", "BelcherStreet"],
+                ["/images/lm01/118_3.jpg", "WhitfieldBarracks"],
+                ["/images/lm01/033_2.jpg", "KellettIsland"],
+                ["/images/lm01/029_5.jpg", "AldrichBay"],
+                ["/images/lm01/001.jpg", "MurrayRoad"],
+                ["/images/lm01/004_26.jpg","NelsonStreet"],
+                ["/images/lm01/013.jpg", "MountParkerRoad"],
+                ["/images/lm01/059_1.jpg", "MountCameronRoad"],
+                ["/images/lm01/095_1.jpg", "GrahamStreet"],
+                ["/images/lm01/087.jpg", "LuardRoad"],
+                ["/images/lm01/090_12.jpg", "MountStenhouse"],
+                ["/images/lm01/074_10.jpg", "UpperLowerLascarRow"],
+                ["/images/lm01/032.jpg", "KellettIsland"],
+                ["/images/lm01/081_5.jpg", "OsbornBarracks"],
+                ["/images/lm01/035_12.jpg", "KellettBay"],
+                ["/images/lm01/007.jpg", "CaineRoad"],
+                ["/images/lm01/071_22.jpg", "HarcourtRoad"],
+                ["/images/lm01/020.jpg", "MountCollinson"],
+                ["/images/lm01/138_12.jpg", "MountKellett"]              
+            ]
+        },
+        "warships": {
+            "photos":[
+                ["/images/lm01/039.jpg", "PloverCove"],
+                ["/images/lm01/141.jpg", "TamarPark"],
+                ["/images/lm01/037_1.jpg", "PloverCoveRoad"],
+                ["/images/lm01/036_3.jpg", "PloverCove"],
+                ["/images/lm01/044_5.jpg", "HebeHeaven"],
+                ["/images/lm01/097_4.jpg", "BlenheimRoad"],
+                ["/images/lm01/042_6.jpg", "SulphurChannel"],
+                ["/images/lm01/139_11.jpg", "HebeHill"],
+                ["/images/lm01/040_22.jpg", "StarlingInlet"]
+            ]
+
+        },
+        "events": {
+            "photos":[
+                ["/images/lm01/077_17.jpg", "WaterlooRoad"],
+                ["/images/lm01/078.jpg", "WaterlooRoad"],
+                ["/images/lm01/115.jpg", "PossessionStreet"],
+                ["/images/lm01/080.jpg", "GallipoliLine"],             
+                ["/images/lm01/114_2.jpg", "PossessionStreet"],
+                ["/images/lm01/079_9.jpg", "GallipoliLine"]
+            ]
+
+        },
+        "fortification": {
+            "photos":[
+                ["/images/lm01/108_3_1.jpg", "SaiYingPun"] ,
+                ["/images/lm01/128_30.jpg", "FortStreet"],
+                ["/images/lm01/109_1.jpg", "SaiYingPun"],
+                ["/images/lm01/126_5.jpg", "ArsenalStreet"],
+                ["/images/lm01/104.jpg", "BatteryPath"],
+                ["/images/lm01/106_2.jpg", "BatteryStreet"],
+                ["/images/lm01/105_3.jpg", "BatteryPath"],
+                ["/images/lm01/127_11.jpg", "FortStreet"],
+                ["/images/lm01/107_4.jpg", "BatteryStreet"],
+                ["/images/lm01/125_7.jpg", "MagazineGapRoad"]
+            ]
+        }
+    }
+        
+    
+}

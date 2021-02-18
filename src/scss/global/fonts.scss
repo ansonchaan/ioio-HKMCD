@@ -1,0 +1,176 @@
+@font-face {
+  font-family: 'Roboto Condensed';
+  src: url('../../fonts/RobotoCondensed-Regular.woff2') format('woff2'),
+      url('../../fonts/RobotoCondensed-Regular.woff') format('woff'),
+      url('../../fonts/RobotoCondensed-Regular.ttf') format('truetype'),
+      url('../../fonts/RobotoCondensed-Regular.svg#RobotoCondensed-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Roboto Condensed';
+  src: url('../../fonts/RobotoCondensed-Bold.woff2') format('woff2'),
+      url('../../fonts/RobotoCondensed-Bold.woff') format('woff'),
+      url('../../fonts/RobotoCondensed-Bold.ttf') format('truetype'),
+      url('../../fonts/RobotoCondensed-Bold.svg#RobotoCondensed-Bold') format('svg');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Roboto Condensed';
+  src: url('../../fonts/RobotoCondensed-Light.woff2') format('woff2'),
+      url('../../fonts/RobotoCondensed-Light.woff') format('woff'),
+      url('../../fonts/RobotoCondensed-Light.ttf') format('truetype'),
+      url('../../fonts/RobotoCondensed-Light.svg#RobotoCondensed-Light') format('svg');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'MHeiHK';
+  src: url('../../fonts/MHeiHK-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+// @font-face {
+//   font-family: 'MHeiHK';
+//   src: url('../../fonts/MHeiHK-Bold-Roman.ttf') format('truetype'),
+//       url('../../fonts/MHeiHK-Bold-Roman.svg#MHeiHK-Bold-Roman') format('svg');
+//   font-weight: bold;
+//   font-style: normal;
+// }
+
+// @font-face {
+//   font-family: 'MHeiHK Heavy';
+//   src: url('../../fonts/MHeiHK-Heavy-Roman.woff2') format('woff2'),
+//       url('../../fonts/MHeiHK-Heavy-Roman.woff') format('woff'),
+//       url('../../fonts/MHeiHK-Heavy-Roman.ttf') format('truetype'),
+//       url('../../fonts/MHeiHK-Heavy-Roman.svg#MHeiHK-Heavy-Roman') format('svg');
+//   font-weight: 900;
+//   font-style: normal;
+// }
+
+@font-face {
+  font-family: 'MHeiHK Light';
+  src: url('../../fonts/MHeiHK-Light-Roman.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
+// @font-face {
+//   font-family: 'MHeiHK Xbold';
+//   src: url('../../fonts/MHeiHK-Xbold-Roman.woff2') format('woff2'),
+//       url('../../fonts/MHeiHK-Xbold-Roman.woff') format('woff');
+//   font-weight: bold;
+//   font-style: normal;
+// }
+
+// @font-face {
+//   font-family: 'MHeiHK Medium';
+//   src: url('../../fonts/MHeiHK-Medium-Roman.woff2') format('woff2'),
+//       url('../../fonts/MHeiHK-Medium-Roman.woff') format('woff');
+//   font-weight: 500;
+//   font-style: normal;
+// }
+
+
+
+
+
+
+@font-face {
+  font-family: 'Roboto';
+  src: url('../../fonts/Roboto-Regular.woff2') format('woff2'),
+      url('../../fonts/Roboto-Regular.woff') format('woff'),
+      url('../../fonts/Roboto-Regular.ttf') format('truetype'),
+      url('../../fonts/Roboto-Regular.svg#Roboto-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: url('../../fonts/Roboto-Medium.woff2') format('woff2'),
+      url('../../fonts/Roboto-Medium.woff') format('woff'),
+      url('../../fonts/Roboto-Medium.ttf') format('truetype'),
+      url('../../fonts/Roboto-Medium.svg#Roboto-Medium') format('svg');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: url('../../fonts/Roboto-Bold.woff2') format('woff2'),
+      url('../../fonts/Roboto-Bold.woff') format('woff'),
+      url('../../fonts/Roboto-Bold.ttf') format('truetype'),
+      url('../../fonts/Roboto-Bold.svg#Roboto-Bold') format('svg');
+  font-weight: bold;
+  font-style: normal;
+}
+
+
+
+
+
+
+$d01EnFont: 'Roboto Condensed', sans-serif;
+$lm01EnFont: 'Roboto', sans-serif;
+$tcFont: 'MHeiHK', sans-serif;
+
+@mixin setFont($fontsize: 50, $lineHeight: 50) {
+  font-size: vw-calc($fontsize);
+  line-height: vw-calc($lineHeight);
+}
+.en{
+  font-family: $d01EnFont;
+}
+#lm01{
+  .en{
+    font-family: $lm01EnFont;
+    font-weight: bold;
+  }
+}
+
+.tc{
+  font-family: $tcFont;
+}
+.light{
+  font-family: 'MHeiHK Light';
+}
+.heavy{
+  //-webkit-text-stroke: 0.1px;
+  font-family: 'MHeiHK'
+}
+
+h1,
+.h1 {
+  @include setFont;
+}
+
+h2,
+.h2 {
+  @include setFont(20, 24);
+}
+h3,
+.h3 {
+  @include setFont(13, 24);
+}
+h4 {
+}
+h5 {
+}
+h6,
+.h6 {
+  @include setFont(12, 18);
+}
+
+// tablet
+@media only screen and (max-width: $tablet) {
+  @include setFont(22, 34);
+}
+
+// mobile
+@media only screen and (max-width: $mobile) {
+}

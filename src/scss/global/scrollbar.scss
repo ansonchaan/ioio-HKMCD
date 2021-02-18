@@ -1,0 +1,84 @@
+
+#scrollBarOuterWrap{
+  width: vw-calc(68);
+  height: 100%;
+  padding:vw-calc(46) 0;
+  background:#F2F2F2;
+  position: absolute;
+  top:0;
+  right:0;
+  z-index: 999;
+  -webkit-animation: fadeIn 0.3s cubic-bezier(0.215, 0.61, 0.355, 1);
+  animation: fadeIn 0.3s cubic-bezier(0.215, 0.61, 0.355, 1);
+  -webkit-transition: opacity 300ms cubic-bezier(0.215, 0.61, 0.355, 1);
+  transition: opacity 300ms cubic-bezier(0.215, 0.61, 0.355, 1);
+  &.hide {
+    opacity: 0;
+    visibility: hidden;
+  }
+  #scrollBarWrap {
+    width: vw-calc(68);
+    height: 100%;
+    position: relative;
+  
+    #scrollBar {
+      width: vw-calc(39) !important;
+      height: vw-calc(176) !important;
+      background: url('../../images/lm01/scrollbar.svg') no-repeat;
+      position: absolute;
+      top: 0px;
+      left: 50%;
+      transform: translate3d(-50%,0,0);
+  
+      // -webkit-transition: background-color 300ms
+      //     cubic-bezier(0.215, 0.61, 0.355, 1),
+      //   height 600ms cubic-bezier(0.19, 1, 0.22, 1);
+      // transition: background-color 300ms cubic-bezier(0.215, 0.61, 0.355, 1),
+      //   height 600ms cubic-bezier(0.19, 1, 0.22, 1);
+  
+      // &.active,
+      // &:hover {
+      //   background-color: rgba(176, 177, 178, 0.6);
+      // }
+    }
+  }
+}
+
+#d01{
+  #scrollBarOuterWrap{
+    width: vw-calc(36);
+    padding:vw-calc(20) 0;
+    background: linear-gradient(90deg, 
+        rgba(0,0,0,0) calc(50% - 1px), 
+        #aaa08b calc(50%), 
+        rgba(0,0,0,0) calc(50% + 2px)
+    );
+    &:before{
+      content:'';
+      width:100%;
+      height:vw-calc(15);
+      background:url('../../images/d01/scrollbar_top.svg') center no-repeat;
+      position: absolute;
+      top:0;
+      left:0;
+    }
+    &:after{
+      content:'';
+      width:100%;
+      height:vw-calc(15);
+      background:url('../../images/d01/scrollbar_bot.svg') center no-repeat;
+      position: absolute;
+      bottom:0;
+      left:0;
+    }
+    #scrollBarWrap {
+      width: vw-calc(36);
+      #scrollBar {
+        width: vw-calc(35) !important;
+        height: vw-calc(35) !important;
+        background: #040000;
+        border-radius: 50%;
+      }
+    }
+  }
+}
