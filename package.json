@@ -49,6 +49,6 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "electron": "^9.0.5"
+    "electron": "^11.5.0"
   }
 }
