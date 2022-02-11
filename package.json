@@ -8,7 +8,7 @@
     "electron-is-dev": "^1.2.0",
     "flickity": "^2.2.1",
     "gsap": "^3.2.6",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "p-iteration": "^1.1.8",
     "path": "^0.12.7",
     "react": "^16.11.0",
